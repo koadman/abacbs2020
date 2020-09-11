@@ -1,40 +1,72 @@
 # Site Settings
-name: Jekflix
-title: Jekflix | A blog theme for Jekyll
-description: Jekflix is a template for Jekyll inspired by Netflix and made by
-  Thiago Rossener.
+name: The ABACBS Virtual Conference
+title: ABACBS2020 Conference
+description: The Australian Bioinformatics and Computational Biology Society's Annual Conference. A 2020 virtual event.
 tags:
-  - blog
-  - template
-  - jekyll
-  - theme
-  - netlify
+  - abacbs
+  - combine
+  - singlecell
+  - metagenomics
+  - indigenous genomics
+  - longread
+  - genomics
+  - regulation
+  - methods
+  - biomedical informatics
+  - nonmodel bioinformatics
+  - phylodynamics  
 show_hero: true
 menu:
   - title: Home
     url: /
-  - title: About
-    url: /about
-  - title: Contact
-    url: /contact
+  - title: Conference Program
+    url: /program
+  - title: Program Committee
+    url: /committee
+  - title: Long reads
+    url: /category/long_reads
+  - title: Transcriptomics/RNA
+    url: /category/transcriptomics
+  - title: Genomics
+    url: /category/genomics
+  - title: Regulation
+    url: /category/regulation
+  - title: Metagenomics
+    url: /category/metagenomics
+  - title: Single cell
+    url: /category/single_cell
+  - title: Indigenous genomics
+    url: /category/indigenous_genomics
+  - title: Methods
+    url: /category/methods
+  - title: Biomedical informatics
+    url: /category/biomed_informatics
+  - title: Non-model bioinformatics
+    url: /category/nonmodel
+  - title: Phylodynamics/COVID
+    url: /category/phylodynamics_COVID
+  - title: Plants/Fungi
+    url: /category/plants_fungi
+  - title: Other
+    url: /category/other
   - title: Feed
     url: /feed.xml
-email: youremail@test.com
-disqus_username: disqus_username
+email: conference@abacbs.org
+disqus_username: abacbs
 
 
 # Social Media Settings
 # Remove the item if you don't need it
-github_username: github_username
-facebook_username: facebook_username
-twitter_username: twitter_username
-instagram_username: instagram_username
-linkedin_username: linkedin_username
-medium_username: medium_username
+# github_username: github_username
+# facebook_username: facebook_username
+# twitter_username: twitter_username
+# instagram_username: instagram_username
+# linkedin_username: linkedin_username
+# medium_username: medium_username
 
 
 # Posts Settings
-show_time_bar: true
+show_time_bar: false
 show_modal_on_exit: false
 show_modal_on_finish_post: true
 two_columns_layout: true
@@ -42,8 +74,8 @@ two_columns_layout: true
 
 # Advanced Settings
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
-google_analytics: "UA-XXXXXXXX-X"
+url: "https://abacbs2020.abacbs.org" # the base hostname & protocol for your site
+#google_analytics: "UA-XXXXXXXX-X"
 language: "en"
 categories_folder: category
 sent_message_url: "/contact/message-sent/"
@@ -53,11 +85,11 @@ sent_message_url: "/contact/message-sent/"
 markdown: kramdown
 highlighter: rouge
 permalink: /:title/
-collections:
-  authors:
-    output: true
+#collections:
+#  authors:
+#    output: true
 paginate_path: "/page/:num/"
-show_get_theme_btn: true
+show_get_theme_btn: false
 use_logo: false
 
 # Content paginator
@@ -101,4 +133,9 @@ exclude: [
 ]
 
 # Theme
-version: v3.1.0
+version: 2020
+
+translations:
+  button:
+    read_now: "Watch Now"
+
