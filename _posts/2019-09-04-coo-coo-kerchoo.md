@@ -5,7 +5,7 @@ subtitle: "R Starr, J Lennon"
 description: "<b>R Starr, J Lennon</b><br/>Pretty little policeman..."
 comments: true
 category: walrus
-optimized_image: assets/img/KNhk6S6zR3WYtWZ_title.jpg
+optimized_image: /assets/img/KNhk6S6zR3WYtWZ_title.jpg
 videoID: KNhk6S6zR3WYtWZ
 tags:
   - walrus

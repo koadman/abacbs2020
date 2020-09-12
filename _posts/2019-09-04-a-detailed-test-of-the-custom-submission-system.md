@@ -5,7 +5,7 @@ comments: true
 category: Other
 description: "<b>Muggles Buggles, Aaron Darling</b><br/>Hi ho, hi ho, it's o..."
 videoID: YZoCUT1o8AT2R5E
-optimized_image: assets/img/YZoCUT1o8AT2R5E_title.jpg
+optimized_image: /assets/img/YZoCUT1o8AT2R5E_title.jpg
 tags:
   - metagenomics
   - long reads

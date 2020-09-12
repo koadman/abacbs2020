@@ -5,8 +5,8 @@ subtitle: "<b>From the ABACBS 2020 Conference Committee</b><br/>Learn more about
 category: abacbs
 description: "ABACBS 2020 Conference Committee<br/>A welcome and introduction to our conference site, how to use it..."
 comments: true
-image: assets/img/canberra_splash.jpg
-optimized_image: assets/img/x2yM7LcXdCSi0bm_title.jpg
+image: /assets/img/canberra_splash.jpg
+optimized_image: /assets/img/x2yM7LcXdCSi0bm_title.jpg
 videoID: 3yp2A8jVZsCKUTr
 tags:
   - abacbs

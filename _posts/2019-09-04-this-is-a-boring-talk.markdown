@@ -6,7 +6,7 @@ comments: true
 category: long_reads
 description: "<b>Groovius T Snoozius, Aaron E Darling</b><br/>blah blah blah I could go on for hours! Will you..."
 videoID: YZoCUT1o8AT2R5E
-optimized_image: assets/img/YZoCUT1o8AT2R5E_title.jpg
+optimized_image: /assets/img/YZoCUT1o8AT2R5E_title.jpg
 tags:
   - metagenomics
   - long reads
