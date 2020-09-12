@@ -138,4 +138,6 @@ version: 2020
 translations:
   button:
     read_now: "Watch Now"
+  text:
+    new_post: "Featured"
 
