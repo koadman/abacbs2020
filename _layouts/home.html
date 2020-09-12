@@ -72,10 +72,10 @@ layout: main
                         {% include read-icon.html %}
                     </a>
                     <div class="box-info">
-                        <time datetime="{{ post.date | date_to_xmlschema }}" class="date">
+<!--                        <time datetime="{{ post.date | date_to_xmlschema }}" class="date">
                             {% include date.html date=post.date %}
                         </time>
-                        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
+-->                        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
                             <h2 class="post-title">
                                 {{ post.title }}
                             </h2>
@@ -144,8 +144,9 @@ layout: main
     "mainEntity": {
         "@type": "ItemList",
         "itemListElement": [
-        {% assign limit = 8 %}
-        {% for post in posts limit: limit %}
+        {% assign limit = 16 %}
+        {% assign shuffled_array = posts | shuffle %}
+        {% for post in shuffled_array limit: limit %}
             {% assign author = site.authors | where: "name", post.author | first %}
             {
                 "@type": "BlogPosting",
