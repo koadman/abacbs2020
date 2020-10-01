@@ -14,7 +14,7 @@ tags:
   - methods
   - biomedical informatics
   - nonmodel bioinformatics
-  - phylodynamics  
+  - phylodynamics
 show_hero: true
 menu:
   - title: Home
@@ -129,7 +129,11 @@ exclude: [
   'Gemfile',
   'Gemfile.lock',
   'gulpfile.js',
-  'README.md'
+  'README.md',
+  'abacbs2020-private',
+  'bin',
+  'submission_html',
+  'submission_json'
 ]
 
 # Theme
@@ -139,5 +143,4 @@ translations:
   button:
     read_now: "Watch Now"
   text:
-    new_post: "Featured"
-
+    new_post: "Session Talk"
