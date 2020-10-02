@@ -1,7 +1,7 @@
 ---
 layout: page
-title: ABACBS2020 Conference Committee
-description: Meet the members of the ABACBS2020 Conference Committee.
+title: ABACBS2020 Conference Committees
+description: Meet the members of the ABACBS2020 Conference Committees.
 permalink: /committee/
 ---
 
@@ -15,11 +15,14 @@ This year's conference is brought to you by (TODO add photos and a short bio):
 * Sonika Tyagi
 * Fabio Zanini
 * Melanie Smith
+* Annette McGrath
 * Attila Horvath
 * Ignatius Pang
 * Jiayu Wen
 
 ## Program committees
+
+* Priyanka Surana
 
 ### Metagenomics
 * Aaron Darling (Chair)
@@ -39,3 +42,7 @@ This year's conference is brought to you by (TODO add photos and a short bio):
 * TBA
 
 ### etc
+
+## Web & Video production support
+* Frederick Jaya
+* TBA
