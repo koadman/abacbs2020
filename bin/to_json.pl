@@ -5,6 +5,23 @@ use JSON;
 
 my $BRIEF_ABSTRACT_CHARS = 50;
 
+my %topicmap = (
+  "Genomics" => "genomics",
+  "Metagenomics" => "metagenomics",
+  "Methods" => "methods",
+  "Regulation" => "regulation",
+  "Transcriptomics/RNA" => "transcriptomics",
+  "Long read sequencing" => "long_reads",
+  "Other bioinformatics" => "other",
+  "Methods" => "plants_fungi",
+  "Biomedical informatics" => "biomed_informatics",
+  "Single-cell analysis" => "single_cell",
+  "Phylodynamics &amp; COVID19" => "phylodynamics_COVID",
+  "Indigenous genomics" => "indigenous_genomics",
+  "Non-model organisms" => "nonmodel",
+  "Bioinformatics of plants &amp; fungi" => "plants_fungi"
+);
+
 sub escape_markdown{
   my $input = shift;
   $input =~ s/\\/\\\\/g; # escape backslashes first!
@@ -47,12 +64,15 @@ while(my $line=<STDIN>){
       $author_list .= ", " if($i>1);
       $author_list .= "$author_info[0] $author_info[1]";
       $author_list_hyperlinked .= ", " if($i>1);
-      if(defined $author_info[5]){
+      my $utag_l = defined $author_info[7] ? '<u>' : '';
+      my $utag_r = defined $author_info[7] ? '</u>' : '';
+
+      if(defined $author_info[5] && length($author_info[5]) > 0){
         # extract the URL
         $author_info[5] = $1 if $author_info[5] =~ /\<a.+\>(http.+)\<\/a\>/;
-        $author_list_hyperlinked .= "["."$author_info[0] $author_info[1]"."]"."($author_info[5])";
+        $author_list_hyperlinked .= "["."$utag_l$author_info[0] $author_info[1]$utag_r"."]"."($author_info[5])";
       }else{
-        $author_list_hyperlinked .= "$author_info[0] $author_info[1]";
+        $author_list_hyperlinked .= "$utag_l$author_info[0] $author_info[1]$utag_r";
       }
       $author_info[6] = defined $author_info[6] ? 1 : 0;
       $author_info[7] = defined $author_info[7] ? 1 : 0;
@@ -72,10 +92,13 @@ while(my $line=<STDIN>){
 }
 
 if($abstract{'topics'} =~ /,/){
-  my @alltopics = split(/,/, $abstract{'topics'});
+  my @alltopics = split(/\s*,\s*/, $abstract{'topics'});
   my @filttopics;
   for my $topic(@alltopics){
-    push(@filttopics, $topic) unless $topic =~ /COMBINE/;
+    next if $topic =~ /COMBINE/;
+    print STDERR "Error, topic $topic not found\n" unless exists $topicmap{$topic};
+    $topic = $topicmap{$topic} if exists $topicmap{$topic};
+    push(@filttopics, $topic);
   }
   # assign one of the remaining topics randomly
   $abstract{'topics'}=$filttopics[int(rand(@filttopics))];
