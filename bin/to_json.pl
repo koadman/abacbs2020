@@ -52,6 +52,9 @@ while(my $line=<STDIN>){
   $abstract{'video_URL'} = $1 if $line =~ /URL \(leave blank for abstract review\)\<\/td\>\<td class\=\"value\"\>(.+?)\<\/td\>\<\/tr\>/;
   $abstract{'career_stage'} = $1 if $line =~ /Career stage of presenting author\<\/td\>\<td class\=\"value\">(.+?)\<\/td\>\<\/tr\>/;
   $abstract{'keywords'} = $1 if $line =~ /Author keywords:\<\/span\>\<\/td\>\<td class=\"value\"\>\<div\>(.+?)\<\/div\>\<\/td\>\<\/tr\>/;
+  $abstract{'talk_type'} = "session" if $line =~ /Decision:\<\/td\>.+?ACCEPT\<\/b\>\<\/td\>\<\/tr\>/;
+  $abstract{'talk_type'} = "invited" if $line =~ /Decision:\<\/td\>.+?Invited Speaker\<\/b\>\<\/td\>\<\/tr\>/;
+  $abstract{'talk_type'} = "async" if $line =~ /Decision:\<\/td\>.+?async\<\/td\>\<\/tr\>/;
 
   if($line =~ /\<b\>Authors\<\/b\>\<\/td\>\<\/tr\>(.+?)\<\/tbody\>\<\/table\>\<\/div\>/){
     my $authors_block = $1;

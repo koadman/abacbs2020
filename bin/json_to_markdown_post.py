@@ -18,6 +18,10 @@ optimized_image: assets/img/{video_stillframe}
         short_abstract=json_data['short_abstract'],
         video_ID=json_data['video_ID'],
         video_stillframe=json_data['video_stillframe'])
+    if json_data['talk_type'] == 'session':
+        md_string += 'session_talk: 1\n'
+    if json_data['talk_type'] == 'invited':
+        md_string += 'invited_talk: 1\n'
     if 'keywords' in json_data:
         md_string += "tags:\n"
         for keyword in json_data['keywords']:
