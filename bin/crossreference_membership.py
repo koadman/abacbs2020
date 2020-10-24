@@ -30,6 +30,7 @@ for line in presenter_file:
     # handle special cases where names in easychair and the member db don't match
     if full_name == "Nicolas Canete".upper(): continue
     if full_name == "Malathi S.I. Dona".upper(): continue
+    if full_name == "Konstantinos Bogias".upper(): continue
 
     # handle non-member invited speakers
     if full_name == "Robert Lanfear".upper(): continue
