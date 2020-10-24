@@ -42,7 +42,8 @@ layout: main
     {% endif %}
     <!-- Posts -->
     <section id="grid" class="row flex-grid">
-        {% for post in posts offset: offset %}
+        {% assign shuffled_posts = posts | shuffle %}
+        {% for post in shuffled_posts %}
             <article class="box-item">
                 <span class="category">
                     <a href="{{ site.baseurl }}/{{ site.categories_folder | default: 'category' }}/{{ post.category }}">
@@ -68,7 +69,11 @@ layout: main
                                 <img src="/assets/img/off.jpg" width="100%">
                             </noscript>
                         {% endif %}
-                        {% include new-post-tag.html date=post.date %}
+                        {% if post.session_talk %}
+                            {% include session-talk.html %}
+                        {% elsif post.invited_talk %}
+                            {% include invited-talk.html %}
+                        {% endif %}
                         {% include read-icon.html %}
                     </a>
                     <div class="box-info">
