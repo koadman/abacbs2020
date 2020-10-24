@@ -41,7 +41,7 @@ Find me during our live conference, [in Remo Room {remo_room}, table {remo_table
 
     output_fname = json_data['title']
     output_fname = output_fname.replace(' ', '-') # replace spaces with dashes in filename
-    output_fname = "2019-09-04-"+output_fname+".md";
+    output_fname = "2020-10-23-"+output_fname+".md";
 
     post_file = open(posts_dir+"/"+output_fname, 'w')
     post_file.write(md_string)
