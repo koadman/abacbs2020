@@ -13,7 +13,6 @@ my %topicmap = (
   "Transcriptomics/RNA" => "transcriptomics",
   "Long read sequencing" => "long_reads",
   "Other bioinformatics" => "other",
-  "Methods" => "plants_fungi",
   "Biomedical informatics" => "biomed_informatics",
   "Single-cell analysis" => "single_cell",
   "Phylodynamics &amp; COVID19" => "phylodynamics_COVID",
@@ -96,13 +95,14 @@ if($abstract{'topics'} =~ /,/){
   my @filttopics;
   for my $topic(@alltopics){
     next if $topic =~ /COMBINE/;
-    print STDERR "Error, topic $topic not found\n" unless exists $topicmap{$topic};
-    $topic = $topicmap{$topic} if exists $topicmap{$topic};
     push(@filttopics, $topic);
   }
   # assign one of the remaining topics randomly
   $abstract{'topics'}=$filttopics[int(rand(@filttopics))];
 }
+print STDERR "Error, topic $abstract{'topics'} not found\n" unless exists $topicmap{$abstract{'topics'}};
+$abstract{'topics'} = $topicmap{$abstract{'topics'}} if exists $topicmap{$abstract{'topics'}};
+
 if(exists $abstract{'keywords'}){
   my @keys = split(/\<\/div\>\<div\>/, $abstract{'keywords'});
   $abstract{'keywords'} = [@keys];
