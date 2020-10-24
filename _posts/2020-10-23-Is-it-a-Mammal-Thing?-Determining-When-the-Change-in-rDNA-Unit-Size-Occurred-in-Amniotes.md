@@ -7,11 +7,11 @@ description: "<b>Emma Macdonald, Austen Ganley, Richard Edwards</b><br/>The ribo
 videoID: asdf
 optimized_image: assets/img/x2yM7LcXdCSi0bm_title.jpg
 tags:
+ - long reads
+ - evolution
+ - DNA sequencing
  - rDNA
- - Evolution
- - Amniotes
- - Long-Read Sequencing
- - Nanopore
+ - non-model organisms
 ---
 {% include cloudstorplayer.html id=page.videoID %}
 <u>Emma Macdonald</u><sup>0</sup>, Austen Ganley<sup>0</sup>, Richard Edwards<sup>1</sup><br/>

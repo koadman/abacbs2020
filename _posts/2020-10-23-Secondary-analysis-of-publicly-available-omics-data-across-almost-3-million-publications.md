@@ -2,23 +2,14 @@
 layout: post
 title:  "Secondary analysis of publicly available omics data across almost 3 million publications"
 comments: true
-category: other
+category: methods
 description: "<b>Nicholas Darci-Maher, Serghei Mangul, Kerui Peng, Dat Duong, Eleazar Eskin, Jaqueline Brito, Anushka Rajesh, Andrew Smith, Reid F. Thompson, Abhinav Nellore, Casey Greene, Jonathan Jacobs</b><br/>As today’s high throughput sequencing techniques..."
 videoID: asdf
 optimized_image: assets/img/x2yM7LcXdCSi0bm_title.jpg
 tags:
- - Secondary analysis
- - Data sharing
- - Reproducibility
- - Reusability
- - Omics
- - Sequencing
- - Repositories
- - PubMed
- - SRA
- - GEO
- - Text scraping
- - High-throughput
+ - reproducibility
+ - data sharing
+ - DNA sequencing
 ---
 {% include cloudstorplayer.html id=page.videoID %}
 [<u>Nicholas Darci-Maher</u>](https://www.linkedin.com/in/nikodarcimaher/)<sup>0</sup>, [Serghei Mangul](http://cs.ucla.edu/~serghei/)<sup>0</sup>, Kerui Peng<sup>1</sup>, Dat Duong<sup>0</sup>, [Eleazar Eskin](http://www.cs.ucla.edu/~eeskin/)<sup>0</sup>, Jaqueline Brito<sup>1</sup>, Anushka Rajesh<sup>1</sup>, Andrew Smith<sup>1</sup>, Reid F. Thompson<sup>2</sup>, Abhinav Nellore<sup>2</sup>, Casey Greene<sup>3</sup>, Jonathan Jacobs<sup>4</sup><br/>

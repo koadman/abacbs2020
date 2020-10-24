@@ -7,11 +7,11 @@ description: "<b>Jack Clarke, Richard Edwards, Vicki Thomson</b><br/>Snakes are 
 videoID: asdf
 optimized_image: assets/img/x2yM7LcXdCSi0bm_title.jpg
 tags:
- - Homology
- - Snake venom
- - venom
- - gene family
- - tandem duplication
+ - genomics
+ - evolution
+ - gene regulation
+ - homology
+ - non-model organisms
 ---
 {% include cloudstorplayer.html id=page.videoID %}
 <u>Jack Clarke</u><sup>0</sup>, Richard Edwards<sup>0</sup>, Vicki Thomson<sup>1</sup><br/>

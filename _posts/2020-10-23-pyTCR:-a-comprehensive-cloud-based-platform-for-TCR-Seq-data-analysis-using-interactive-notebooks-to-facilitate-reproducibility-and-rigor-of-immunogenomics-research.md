@@ -2,15 +2,14 @@
 layout: post
 title:  "pyTCR: a comprehensive cloud-based platform for TCR-Seq data analysis using interactive notebooks to facilitate reproducibility and rigor of immunogenomics research"
 comments: true
-category: methods
+category: biomed_informatics
 description: "<b>Kerui Peng, Jaqueline Brito, Guoyun Kao, Serghei Mangul</b><br/>T cells are crucial components of the adaptive imm..."
 videoID: asdf
 optimized_image: assets/img/x2yM7LcXdCSi0bm_title.jpg
 tags:
- - Immunogenomics
- - Reproducibility
- - Transparency
- - T cell receptor repertoire analysis
+ - reproducibility
+ - genomics
+ - immunology
 ---
 {% include cloudstorplayer.html id=page.videoID %}
 <u>Kerui Peng</u><sup>0</sup>, Jaqueline Brito<sup>0</sup>, Guoyun Kao<sup>0</sup>, Serghei Mangul<sup>0</sup><br/>

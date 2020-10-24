@@ -2,15 +2,16 @@
 layout: post
 title:  "Features that determine 5’ cryptic splice site selection in genetic disorders"
 comments: true
-category: genomics
+category: transcriptomics
 description: "<b>Ruebena Dawes, Sandra Cooper</b><br/>Background:<br/>Splicing variants are a common cau..."
 videoID: asdf
 optimized_image: assets/img/x2yM7LcXdCSi0bm_title.jpg
+session_talk: 1
 tags:
- - mRNA splicing
- - cryptic splicing
- - variant outcome prediction
- - rare disease
+ - RNA splicing
+ - biomedical informatics
+ - disease
+ - sequence variation
 ---
 {% include cloudstorplayer.html id=page.videoID %}
 [<u>Ruebena Dawes</u>](https://twitter.com/RuebenaEDawes)<sup>0</sup>, Sandra Cooper<sup>0</sup><br/>

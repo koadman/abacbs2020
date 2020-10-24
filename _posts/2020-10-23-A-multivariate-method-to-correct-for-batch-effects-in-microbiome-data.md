@@ -2,14 +2,16 @@
 layout: post
 title:  "A multivariate method to correct for batch effects in microbiome data"
 comments: true
-category: methods
+category: metagenomics
 description: "<b>Yiwen Wang, Kim-Anh Lê Cao</b><br/>Microbial research has become critical to investig..."
 videoID: asdf
 optimized_image: assets/img/x2yM7LcXdCSi0bm_title.jpg
 tags:
- - Microbiome
- - Batch effect correction
- - Multivariate methods
+ - microbiome
+ - metagenomics
+ - statistics
+ - batch effects
+ - benchmarking
 ---
 {% include cloudstorplayer.html id=page.videoID %}
 <u>Yiwen Wang</u><sup>0</sup>, Kim-Anh Lê Cao<sup>1</sup><br/>

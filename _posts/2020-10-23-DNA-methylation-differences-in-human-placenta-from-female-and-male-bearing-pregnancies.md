@@ -8,10 +8,10 @@ videoID: asdf
 optimized_image: assets/img/x2yM7LcXdCSi0bm_title.jpg
 tags:
  - DNA methylation
- - human placenta
+ - genomics
+ - gene regulation
  - sex differences
- - early pregnancy
- - Illumina EPIC array
+ - pregnancy
 ---
 {% include cloudstorplayer.html id=page.videoID %}
 <u>Qianhui Wan</u><sup>0</sup>, Melanie Smith<sup>1</sup>, Konstantinos Bogias<sup>1</sup>, Tanja Jankovic-Karasoulos<sup>0</sup>, Dale McAninch<sup>2</sup>, Dylan McCullough<sup>0</sup>, Shalem Leemaqz<sup>0</sup>, Jimmy Breen<sup>2</sup>, Claire Roberts<sup>0</sup><br/>

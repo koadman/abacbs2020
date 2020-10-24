@@ -7,10 +7,10 @@ description: "<b>Ellis Patrick, Nicolas Canete</b><br/>Understanding the interpl
 videoID: asdf
 optimized_image: assets/img/x2yM7LcXdCSi0bm_title.jpg
 tags:
- - Spatial analysis
- - Single-cell analysis
- - Multiplexed immunofluorescence imaging
- - Imaging mass cytometry
+ - single cell
+ - cytometry
+ - image analysis
+ - spatial analysis
 ---
 {% include cloudstorplayer.html id=page.videoID %}
 <u>Ellis Patrick</u><sup>0</sup>, Nicolas Canete<sup>0</sup><br/>

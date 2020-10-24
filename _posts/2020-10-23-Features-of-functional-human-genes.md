@@ -2,15 +2,17 @@
 layout: post
 title:  "Features of functional human genes"
 comments: true
-category: genomics
+category: regulation
 description: "<b>Paul Gardner, Helena Cooper</b><br/>Proteins and non-coding RNAs are functional produc..."
 videoID: asdf
 optimized_image: assets/img/x2yM7LcXdCSi0bm_title.jpg
+invited_talk: 1
 tags:
- - Genome function
- - Non-coding RNAs
- - Evolutionary conservation
- - Transcriptome
+ - genomics
+ - transcriptomics
+ - gene function
+ - non-coding RNA
+ - evolution
 ---
 {% include cloudstorplayer.html id=page.videoID %}
 [<u>Paul Gardner</u>](http://www.gardner-binflab.org/)<sup>0</sup>, Helena Cooper<sup>0</sup><br/>

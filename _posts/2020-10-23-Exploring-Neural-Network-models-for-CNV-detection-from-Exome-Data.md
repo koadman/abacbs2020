@@ -6,14 +6,11 @@ category: methods
 description: "<b>Simon Sadedin</b><br/>In recent years many methods have been developed t..."
 videoID: asdf
 optimized_image: assets/img/x2yM7LcXdCSi0bm_title.jpg
+session_talk: 1
 tags:
- - exome
- - cnv
- - copy number variant
- - neural network
  - deep learning
  - machine learning
- - genomics
+ - DNA sequencing
 ---
 {% include cloudstorplayer.html id=page.videoID %}
 <u>Simon Sadedin</u><sup>0</sup><br/>

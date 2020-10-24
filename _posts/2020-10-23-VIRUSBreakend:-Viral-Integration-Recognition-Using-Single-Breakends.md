@@ -6,11 +6,11 @@ category: genomics
 description: "<b>Daniel Cameron, Anthony Papenfuss</b><br/>An important cause of disease is the integration o..."
 videoID: asdf
 optimized_image: assets/img/x2yM7LcXdCSi0bm_title.jpg
+session_talk: 1
 tags:
- - WGS
- - viral integration
- - single breakends
- - SV
+ - structural variants
+ - DNA sequencing
+ - viruses
 ---
 {% include cloudstorplayer.html id=page.videoID %}
 <u>Daniel Cameron</u><sup>0</sup>, [Anthony Papenfuss](http://bioinf.wehi.edu.au/contacts/details_papenfuss.html)<sup>1</sup><br/>

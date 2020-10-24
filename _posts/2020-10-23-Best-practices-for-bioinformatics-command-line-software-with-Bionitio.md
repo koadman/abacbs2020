@@ -2,16 +2,14 @@
 layout: post
 title:  "Best practices for bioinformatics command-line software with Bionitio"
 comments: true
-category: other
+category: methods
 description: "<b>Bernard Pope, Peter Georgeson, Anna Syme, Jessica Chung, Michael Milton, Harriet Dashnow, Andrew Lonsdale, Clare Sloggett, David Powell</b><br/>The results-driven focus of bioinformatics means t..."
 videoID: asdf
 optimized_image: assets/img/x2yM7LcXdCSi0bm_title.jpg
 tags:
  - software development
- - best practices
- - automation
- - skills development
- - quality assurance
+ - open source
+ - methods
 ---
 {% include cloudstorplayer.html id=page.videoID %}
 [<u>Bernard Pope</u>](http://www.berniepope.id.au/)<sup>0</sup>, Peter Georgeson<sup>0</sup>, Anna Syme<sup>1</sup>, Jessica Chung<sup>0</sup>, Michael Milton<sup>2</sup>, [Harriet Dashnow](http://www.harrietdashnow.com)<sup>3</sup>, Andrew Lonsdale<sup>4</sup>, Clare Sloggett<sup>5</sup>, David Powell<sup>6</sup><br/>

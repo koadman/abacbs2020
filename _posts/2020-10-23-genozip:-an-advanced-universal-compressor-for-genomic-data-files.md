@@ -7,12 +7,9 @@ description: "<b>Divon Lan</b><br/>genozip is a new universal lossless compresso
 videoID: asdf
 optimized_image: assets/img/x2yM7LcXdCSi0bm_title.jpg
 tags:
- - compression
- - vcf
- - sam
- - bam
- - fastq
- - illumina
+ - data compression
+ - methods
+ - DNA sequencing
 ---
 {% include cloudstorplayer.html id=page.videoID %}
 <u>Divon Lan</u><sup>0</sup><br/>

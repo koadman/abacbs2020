@@ -7,9 +7,10 @@ description: "<b>Locedie Mansueto, Ramil Mauleon, Tobias Kretzschmar, Graham Kin
 videoID: asdf
 optimized_image: assets/img/x2yM7LcXdCSi0bm_title.jpg
 tags:
- - Cannabis genomics
- - Cannabis bioinformatics
- - Tripal
+ - Cannabis
+ - plants
+ - genomics
+ - open source
 ---
 {% include cloudstorplayer.html id=page.videoID %}
 <u>Locedie Mansueto</u><sup>0</sup>, Ramil Mauleon<sup>0</sup>, Tobias Kretzschmar<sup>0</sup>, Graham King<sup>0</sup><br/>

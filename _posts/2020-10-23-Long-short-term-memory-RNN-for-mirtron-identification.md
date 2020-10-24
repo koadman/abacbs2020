@@ -2,17 +2,17 @@
 layout: post
 title:  "Long short-term memory RNN for mirtron identification"
 comments: true
-category: genomics
+category: methods
 description: "<b>Ke Ding, Jiayu Wen</b><br/>MicroRNAs are small regulatory RNAs mediate extens..."
 videoID: asdf
 optimized_image: assets/img/x2yM7LcXdCSi0bm_title.jpg
+session_talk: 1
 tags:
- - mirtron
- - microRNAs
+ - transcriptomics
  - deep learning
- - recurrent neural network
- - long short-term memory
- - small RNA sequencing
+ - machine learning
+ - non-coding RNA
+ - methods
 ---
 {% include cloudstorplayer.html id=page.videoID %}
 <u>Ke Ding</u><sup>0</sup>, Jiayu Wen<sup>0</sup><br/>

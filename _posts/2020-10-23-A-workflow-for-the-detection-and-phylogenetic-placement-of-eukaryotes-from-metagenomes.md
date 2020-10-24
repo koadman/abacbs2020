@@ -2,17 +2,15 @@
 layout: post
 title:  "A workflow for the detection and phylogenetic placement of eukaryotes from metagenomes"
 comments: true
-category: metagenomics
+category: plants_fungi
 description: "<b>Heroen Verbruggen, Bobbie Shaban</b><br/>Microbial eukaryotes (protists) play key roles in ..."
 videoID: asdf
 optimized_image: assets/img/x2yM7LcXdCSi0bm_title.jpg
 tags:
- - metagenome
- - eukaryote
- - binning
- - phylogeny
- - workflow
- - biodiversity
+ - metagenomics
+ - phylogenetics
+ - phylogenomics
+ - plants
 ---
 {% include cloudstorplayer.html id=page.videoID %}
 [<u>Heroen Verbruggen</u>](http://phycoweb.net)<sup>0</sup>, Bobbie Shaban<sup>0</sup><br/>

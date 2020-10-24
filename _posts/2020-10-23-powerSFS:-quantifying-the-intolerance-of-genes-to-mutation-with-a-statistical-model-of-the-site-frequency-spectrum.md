@@ -2,15 +2,15 @@
 layout: post
 title:  "powerSFS: quantifying the intolerance of genes to mutation with a statistical model of the site frequency spectrum"
 comments: true
-category: methods
+category: genomics
 description: "<b>Loic Thibaut, Eleni Giannoulatou</b><br/>Scores of genic intolerance such as RVIS, GeVIR an..."
 videoID: asdf
 optimized_image: assets/img/x2yM7LcXdCSi0bm_title.jpg
+session_talk: 1
 tags:
- - gene intolerance score
- - LOEUF
- - gnomAD
- - site frequency spectrum
+ - genomics
+ - sequence variation
+ - statistics
 ---
 {% include cloudstorplayer.html id=page.videoID %}
 [<u>Loic Thibaut</u>](https://scholar.google.com.au/citations?user=oioaKhMAAAAJ&amp;amp;hl=en)<sup>0</sup>, Eleni Giannoulatou<sup>1</sup><br/>

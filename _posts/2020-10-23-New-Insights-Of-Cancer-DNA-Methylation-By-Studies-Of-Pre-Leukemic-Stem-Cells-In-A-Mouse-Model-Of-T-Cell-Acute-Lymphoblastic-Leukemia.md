@@ -2,15 +2,16 @@
 layout: post
 title:  "New Insights Of Cancer DNA Methylation By Studies Of Pre-Leukemic Stem Cells In A Mouse Model Of T-Cell Acute Lymphoblastic Leukemia"
 comments: true
-category: transcriptomics
+category: biomed_informatics
 description: "<b>Feng Yan, David J. Curtis, Francine E. Garrett-Bakelman, Nicholas C. Wong, Pieter Van Vlierberghe</b><br/>The role of DNA methylation in the initiation and ..."
 videoID: asdf
 optimized_image: assets/img/x2yM7LcXdCSi0bm_title.jpg
 tags:
  - DNA methylation
- - T-ALL
- - Leukemia stem cell
- - Cancer evolution
+ - cancer
+ - disease
+ - biomedical informatics
+ - evolution
 ---
 {% include cloudstorplayer.html id=page.videoID %}
 <u>Feng Yan</u><sup>0</sup>, David J. Curtis<sup>0</sup>, Francine E. Garrett-Bakelman<sup>1</sup>, Nicholas C. Wong<sup>0</sup>, Pieter Van Vlierberghe<sup>2</sup><br/>

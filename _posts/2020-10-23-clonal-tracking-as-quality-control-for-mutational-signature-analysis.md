@@ -2,16 +2,16 @@
 layout: post
 title:  "clonal tracking as quality control for mutational signature analysis"
 comments: true
-category: methods
+category: genomics
 description: "<b>Christoffer Flensburg, Ian Majewski</b><br/>High throughput sequencing of cancer samples is an..."
 videoID: asdf
 optimized_image: assets/img/x2yM7LcXdCSi0bm_title.jpg
 tags:
+ - DNA sequencing
  - cancer
- - sequencing
- - exome
- - quality control
- - clonal tracking
+ - disease
+ - sequence variation
+ - benchmarking
 ---
 {% include cloudstorplayer.html id=page.videoID %}
 <u>Christoffer Flensburg</u><sup>0</sup>, Ian Majewski<sup>1</sup><br/>

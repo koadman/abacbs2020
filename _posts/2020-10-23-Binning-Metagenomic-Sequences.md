@@ -2,14 +2,15 @@
 layout: post
 title:  "Binning Metagenomic Sequences"
 comments: true
-category: metagenomics
+category: genomics
 description: "<b>Yu Lin</b><br/>Metagenomics studies have provided key insights in..."
 videoID: asdf
 optimized_image: assets/img/x2yM7LcXdCSi0bm_title.jpg
+invited_talk: 1
 tags:
- - Metagenomics
- - Genome Assembly
- - Graph Algorithms
+ - metagenomics
+ - genome assembly
+ - graph algorithms
 ---
 {% include cloudstorplayer.html id=page.videoID %}
 [<u>Yu Lin</u>](http://users.cecs.anu.edu.au/~u1024708/)<sup>0</sup><br/>

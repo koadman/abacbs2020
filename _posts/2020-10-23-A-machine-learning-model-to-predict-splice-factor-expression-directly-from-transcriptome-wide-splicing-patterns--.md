@@ -7,9 +7,10 @@ description: "<b>A.J. Sethi, Pablo Acera Mateos, Renzo Balboa, Emiliana Weiss, A
 videoID: asdf
 optimized_image: assets/img/x2yM7LcXdCSi0bm_title.jpg
 tags:
- - pre-mRNA alternative splicing
- - Regulatory networks
- - RNA-protein interactions
+ - RNA splicing
+ - networks
+ - gene regulation
+ - machine learning
 ---
 {% include cloudstorplayer.html id=page.videoID %}
 <u>A.J. Sethi</u><sup>0</sup>, Pablo Acera Mateos<sup>0</sup>, Renzo Balboa<sup>0</sup>, Emiliana Weiss<sup>0</sup>, Attila Horvath<sup>0</sup><br/>

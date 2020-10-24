@@ -2,14 +2,15 @@
 layout: post
 title:  "A predictive model for commonly-repressed polycomb-target genes dissects DNA sequence from gene expression"
 comments: true
-category: genomics
+category: regulation
 description: "<b>Emma Gail, Sonika Tyagi, Chen Davidovich</b><br/>BACKGROUND: Histone H3 lysine 27 trimethylation (H..."
 videoID: asdf
 optimized_image: assets/img/x2yM7LcXdCSi0bm_title.jpg
+session_talk: 1
 tags:
- - transcriptional silencing
  - machine learning
- - PRC2 complex
+ - epigenetics
+ - transcription
  - gene regulation
 ---
 {% include cloudstorplayer.html id=page.videoID %}

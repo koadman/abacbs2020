@@ -2,18 +2,16 @@
 layout: post
 title:  "Over 25,000 metagenome assembled genomes reveal the development of the post-weaning pig gut microbial community"
 comments: true
-category: methods
+category: metagenomics
 description: "<b>Daniela Gaio, Matthew Z. DeMaere, Kay Anantanawat, Toni A. Chapman, Steven P. Djordjevic, Aaron E. Darling</b><br/>Building on a new lower-cost metagenome sequencing..."
 videoID: asdf
 optimized_image: assets/img/x2yM7LcXdCSi0bm_title.jpg
+session_talk: 1
 tags:
  - metagenomics
- - pig
  - microbiome
- - genomes
- - assembly
- - binning
- - NGS
+ - genome assembly
+ - agriculture
 ---
 {% include cloudstorplayer.html id=page.videoID %}
 <u>Daniela Gaio</u><sup>0</sup>, Matthew Z. DeMaere<sup>1</sup>, Kay Anantanawat<sup>1</sup>, Toni A. Chapman<sup>2</sup>, Steven P. Djordjevic<sup>1</sup>, Aaron E. Darling<sup>1</sup><br/>

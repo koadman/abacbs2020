@@ -2,14 +2,14 @@
 layout: post
 title:  "Quick determination of RNA-Seq strandedness with how_are_we_stranded_here"
 comments: true
-category: methods
+category: transcriptomics
 description: "<b>Beth Signal, Tim Kahlke</b><br/>RNA-Seq is a commonly performed method to analyse ..."
 videoID: asdf
 optimized_image: assets/img/x2yM7LcXdCSi0bm_title.jpg
 tags:
- - RNA-Seq
- - Methods
- - Quality Control
+ - transcriptomics
+ - methods
+ - benchmarking
 ---
 {% include cloudstorplayer.html id=page.videoID %}
 <u>Beth Signal</u><sup>0</sup>, Tim Kahlke<sup>1</sup><br/>

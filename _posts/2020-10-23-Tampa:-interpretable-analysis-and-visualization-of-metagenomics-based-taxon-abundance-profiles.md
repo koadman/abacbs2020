@@ -7,9 +7,9 @@ description: "<b>Jaqueline Brito, Varuni Sarwal, Serghei Mangul, David Koslicki<
 videoID: asdf
 optimized_image: assets/img/x2yM7LcXdCSi0bm_title.jpg
 tags:
- - taxonomic metagenome profiling
  - metagenomics
- - CAMI
+ - visualization
+ - taxonomy
 ---
 {% include cloudstorplayer.html id=page.videoID %}
 <u>Jaqueline Brito</u><sup>0</sup>, Varuni Sarwal<sup>1</sup>, Serghei Mangul<sup>2</sup>, David Koslicki<sup>3</sup><br/>

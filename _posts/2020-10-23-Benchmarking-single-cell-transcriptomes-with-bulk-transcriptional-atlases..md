@@ -7,9 +7,9 @@ description: "<b>Yidi Deng, Kim-Anh Lê Cao, Choi Jarny, Christine Wells</b><br/
 videoID: asdf
 optimized_image: assets/img/x2yM7LcXdCSi0bm_title.jpg
 tags:
- - Bulk Transcriptional Atlas.
- - Single Cell identity profiling.
- - Data Imputation.
+ - single cell
+ - transcriptomics
+ - benchmarking
 ---
 {% include cloudstorplayer.html id=page.videoID %}
 <u>Yidi Deng</u><sup>0</sup>, Kim-Anh Lê Cao<sup>0</sup>, Choi Jarny<sup>1</sup>, Christine Wells<sup>1</sup><br/>

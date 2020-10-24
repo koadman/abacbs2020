@@ -7,10 +7,11 @@ description: "<b>Huiwen Zheng, Atefeh Taherian Fard, Xiao Dong, Jessica Mar, Jan
 videoID: asdf
 optimized_image: assets/img/x2yM7LcXdCSi0bm_title.jpg
 tags:
- - Single-cell RNA sequencing
- - Transcriptional varibility
- - Comparative study
- - Ageing
+ - single cell
+ - transcriptomics
+ - transcription
+ - benchmarking
+ - ageing
 ---
 {% include cloudstorplayer.html id=page.videoID %}
 <u>Huiwen Zheng</u><sup>0</sup>, Atefeh Taherian Fard<sup>0</sup>, Xiao Dong<sup>1</sup>, Jessica Mar<sup>0</sup>, Jan Vijg<sup>2</sup><br/>

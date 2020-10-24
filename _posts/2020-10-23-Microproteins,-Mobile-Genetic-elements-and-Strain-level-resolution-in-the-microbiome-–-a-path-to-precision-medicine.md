@@ -6,14 +6,14 @@ category: metagenomics
 description: "<b>Ami Bhatt</b><br/> From climate change to agriculture, and human hea..."
 videoID: asdf
 optimized_image: assets/img/x2yM7LcXdCSi0bm_title.jpg
+invited_talk: 1
 tags:
+ - long reads
+ - metagenomics
  - microbiome
- - microbe
  - genomics
- - computational biology
- - human
- - translational
- - assembly
+ - genome assembly
+ - gene funcion
 ---
 {% include cloudstorplayer.html id=page.videoID %}
 [<u>Ami Bhatt</u>](http://bhattlab.com)<sup>0</sup><br/>

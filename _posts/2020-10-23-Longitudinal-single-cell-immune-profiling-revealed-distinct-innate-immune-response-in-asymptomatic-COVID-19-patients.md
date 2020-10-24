@@ -2,16 +2,15 @@
 layout: post
 title:  "Longitudinal single-cell immune profiling revealed distinct innate immune response in asymptomatic COVID-19 patients"
 comments: true
-category: transcriptomics
+category: single_cell
 description: "<b>Yue You</b><br/>Recent studies have characterized the single-cell ..."
 videoID: asdf
 optimized_image: assets/img/x2yM7LcXdCSi0bm_title.jpg
 tags:
  - COVID-19
- - Asymptomatic
- - innate immune response
- - NK cells
- - type I immunity
+ - transcriptomics
+ - immunology
+ - single cell
 ---
 {% include cloudstorplayer.html id=page.videoID %}
 <u>Yue You</u><sup>0</sup><br/>

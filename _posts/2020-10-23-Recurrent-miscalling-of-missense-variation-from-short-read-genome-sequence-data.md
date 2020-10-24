@@ -2,14 +2,14 @@
 layout: post
 title:  "Recurrent miscalling of missense variation from short-read genome sequence data"
 comments: true
-category: biomed_informatics
+category: genomics
 description: "<b>Matt Field, Dan Andrews</b><br/>Short-read resequencing of genomes produces abunda..."
 videoID: asdf
 optimized_image: assets/img/x2yM7LcXdCSi0bm_title.jpg
 tags:
- - variant
- - clinical genomics
- - precision medicine
+ - biomedical informatics
+ - DNA sequencing
+ - disease
 ---
 {% include cloudstorplayer.html id=page.videoID %}
 [<u>Matt Field</u>](https://research.jcu.edu.au/portfolio/matt.field/)<sup>0</sup>, Dan Andrews<sup>1</sup><br/>

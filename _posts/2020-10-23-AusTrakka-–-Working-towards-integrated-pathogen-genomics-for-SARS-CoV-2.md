@@ -6,11 +6,12 @@ category: phylodynamics_COVID
 description: "<b>Anders Goncalves Da Silva, Torsten Seemann, Clare Sloggett</b><br/>The COVID-19 pandemic has highlighted the need for..."
 videoID: asdf
 optimized_image: assets/img/x2yM7LcXdCSi0bm_title.jpg
+session_talk: 1
 tags:
- - SARS-CoV-2
- - genomics
+ - COVID-19
  - epidemiology
  - phylogenetics
+ - genomics
 ---
 {% include cloudstorplayer.html id=page.videoID %}
 <u>Anders Goncalves Da Silva</u><sup>0</sup>, Torsten Seemann<sup>0</sup>, Clare Sloggett<sup>0</sup><br/>

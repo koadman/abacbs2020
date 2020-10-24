@@ -2,15 +2,16 @@
 layout: post
 title:  "Characterisation of a convergent malignant phenotype in B-cell acute lymphoblastic leukaemia"
 comments: true
-category: transcriptomics
+category: biomed_informatics
 description: "<b>Adria Closa, Marina Reixachs, Eduardo Eyras</b><br/>Acute lymphoblastic leukaemia (ALL) is the most co..."
 videoID: asdf
 optimized_image: assets/img/x2yM7LcXdCSi0bm_title.jpg
+session_talk: 1
 tags:
+ - transcriptomics
+ - RNA splicing
  - cancer
- - RNA
- - leukaemia
- - splicing
+ - disease
 ---
 {% include cloudstorplayer.html id=page.videoID %}
 <u>Adria Closa</u><sup>0</sup>, Marina Reixachs<sup>0</sup>, Eduardo Eyras<sup>0</sup><br/>

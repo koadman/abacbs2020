@@ -2,15 +2,15 @@
 layout: post
 title:  "Finding signatures of alternative polyadenylation as cancer biomarkers"
 comments: true
-category: regulation
+category: biomed_informatics
 description: "<b>Nitika Kandhari, Paul Harrison, Kaylene Simpson, David Powell, Traude Beilharz, Iva Nikolic, Robert Vary, Karla Cowley</b><br/>Alternative transcript cleavage and Polyadenylatio..."
 videoID: asdf
 optimized_image: assets/img/x2yM7LcXdCSi0bm_title.jpg
+session_talk: 1
 tags:
- - alternative polyadenylation
- - triple negative breast cancer
- - canceer biomarkers
- - RNA Seq
+ - transcriptomics
+ - cancer
+ - polyadenylation
 ---
 {% include cloudstorplayer.html id=page.videoID %}
 <u>Nitika Kandhari</u><sup>0</sup>, Paul Harrison<sup>0</sup>, Kaylene Simpson<sup>1</sup>, David Powell<sup>0</sup>, Traude Beilharz<sup>0</sup>, Iva Nikolic<sup>0</sup>, Robert Vary<sup>1</sup>, Karla Cowley<sup>1</sup><br/>

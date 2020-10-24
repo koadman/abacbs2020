@@ -2,14 +2,14 @@
 layout: post
 title:  "Best practices for single-cell expression Quantitative Trait Locus (sc-eQTL) mapping studies from simulated data "
 comments: true
-category: methods
+category: single_cell
 description: "<b>Christina Azodi, Davis McCarthy</b><br/>Advances in single-cell (sc) technologies have mad..."
 videoID: asdf
 optimized_image: assets/img/x2yM7LcXdCSi0bm_title.jpg
 tags:
- - single-cell
- - simulations
- - expression quantitative trait loci
+ - single cell
+ - benchmarking
+ - eQTL
 ---
 {% include cloudstorplayer.html id=page.videoID %}
 [<u>Christina Azodi</u>](https://azodichr.github.io/)<sup>0</sup>, Davis McCarthy<sup>0</sup><br/>

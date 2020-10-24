@@ -7,11 +7,9 @@ description: "<b>Yunwei Zhang, Jean Yang, Samuel Mueller, Graham Mann</b><br/>Ut
 videoID: asdf
 optimized_image: assets/img/x2yM7LcXdCSi0bm_title.jpg
 tags:
- - risk prediction model
- - survival model
- - omics data and clinical data
- - penalised Cox model
- - Random Survival Forest model
+ - machine learning
+ - biomedical informatics
+ - clinical genomics
 ---
 {% include cloudstorplayer.html id=page.videoID %}
 <u>Yunwei Zhang</u><sup>0</sup>, Jean Yang<sup>0</sup>, Samuel Mueller<sup>1</sup>, Graham Mann<sup>2</sup><br/>

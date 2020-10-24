@@ -7,11 +7,10 @@ description: "<b>Yashpal Ramakrishnaiah, Levin Kuhlmann, Sonika Tyagi</b><br/>Lo
 videoID: asdf
 optimized_image: assets/img/x2yM7LcXdCSi0bm_title.jpg
 tags:
- - ANN
- - Deep Learning
- - Noncoding RNA
- - Bioinformatics
- - Gene regulation
+ - deep learning
+ - transcriptomics
+ - non-coding RNA
+ - gene function
 ---
 {% include cloudstorplayer.html id=page.videoID %}
 <u>Yashpal Ramakrishnaiah</u><sup>0</sup>, Levin Kuhlmann<sup>0</sup>, [Sonika Tyagi](https://tsonika-lab.erc.monash.edu/)<sup>0</sup><br/>

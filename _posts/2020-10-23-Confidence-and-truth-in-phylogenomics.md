@@ -2,14 +2,14 @@
 layout: post
 title:  "Confidence and truth in phylogenomics"
 comments: true
-category: genomics
+category: phylodynamics_COVID
 description: "<b>Robert Lanfear</b><br/>How do you estimate a good phylogeny? How do you k..."
 videoID: asdf
 optimized_image: assets/img/x2yM7LcXdCSi0bm_title.jpg
+invited_talk: 1
 tags:
  - phylogenetics
  - phylogenomics
- - bioinformatics
  - uncertainty
 ---
 {% include cloudstorplayer.html id=page.videoID %}

@@ -7,10 +7,9 @@ description: "<b>Ying Zheng, Di Yu, Jiayu Wen</b><br/>The current most effective
 videoID: asdf
 optimized_image: assets/img/x2yM7LcXdCSi0bm_title.jpg
 tags:
- - single-cell RNA-seq
- - CD8 T cells
- - immune checkpoints blockade
- - immune-related adverse events
+ - single cell
+ - transcriptomics
+ - immunology
 ---
 {% include cloudstorplayer.html id=page.videoID %}
 <u>Ying Zheng</u><sup>0</sup>, Di Yu<sup>1</sup>, Jiayu Wen<sup>0</sup><br/>

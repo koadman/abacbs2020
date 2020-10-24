@@ -6,12 +6,13 @@ category: methods
 description: "<b>Ebony Watson, Atefeh Taherian Fard, Farhad Soheilmoghaddam, Ernst Eolvetang, Jessica Mar</b><br/>Senescence is a cellular stress response character..."
 videoID: asdf
 optimized_image: assets/img/x2yM7LcXdCSi0bm_title.jpg
+session_talk: 1
 tags:
- - Cellular Senescence
- - Machine Learning
- - High-Content Imaging
- - Ageing
- - Predictive Modelling
+ - machine learning
+ - single cell
+ - image analysis
+ - senescence
+ - ageing
 ---
 {% include cloudstorplayer.html id=page.videoID %}
 <u>Ebony Watson</u><sup>0</sup>, Atefeh Taherian Fard<sup>0</sup>, Farhad Soheilmoghaddam<sup>0</sup>, Ernst Eolvetang<sup>0</sup>, Jessica Mar<sup>0</sup><br/>

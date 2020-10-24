@@ -7,10 +7,10 @@ description: "<b>Tarun Bonu, Sonika Tyagi</b><br/>DNA or RNA motifs are short (5
 videoID: asdf
 optimized_image: assets/img/x2yM7LcXdCSi0bm_title.jpg
 tags:
- - Regulation
- - Transcription Factor
- - RNA Binding Protein
- - Deep Learning
+ - deep learning
+ - machine learning
+ - sequence analysis
+ - gene regulation
 ---
 {% include cloudstorplayer.html id=page.videoID %}
 <u>Tarun Bonu</u><sup>0</sup>, Sonika Tyagi<sup>0</sup><br/>

@@ -2,14 +2,15 @@
 layout: post
 title:  "propeller: finding statistically significant differences in cell type proportions in single cell RNA-seq experiments"
 comments: true
-category: methods
+category: single_cell
 description: "<b>Belinda Phipson, Evangelyn Sim, Enzo Porrello, Alicia Oshlack</b><br/>Single cell RNA Sequencing (scRNA-seq) has rapidly..."
 videoID: asdf
 optimized_image: assets/img/x2yM7LcXdCSi0bm_title.jpg
+session_talk: 1
 tags:
- - single cell RNA-seq
- - differential cell type proportions
- - statistical modelling
+ - single cell
+ - transcriptomics
+ - statistics
 ---
 {% include cloudstorplayer.html id=page.videoID %}
 <u>Belinda Phipson</u><sup>0</sup>, Evangelyn Sim<sup>1</sup>, Enzo Porrello<sup>1</sup>, Alicia Oshlack<sup>0</sup><br/>

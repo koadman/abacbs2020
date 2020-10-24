@@ -7,11 +7,9 @@ description: "<b>Amy Longmuir, Peter Beech, Mark Richardson</b><br/>The plant pa
 videoID: asdf
 optimized_image: assets/img/x2yM7LcXdCSi0bm_title.jpg
 tags:
- - Phytophthora genome
- - Phytophthora cinnamomi
- - Oomycete
- - Plant pathogen
- - Long read sequencing
+ - pathogens
+ - long reads
+ - plants
 ---
 {% include cloudstorplayer.html id=page.videoID %}
 <u>Amy Longmuir</u><sup>0</sup>, Peter Beech<sup>0</sup>, Mark Richardson<sup>0</sup><br/>

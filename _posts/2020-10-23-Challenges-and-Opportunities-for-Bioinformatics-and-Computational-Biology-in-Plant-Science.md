@@ -6,10 +6,13 @@ category: plants_fungi
 description: "<b>Seung Rhee</b><br/>Plants make up the biggest biotic component of the..."
 videoID: asdf
 optimized_image: assets/img/x2yM7LcXdCSi0bm_title.jpg
+invited_talk: 1
 tags:
- - gene function annotation
- - plant science
- - plant cell atlas
+ - gene function
+ - gene annotation
+ - single cell
+ - genomics
+ - plants
 ---
 {% include cloudstorplayer.html id=page.videoID %}
 [<u>Seung Rhee</u>](http://dpb.carnegiescience.edu/labs/rhee-lab)<sup>0</sup><br/>

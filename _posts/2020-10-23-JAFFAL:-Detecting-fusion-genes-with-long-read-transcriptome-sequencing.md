@@ -2,16 +2,15 @@
 layout: post
 title:  "JAFFAL: Detecting fusion genes with long read transcriptome sequencing"
 comments: true
-category: transcriptomics
+category: long_reads
 description: "<b>Nadia Davidson, Ying Chen, Jonathan Göke, Alicia Oshlack</b><br/>Genomic rearrangements are common in the cancer la..."
 videoID: asdf
 optimized_image: assets/img/x2yM7LcXdCSi0bm_title.jpg
+session_talk: 1
 tags:
- - Long reads
- - Transcriptome
- - Fusion genes
- - Cancer
- - Nanopore
+ - long reads
+ - transcriptomics
+ - cancer
 ---
 {% include cloudstorplayer.html id=page.videoID %}
 <u>Nadia Davidson</u><sup>0</sup>, Ying Chen<sup>1</sup>, Jonathan Göke<sup>1</sup>, Alicia Oshlack<sup>0</sup><br/>

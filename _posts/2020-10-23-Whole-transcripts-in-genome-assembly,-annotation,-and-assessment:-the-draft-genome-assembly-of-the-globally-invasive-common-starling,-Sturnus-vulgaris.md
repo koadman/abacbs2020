@@ -6,11 +6,13 @@ category: nonmodel
 description: "<b>Katarina Stuart, Yuanyuan Cheng, Lee Rollins, Richard Edwards</b><br/>Native to the Palearctic, the common starling (Stu..."
 videoID: asdf
 optimized_image: assets/img/x2yM7LcXdCSi0bm_title.jpg
+session_talk: 1
 tags:
- - Sturnus vulgaris
  - genome assembly
- - genome annotation
- - full-length transcripts
+ - genomics
+ - transcriptomics
+ - gene annotation
+ - non-model organisms
 ---
 {% include cloudstorplayer.html id=page.videoID %}
 <u>Katarina Stuart</u><sup>0</sup>, Yuanyuan Cheng<sup>1</sup>, Lee Rollins<sup>0</sup>, Richard Edwards<sup>0</sup><br/>

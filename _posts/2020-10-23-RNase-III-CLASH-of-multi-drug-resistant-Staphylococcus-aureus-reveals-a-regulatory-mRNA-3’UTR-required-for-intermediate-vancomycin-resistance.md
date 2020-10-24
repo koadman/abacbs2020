@@ -2,15 +2,15 @@
 layout: post
 title:  "RNase III-CLASH of multi-drug resistant Staphylococcus aureus reveals a regulatory mRNA 3’UTR required for intermediate vancomycin resistance"
 comments: true
-category: transcriptomics
+category: regulation
 description: "<b>Daniel G. Mediati, Julia L. Wong, Wei Gao, Stuart MacKellar, Chi Nam Ignatius Pang, Sylvania Wu, Winton Wu, Brandon Sy, Ian Monk, Joanna Richmond, Benjamin Howden, Tim P. Stinear, Sander Granneman, Jai J. Tree</b><br/>Treatment of methicillin-resistant Staphylococcus ..."
 videoID: asdf
 optimized_image: assets/img/x2yM7LcXdCSi0bm_title.jpg
+session_talk: 1
 tags:
- - RNA-RNA interactions
- - networks
- - antibiotic resistance
  - transcriptomics
+ - networks
+ - resistance
  - bacteria
 ---
 {% include cloudstorplayer.html id=page.videoID %}

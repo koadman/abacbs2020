@@ -2,16 +2,14 @@
 layout: post
 title:  "Metagenomic Geolocation with Read Signature Clustering"
 comments: true
-category: methods
+category: metagenomics
 description: "<b>Timothy Chappell, Shlomo Geva, James Hogan, David Lovell, Dimitri Perrin, Andrew Trotman</b><br/>Metagenomic sequencing produces large quantities o..."
 videoID: asdf
 optimized_image: assets/img/x2yM7LcXdCSi0bm_title.jpg
 tags:
+ - metagenomics
  - clustering
  - geolocation
- - read signatures
- - random projection
- - k-mers
 ---
 {% include cloudstorplayer.html id=page.videoID %}
 Timothy Chappell<sup>0</sup>, Shlomo Geva<sup>0</sup>, <u>James Hogan</u><sup>0</sup>, David Lovell<sup>1</sup>, Dimitri Perrin<sup>0</sup>, Andrew Trotman<sup>2</sup><br/>

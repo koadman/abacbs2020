@@ -2,17 +2,17 @@
 layout: post
 title:  "Anthroponotic transmission and adaptive introgression underlies cryptic population structure of Cryptosporidium hominis in Africa "
 comments: true
-category: genomics
+category: nonmodel
 description: "<b>Swapnil Tichkule, Aaron Jex, Cock Van Oosterhout, Simone Cacciò</b><br/>INTRODUCTION: Cryptosporidiosis is a major cause o..."
 videoID: asdf
 optimized_image: assets/img/x2yM7LcXdCSi0bm_title.jpg
+session_talk: 1
 tags:
- - Cryptosporidium hominis
- - whole genome sequencing
- - comparative genomics
- - population structure
+ - DNA sequencing
+ - introgression
  - recombination
- - genetic introgression
+ - evolution
+ - non-model organisms
 ---
 {% include cloudstorplayer.html id=page.videoID %}
 <u>Swapnil Tichkule</u><sup>0</sup>, Aaron Jex<sup>0</sup>, Cock Van Oosterhout<sup>1</sup>, Simone Cacciò<sup>2</sup><br/>

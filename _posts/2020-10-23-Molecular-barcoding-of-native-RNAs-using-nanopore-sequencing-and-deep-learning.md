@@ -2,16 +2,15 @@
 layout: post
 title:  "Molecular barcoding of native RNAs using nanopore sequencing and deep learning"
 comments: true
-category: transcriptomics
+category: long_reads
 description: "<b>Martin A. Smith, Tansel Ersavas, James Ferguson, Huanle Liu, Morghan C. Lucas, Oguzhan Begik, Lilly Bojarski, Kirston Barton, Eva Maria Novoa</b><br/>Nanopore sequencing enables direct measurement of ..."
 videoID: asdf
 optimized_image: assets/img/x2yM7LcXdCSi0bm_title.jpg
 tags:
- - nanopore
- - RNA
- - multiplexing
- - demultiplexing
+ - long reads
+ - transcriptomics
  - deep learning
+ - methods
 ---
 {% include cloudstorplayer.html id=page.videoID %}
 Martin A. Smith<sup>0</sup>, Tansel Ersavas<sup>1</sup>, <u>James Ferguson</u><sup>1</sup>, Huanle Liu<sup>2</sup>, Morghan C. Lucas<sup>2</sup>, Oguzhan Begik<sup>2</sup>, Lilly Bojarski<sup>1</sup>, Kirston Barton<sup>1</sup>, Eva Maria Novoa<sup>2</sup><br/>

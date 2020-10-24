@@ -7,11 +7,9 @@ description: "<b>Mark Pinese, Emilie Wilkie, Mark Cowley</b><br/>Polygenic score
 videoID: asdf
 optimized_image: assets/img/x2yM7LcXdCSi0bm_title.jpg
 tags:
- - polygenic scores
  - genomics
- - software
- - gwas
- - genetics
+ - sequence variation
+ - statistics
 ---
 {% include cloudstorplayer.html id=page.videoID %}
 <u>Mark Pinese</u><sup>0</sup>, Emilie Wilkie<sup>0</sup>, Mark Cowley<sup>0</sup><br/>

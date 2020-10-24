@@ -2,16 +2,16 @@
 layout: post
 title:  "Characterising Diversity in Gene Regulation Across the Indonesian Archipelago"
 comments: true
-category: transcriptomics
+category: indigenous_genomics
 description: "<b>Irene Gallego Romero</b><br/>Title: Genetic Drivers Of Gene Expression And DNA ..."
 videoID: asdf
 optimized_image: assets/img/x2yM7LcXdCSi0bm_title.jpg
+session_talk: 1
 tags:
- - Indonesia
- - RNA-seq
- - diversity
+ - transcriptomics
+ - genomics
+ - introgression
  - gene regulation
- - Denisovan introgression
 ---
 {% include cloudstorplayer.html id=page.videoID %}
 <u>Irene Gallego Romero</u><sup>0</sup><br/>

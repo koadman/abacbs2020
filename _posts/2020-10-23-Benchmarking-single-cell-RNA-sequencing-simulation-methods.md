@@ -6,10 +6,11 @@ category: single_cell
 description: "<b>Yue Cao, Pengyi Yang, Jean Yang</b><br/>Single cell RNA-sequencing (scRNA-seq) is a powerf..."
 videoID: asdf
 optimized_image: assets/img/x2yM7LcXdCSi0bm_title.jpg
+session_talk: 1
 tags:
- - single-cell analysis
- - simulation
- - benchmark
+ - single cell
+ - transcriptomics
+ - benchmarking
 ---
 {% include cloudstorplayer.html id=page.videoID %}
 <u>Yue Cao</u><sup>0</sup>, Pengyi Yang<sup>0</sup>, Jean Yang<sup>0</sup><br/>

@@ -6,14 +6,11 @@ category: single_cell
 description: "<b>Adam Chan, Ellis Patrick, Jean Yang</b><br/>With the progressive influx of high dimensional cy..."
 videoID: asdf
 optimized_image: assets/img/x2yM7LcXdCSi0bm_title.jpg
+session_talk: 1
 tags:
- - mass cytometry
- - analysis
- - hierarchy
- - flow cytometry
  - single cell
  - statistics
- - high dimensional cytometry
+ - cytometry
 ---
 {% include cloudstorplayer.html id=page.videoID %}
 <u>Adam Chan</u><sup>0</sup>, [Ellis Patrick](https://ellispatrick.github.io/)<sup>0</sup>, Jean Yang<sup>0</sup><br/>

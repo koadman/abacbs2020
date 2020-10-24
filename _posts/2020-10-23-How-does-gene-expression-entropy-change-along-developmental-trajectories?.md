@@ -6,13 +6,12 @@ category: methods
 description: "<b>Elisabeth Roesch, Anissa Guillemin, Michael P.H. Stumpf</b><br/>The differentiation of stem or progenitor cells is..."
 videoID: asdf
 optimized_image: assets/img/x2yM7LcXdCSi0bm_title.jpg
+session_talk: 1
 tags:
- - cell fate decision making
- - developmental trajectories
- - molecular noise
- - gene expression entropy
- - Waddington’s epigenetic landscape
- - bifurcations
+ - single cell
+ - transcriptomics
+ - gene regulation
+ - development
 ---
 {% include cloudstorplayer.html id=page.videoID %}
 [<u>Elisabeth Roesch</u>](https://elisabethroesch.github.io)<sup>0</sup>, Anissa Guillemin<sup>0</sup>, Michael P.H. Stumpf<sup>0</sup><br/>

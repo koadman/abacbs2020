@@ -2,15 +2,16 @@
 layout: post
 title:  "Developing a computational safeguard to detect gene drive systems in wild populations"
 comments: true
-category: genomics
+category: nonmodel
 description: "<b>Aidan Tay, Cameron Hosking, Brendan Hosking, Suzanne Scott, Daniel Reti, Aidan O'Brien, Denis Bauer, Laurence Wilson</b><br/>Genome editing technologies such as CRISPR-Cas9, h..."
 videoID: asdf
 optimized_image: assets/img/x2yM7LcXdCSi0bm_title.jpg
+session_talk: 1
 tags:
- - Genomics
- - Genome editing
- - Gene drive
- - Biosecurity
+ - genomics
+ - genome editing
+ - biosecurity
+ - non-model organisms
 ---
 {% include cloudstorplayer.html id=page.videoID %}
 <u>Aidan Tay</u><sup>0</sup>, Cameron Hosking<sup>0</sup>, Brendan Hosking<sup>0</sup>, Suzanne Scott<sup>0</sup>, Daniel Reti<sup>0</sup>, Aidan O'Brien<sup>0</sup>, Denis Bauer<sup>0</sup>, Laurence Wilson<sup>0</sup><br/>

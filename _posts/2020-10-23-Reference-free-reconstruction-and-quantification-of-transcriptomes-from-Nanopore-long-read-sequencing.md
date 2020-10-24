@@ -2,15 +2,14 @@
 layout: post
 title:  "Reference-free reconstruction and quantification of transcriptomes from Nanopore long-read sequencing"
 comments: true
-category: transcriptomics
+category: long_reads
 description: "<b>Ivan de la Rubia, Joel Indi, Silvia Carbonell-Sala, Julien Lagarde, Mar Alba, Eduardo Eyras</b><br/>Single-molecule long-read sequencing with Nanopore..."
 videoID: asdf
 optimized_image: assets/img/x2yM7LcXdCSi0bm_title.jpg
 tags:
  - long reads
- - nanopore
  - transcriptomics
- - transcript isoforms
+ - benchmarking
  - reference-free
 ---
 {% include cloudstorplayer.html id=page.videoID %}

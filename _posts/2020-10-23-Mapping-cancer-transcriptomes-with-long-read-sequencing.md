@@ -2,15 +2,17 @@
 layout: post
 title:  "Mapping cancer transcriptomes with long-read sequencing"
 comments: true
-category: transcriptomics
+category: long_reads
 description: "<b>Stephen Kazakoff, Pamela Mukhopadhyay, Futoshi Kawamata, Catherine Bond, Katia Nones, Akinobu Takeomi, Vicki Whitehall, Ann-Marie Patch</b><br/>Whilst tissue-specific transcript expression is hi..."
 videoID: asdf
 optimized_image: assets/img/x2yM7LcXdCSi0bm_title.jpg
+session_talk: 1
 tags:
- - Cancer transcriptomics
- - long-read sequencing
- - RNA isoforms
- - Cancer genomics
+ - long reads
+ - transcriptomics
+ - cancer
+ - disease
+ - alternative splicing
 ---
 {% include cloudstorplayer.html id=page.videoID %}
 <u>Stephen Kazakoff</u><sup>0</sup>, Pamela Mukhopadhyay<sup>0</sup>, Futoshi Kawamata<sup>1</sup>, Catherine Bond<sup>0</sup>, Katia Nones<sup>0</sup>, Akinobu Takeomi<sup>1</sup>, Vicki Whitehall<sup>0</sup>, Ann-Marie Patch<sup>0</sup><br/>

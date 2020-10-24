@@ -7,12 +7,11 @@ description: "<b>Konstantinos Bogias, Stephen Pederson, Qianhui Wan, Melanie Smi
 videoID: asdf
 optimized_image: assets/img/x2yM7LcXdCSi0bm_title.jpg
 tags:
- - RNA sequencing
- - Human placenta
- - Differential Expression
- - Alternative Splicing
- - Differential Transcript Usage
- - Early placental development
+ - transcriptomics
+ - alternative splicing
+ - development
+ - pregnancy
+ - RNA splicing
 ---
 {% include cloudstorplayer.html id=page.videoID %}
 <u>Konstantinos Bogias</u><sup>0</sup>, Stephen Pederson<sup>1</sup>, Qianhui Wan<sup>2</sup>, Melanie Smith<sup>0</sup>, James Breen<sup>3</sup>, Claire Roberts<sup>2</sup><br/>

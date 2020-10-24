@@ -7,14 +7,10 @@ description: "<b>Marek Cmero, Breon Schmidt, Ian Majewski, Paul Ekert, Nadia Dav
 videoID: asdf
 optimized_image: assets/img/x2yM7LcXdCSi0bm_title.jpg
 tags:
- - RNA-seq
- - equivalence classes
- - differential expression
- - differential transcript usage
- - transcribed structural variant
- - splice variant
- - rare disease
+ - transcriptomics
  - cancer
+ - alternative splicing
+ - disease
 ---
 {% include cloudstorplayer.html id=page.videoID %}
 <u>Marek Cmero</u><sup>0</sup>, Breon Schmidt<sup>0</sup>, Ian Majewski<sup>1</sup>, Paul Ekert<sup>2</sup>, Nadia Davidson<sup>0</sup>, Alicia Oshlack<sup>0</sup><br/>

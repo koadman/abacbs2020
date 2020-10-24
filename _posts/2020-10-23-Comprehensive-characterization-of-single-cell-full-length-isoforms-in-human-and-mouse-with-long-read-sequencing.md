@@ -6,11 +6,12 @@ category: long_reads
 description: "<b>Luyi Tian, Jafar Jabbari, Matthew Ritchie</b><br/>Alternative splicing shapes the phenotype of cells..."
 videoID: asdf
 optimized_image: assets/img/x2yM7LcXdCSi0bm_title.jpg
+session_talk: 1
 tags:
  - single cell genomic
- - long-read sequencing
- - single cell multi-omics
- - transcriptomic
+ -  long-read sequencing
+ -  single cell multi-omics
+ -  transcriptomic
 ---
 {% include cloudstorplayer.html id=page.videoID %}
 <u>Luyi Tian</u><sup>0</sup>, Jafar Jabbari<sup>1</sup>, Matthew Ritchie<sup>0</sup><br/>

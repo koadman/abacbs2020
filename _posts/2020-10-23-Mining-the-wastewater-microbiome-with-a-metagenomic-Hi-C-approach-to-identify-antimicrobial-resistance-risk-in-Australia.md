@@ -8,11 +8,9 @@ videoID: asdf
 optimized_image: assets/img/x2yM7LcXdCSi0bm_title.jpg
 tags:
  - metagenomics
- - wastewater
  - microbiome
- - antimicrobial resistance
  - genome assembly
- - Hi-C sequencing
+ - Hi-C
 ---
 {% include cloudstorplayer.html id=page.videoID %}
 <u>Johanna Wong</u><sup>0</sup>, Ethan Wyrsch<sup>0</sup>, Daniel Bogema<sup>1</sup>, Faisal Hai<sup>2</sup>, Jawad Al-Rifai<sup>2</sup>, Kay Anantanawat<sup>0</sup>, Matthew DeMaere<sup>0</sup>, Sotirios Vasileiadis<sup>3</sup>, Erica Donner<sup>4</sup>, Steven Djordjevic<sup>0</sup>, Aaron Darling<sup>0</sup><br/>

@@ -2,16 +2,17 @@
 layout: post
 title:  "Comparative 3D Genome Organization in Apicomplexan Parasites"
 comments: true
-category: transcriptomics
+category: nonmodel
 description: "<b>Evelien Bunnik, Aarthi Venkat, Ferhat Ay, Karine Le Roch</b><br/>The malaria parasite, Plasmodium falciparum, is a ..."
 videoID: asdf
 optimized_image: assets/img/x2yM7LcXdCSi0bm_title.jpg
+invited_talk: 1
 tags:
- - 3D genome
- - Gene regulation
  - Hi-C
- - Malaria
- - Apicomplexan Parasites
+ - gene regulation
+ - malaria
+ - 3D genome
+ - non-model organisms
 ---
 {% include cloudstorplayer.html id=page.videoID %}
 Evelien Bunnik<sup>0</sup>, Aarthi Venkat<sup>1</sup>, Ferhat Ay<sup>1</sup>, <u>Karine Le Roch</u><sup>2</sup><br/>

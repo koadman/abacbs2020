@@ -2,17 +2,14 @@
 layout: post
 title:  "qc3C – reference-free quality assessment for Hi-C sequencing data."
 comments: true
-category: other
+category: genomics
 description: "<b>Matthew DeMaere, Aaron Darling</b><br/>Hi-C is a sample preparation method that enables h..."
 videoID: asdf
 optimized_image: assets/img/x2yM7LcXdCSi0bm_title.jpg
 tags:
- - dna sequencing
- - hi-c sequencing
- - hi-c quality control
- - next generation sequencing
- - k-mer analysis
- - reference free quality control
+ - DNA sequencing
+ - Hi-C
+ - reference-free. Benchmarking
 ---
 {% include cloudstorplayer.html id=page.videoID %}
 [<u>Matthew DeMaere</u>](https://github.com/cerebis)<sup>0</sup>, [Aaron Darling](http://darlinglab.org/)<sup>0</sup><br/>

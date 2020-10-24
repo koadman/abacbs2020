@@ -7,10 +7,7 @@ description: "<b>Yatish Jain, Brendan Hosking, Laurence Wilson, Natalie Twine, A
 videoID: asdf
 optimized_image: assets/img/x2yM7LcXdCSi0bm_title.jpg
 tags:
- - Beacon
- - Cloud-native
- - Genomics
- - Serverless
+ - genomics
  - COVID-19
 ---
 {% include cloudstorplayer.html id=page.videoID %}

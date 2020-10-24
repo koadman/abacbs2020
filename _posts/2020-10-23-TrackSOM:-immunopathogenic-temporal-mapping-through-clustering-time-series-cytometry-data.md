@@ -2,16 +2,16 @@
 layout: post
 title:  "TrackSOM: immunopathogenic temporal mapping through clustering time-series cytometry data"
 comments: true
-category: methods
+category: single_cell
 description: "<b>Givanna H. Putri, Jonathan Chung, Davis N. Edwards, Felix Marsh-Wakefield, Suat Dervish, Irena Koprinska, Nicholas J.C. King, Thomas M. Ashhurst, Mark Read</b><br/>Disease, and our immune response to it, are dynami..."
 videoID: asdf
 optimized_image: assets/img/x2yM7LcXdCSi0bm_title.jpg
 tags:
- - Clustering
- - Machine Learning
- - Single-cell
- - Cytometry
- - Immune Response
+ - single cell
+ - clustering
+ - machine learning
+ - cytometry
+ - immunology
 ---
 {% include cloudstorplayer.html id=page.videoID %}
 Givanna H. Putri<sup>0</sup>, Jonathan Chung<sup>0</sup>, Davis N. Edwards<sup>0</sup>, Felix Marsh-Wakefield<sup>0</sup>, Suat Dervish<sup>1</sup>, Irena Koprinska<sup>1</sup>, Nicholas J.C. King<sup>1</sup>, Thomas M. Ashhurst<sup>1</sup>, <u>Mark Read</u><sup>1</sup><br/>

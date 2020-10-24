@@ -2,14 +2,13 @@
 layout: post
 title:  "Recovery of complete genomes and non-chromosomal replicons from activated sludge enrichment microbial communities using Nanopore long read metagenome sequencing"
 comments: true
-category: long_reads
+category: metagenomics
 description: "<b>Rohan Williams, Krithika Arumugam, Irina Bessarab, Mindia Haryono, Xianghui Liu, Rogelio Montanez, Samarpita Roy, Guanglei Qiu, Daniela Drautz-Moses, Yingyu Law, Stefan Wuertz, Federico Lauro, Daniel Huson</b><br/>New long read sequencing technologies offer huge p..."
 videoID: asdf
 optimized_image: assets/img/x2yM7LcXdCSi0bm_title.jpg
 tags:
- - long read metagenomics
- - nanopore sequencing
- - activated sludge
+ - long reads
+ - metagenomics
  - wastewater
 ---
 {% include cloudstorplayer.html id=page.videoID %}

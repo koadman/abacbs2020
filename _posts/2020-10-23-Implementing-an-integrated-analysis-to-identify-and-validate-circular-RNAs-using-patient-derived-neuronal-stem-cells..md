@@ -6,10 +6,11 @@ category: transcriptomics
 description: "<b>Oak Hatzimanolis, Alan Mackay-Sim, Alexandre Cristino</b><br/>In recent years it has been determined that a larg..."
 videoID: asdf
 optimized_image: assets/img/x2yM7LcXdCSi0bm_title.jpg
+session_talk: 1
 tags:
- - circRNA
- - microRNA
- - Schizophrenia
+ - transcriptomics
+ - circular RNAs
+ - disease
 ---
 {% include cloudstorplayer.html id=page.videoID %}
 <u>Oak Hatzimanolis</u><sup>0</sup>, Alan Mackay-Sim<sup>0</sup>, Alexandre Cristino<sup>0</sup><br/>

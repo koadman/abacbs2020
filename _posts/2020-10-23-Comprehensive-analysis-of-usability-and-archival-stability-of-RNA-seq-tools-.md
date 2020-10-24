@@ -7,11 +7,10 @@ description: "<b>Karishma Chhugani, Dhrithi Deshpande, Serghei Mangul</b><br/>As
 videoID: asdf
 optimized_image: assets/img/x2yM7LcXdCSi0bm_title.jpg
 tags:
- - Usability
- - Archival Stability
- - RNA-seq
- - Package managers
- - Reproducibility
+ - transcriptomics
+ - reproducibility
+ - open source
+ - methods
 ---
 {% include cloudstorplayer.html id=page.videoID %}
 <u>Karishma Chhugani</u><sup>0</sup>, Dhrithi Deshpande<sup>0</sup>, [Serghei Mangul](http://sergheimangul.com)<sup>1</sup><br/>

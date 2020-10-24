@@ -7,11 +7,10 @@ description: "<b>Caleb Lau, Terry Speed, Sarah Russell, Damien Hicks</b><br/>Cel
 videoID: asdf
 optimized_image: assets/img/x2yM7LcXdCSi0bm_title.jpg
 tags:
- - Cell lineage trees
- - Cell fate specification
- - Missing data
- - Development
- - Differentiation
+ - single cell
+ - methods
+ - development
+ - differentiation
 ---
 {% include cloudstorplayer.html id=page.videoID %}
 <u>Caleb Lau</u><sup>0</sup>, Terry Speed<sup>1</sup>, Sarah Russell<sup>2</sup>, Damien Hicks<sup>0</sup><br/>

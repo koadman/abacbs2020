@@ -2,17 +2,14 @@
 layout: post
 title:  "Detection and identification of cis-regulatory elements using change-point and classification algorithms"
 comments: true
-category: other
+category: regulation
 description: "<b>Dominic Maderazo, Jennifer Flegg, Manjula Algama, Mirana Ramialison, Jonathan Keith</b><br/>Transcriptional regulation is primarily mediated b..."
 videoID: asdf
 optimized_image: assets/img/x2yM7LcXdCSi0bm_title.jpg
 tags:
- - Alignment
- - Computational biology
- - Bayesian
- - Classification
- - Segmentation
- - Conservation
+ - sequence analysis
+ - sequence alignment
+ - classification algorithms 
 ---
 {% include cloudstorplayer.html id=page.videoID %}
 <u>Dominic Maderazo</u><sup>0</sup>, Jennifer Flegg<sup>0</sup>, Manjula Algama<sup>1</sup>, Mirana Ramialison<sup>2</sup>, Jonathan Keith<sup>3</sup><br/>

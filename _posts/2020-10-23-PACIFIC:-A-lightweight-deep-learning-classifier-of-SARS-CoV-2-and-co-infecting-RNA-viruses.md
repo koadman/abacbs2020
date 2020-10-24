@@ -7,13 +7,11 @@ description: "<b>Pablo Acera Mateos, Renzo Balboa, Simon Easteal, Eduardo Eyras,
 videoID: asdf
 optimized_image: assets/img/x2yM7LcXdCSi0bm_title.jpg
 tags:
- - SARS-CoV-2
- - COVID-19
- - sequence classification
- - co-infection
+ - transcriptomics
  - deep learning
- - respiratory virus
  - machine learning
+ - viruses
+ - COVID-19
 ---
 {% include cloudstorplayer.html id=page.videoID %}
 Pablo Acera Mateos<sup>0</sup>, <u>Renzo Balboa</u><sup>0</sup>, Simon Easteal<sup>0</sup>, Eduardo Eyras<sup>0</sup>, Hardip Patel<sup>0</sup><br/>

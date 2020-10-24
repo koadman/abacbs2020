@@ -2,16 +2,14 @@
 layout: post
 title:  "Population dynamics of rDNA copy number in yeast and humans"
 comments: true
-category: other
+category: genomics
 description: "<b>Diksha Sharma, Sylvie Hermann Le Denmat, Nicholas Matzke, Lauri Saag, Katherine Hannan, Ross Hannan, Herwati Sudoyo, Murray Cox, Justin Sullivan, Austen Ganley</b><br/>In most eukaryotes the ribosomal RNA genes (rDNA) ..."
 videoID: asdf
 optimized_image: assets/img/x2yM7LcXdCSi0bm_title.jpg
 tags:
- - Bioinformatics method
- - ribosomal DNA (rDNA)
- - rDNA copy number
- - rDNA copy number change
- - population dynamics
+ - sequence variation
+ - phylodynamics
+ - rDNA
 ---
 {% include cloudstorplayer.html id=page.videoID %}
 <u>Diksha Sharma</u><sup>0</sup>, Sylvie Hermann Le Denmat<sup>0</sup>, Nicholas Matzke<sup>0</sup>, Lauri Saag<sup>1</sup>, Katherine Hannan<sup>2</sup>, Ross Hannan<sup>3</sup>, Herwati Sudoyo<sup>4</sup>, Murray Cox<sup>5</sup>, Justin Sullivan<sup>6</sup>, Austen Ganley<sup>0</sup><br/>

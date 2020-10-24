@@ -2,14 +2,15 @@
 layout: post
 title:  "The AMPSphere: antimicrobial peptides (AMPs) in the global microbiome"
 comments: true
-category: genomics
+category: metagenomics
 description: "<b>Célio Dias Santos-Júnior, Thomas S. B. Schmidt, Anthony Fullam, Peer Bork, Xing-Ming Zhao, Luis Pedro Coelho</b><br/>Antimicrobial peptides (AMPs) are short peptides t..."
 videoID: asdf
 optimized_image: assets/img/x2yM7LcXdCSi0bm_title.jpg
+session_talk: 1
 tags:
- - Microbiome
- - Metagenomics
- - Antimicrobial peptides
+ - metagenomics
+ - microbiome
+ - antimicrobial peptides
 ---
 {% include cloudstorplayer.html id=page.videoID %}
 Célio Dias Santos-Júnior<sup>0</sup>, Thomas S. B. Schmidt<sup>1</sup>, Anthony Fullam<sup>1</sup>, Peer Bork<sup>2</sup>, Xing-Ming Zhao<sup>3</sup>, <u>Luis Pedro Coelho</u><sup>0</sup><br/>

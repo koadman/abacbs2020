@@ -2,16 +2,16 @@
 layout: post
 title:  "Integrated transcription factor profiling with transcriptome analysis: identification of L1PA2 transposons as global regulatory modulators in a breast cancer model"
 comments: true
-category: transcriptomics
+category: regulation
 description: "<b>Jiayue-Clara Jiang, Joe Rothnagel, Kyle Upton</b><br/>LINE1 retrotransposons occupy approximately 17% of..."
 videoID: asdf
 optimized_image: assets/img/x2yM7LcXdCSi0bm_title.jpg
+session_talk: 1
 tags:
- - Transposons
- - Transposable elements
- - Breast cancer
- - Transcriptomics
- - Transcription factor
+ - transcriptomics
+ - cancer
+ - disease
+ - transposable elements
 ---
 {% include cloudstorplayer.html id=page.videoID %}
 <u>Jiayue-Clara Jiang</u><sup>0</sup>, Joe Rothnagel<sup>0</sup>, Kyle Upton<sup>0</sup><br/>

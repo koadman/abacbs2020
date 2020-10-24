@@ -2,15 +2,15 @@
 layout: post
 title:  "Understanding Polygenic Disease with BitEpi and EpiExplorer"
 comments: true
-category: methods
+category: genomics
 description: "<b>Arash Bayat, Brendan Hosking, Yatish Jain, Cameron Hosking, Milindi Kodikara, Daniel Reti, Natalie Twine, Denis Bauer</b><br/>Polygenic diseases are driven by a large number of..."
 videoID: asdf
 optimized_image: assets/img/x2yM7LcXdCSi0bm_title.jpg
 tags:
- - Polygenic
- - Epistasis
- - Bitwise Optimisation
- - Visualisation
+ - genomics
+ - biomedical informatics
+ - disease
+ - sequence variation
 ---
 {% include cloudstorplayer.html id=page.videoID %}
 <u>Arash Bayat</u><sup>0</sup>, Brendan Hosking<sup>0</sup>, Yatish Jain<sup>0</sup>, Cameron Hosking<sup>0</sup>, Milindi Kodikara<sup>0</sup>, Daniel Reti<sup>0</sup>, Natalie Twine<sup>0</sup>, Denis Bauer<sup>0</sup><br/>

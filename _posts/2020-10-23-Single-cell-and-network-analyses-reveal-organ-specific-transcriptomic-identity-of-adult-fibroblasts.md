@@ -2,17 +2,15 @@
 layout: post
 title:  "Single-cell and network analyses reveal organ-specific transcriptomic identity of adult fibroblasts"
 comments: true
-category: transcriptomics
+category: single_cell
 description: "<b>Elvira Forte, Mirana Ramialison, Hieu Nim, Milena Furtado</b><br/>BACKGROUNDS. Organ fibroblasts are essential compo..."
 videoID: asdf
 optimized_image: assets/img/x2yM7LcXdCSi0bm_title.jpg
 tags:
- - fibrosis
- - adult fibroblasts
- - single-cell analysis
- - RNA-sequencing
- - microarray
- - network analysis
+ - transcriptomics
+ - single cell
+ - biomedical informatics
+ - disease
 ---
 {% include cloudstorplayer.html id=page.videoID %}
 Elvira Forte<sup>0</sup>, Mirana Ramialison<sup>1</sup>, <u>Hieu Nim</u><sup>2</sup>, Milena Furtado<sup>3</sup><br/>

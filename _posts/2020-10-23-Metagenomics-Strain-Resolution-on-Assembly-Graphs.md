@@ -2,16 +2,15 @@
 layout: post
 title:  "Metagenomics Strain Resolution on Assembly Graphs"
 comments: true
-category: methods
+category: metagenomics
 description: "<b>Christopher Quince, Sergey Nurk, Sebastien Raguideau, Robert James, Orkun Soyer, J Kimberley Summers, Antoine Limasset, A Murat Eren, Rayan Chikhi, Aaron Darling</b><br/>We introduce a novel bioinformatics pipeline, STra..."
 videoID: asdf
 optimized_image: assets/img/x2yM7LcXdCSi0bm_title.jpg
 tags:
- - Strain resolution
- - Metagenome assembly
- - Microbiome
- - Variational Bayes
- - assembly graphs
+ - metagenomics
+ - genome assembly
+ - graph algorithms
+ - microbiome
 ---
 {% include cloudstorplayer.html id=page.videoID %}
 Christopher Quince<sup>0</sup>, Sergey Nurk<sup>1</sup>, Sebastien Raguideau<sup>2</sup>, Robert James<sup>2</sup>, Orkun Soyer<sup>2</sup>, J Kimberley Summers<sup>2</sup>, Antoine Limasset<sup>3</sup>, [A Murat Eren](http://merenlab.org/)<sup>4</sup>, Rayan Chikhi<sup>5</sup>, [<u>Aaron Darling</u>](http://darlinglab.org)<sup>6</sup><br/>

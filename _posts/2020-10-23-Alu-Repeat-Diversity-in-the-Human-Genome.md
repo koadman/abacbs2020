@@ -7,12 +7,10 @@ description: "<b>Renzo Balboa, Simon Easteal, Hardip Patel</b><br/>More than hal
 videoID: asdf
 optimized_image: assets/img/x2yM7LcXdCSi0bm_title.jpg
 tags:
- - Alu
- - SINE
- - Transposable elements
- - Population variation
- - Population diversity
- - Structual variation
+ - structural variants
+ - evolution
+ - genomics
+ - transposable elements
 ---
 {% include cloudstorplayer.html id=page.videoID %}
 <u>Renzo Balboa</u><sup>0</sup>, Simon Easteal<sup>0</sup>, Hardip Patel<sup>0</sup><br/>

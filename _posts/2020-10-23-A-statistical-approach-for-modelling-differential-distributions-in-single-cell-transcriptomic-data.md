@@ -2,14 +2,14 @@
 layout: post
 title:  "A statistical approach for modelling differential distributions in single-cell transcriptomic data"
 comments: true
-category: transcriptomics
+category: single_cell
 description: "<b>Malindrie Dharmaratne, Ameya Kulkarni, Atefeh Taherian Fard, Ernst Wolvetang, Nir Barzilai, Jessica C Mar</b><br/>Single cell RNA sequencing (scRNA-seq) allows the ..."
 videoID: asdf
 optimized_image: assets/img/x2yM7LcXdCSi0bm_title.jpg
 tags:
- - Single-cell RNA sequencing
- - Zero-inflation
- - Statistical modelling
+ - single cell
+ - transcriptomics
+ - statistics
 ---
 {% include cloudstorplayer.html id=page.videoID %}
 <u>Malindrie Dharmaratne</u><sup>0</sup>, Ameya Kulkarni<sup>1</sup>, Atefeh Taherian Fard<sup>0</sup>, Ernst Wolvetang<sup>0</sup>, Nir Barzilai<sup>1</sup>, Jessica C Mar<sup>0</sup><br/>

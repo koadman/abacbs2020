@@ -8,9 +8,9 @@ videoID: asdf
 optimized_image: assets/img/x2yM7LcXdCSi0bm_title.jpg
 tags:
  - Hi-C
- - Transcription factor binding
- - Functional annotation
+ - transcription
  - GWAS
+ - gene function
 ---
 {% include cloudstorplayer.html id=page.videoID %}
 <u>Ning Liu</u><sup>0</sup>, Timothy Sadlon<sup>1</sup>, Ying Ying Wong<sup>1</sup>, Stephen Pederson<sup>2</sup>, Simon Barry<sup>1</sup>, Jimmy Breen<sup>0</sup><br/>

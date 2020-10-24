@@ -7,11 +7,11 @@ description: "<b>Joel Robertson, Stephen Davis, Nitin Mantri, Alice Johnstone</b
 videoID: asdf
 optimized_image: assets/img/x2yM7LcXdCSi0bm_title.jpg
 tags:
- - co-expression networks
- - non-coding RNA
- - graphlet counting
  - transcriptomics
- - plant biology
+ - non-coding RNA
+ - networks
+ - graph algorithms
+ - plants
 ---
 {% include cloudstorplayer.html id=page.videoID %}
 <u>Joel Robertson</u><sup>0</sup>, Stephen Davis<sup>1</sup>, Nitin Mantri<sup>1</sup>, Alice Johnstone<sup>1</sup><br/>

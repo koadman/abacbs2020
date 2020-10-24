@@ -2,16 +2,17 @@
 layout: post
 title:  "An Evolutionary Approach to Network Analysis of Cancer Transcriptomes Reveals Common Indicators of Enhanced Malignancy Across a Range of Solid Tumours"
 comments: true
-category: transcriptomics
+category: biomed_informatics
 description: "<b>David Goode, Anna Trigos, Rick Pearson, Tony Papenfuss</b><br/>Despite diverse origins and significant genomic he..."
 videoID: asdf
 optimized_image: assets/img/x2yM7LcXdCSi0bm_title.jpg
+session_talk: 1
 tags:
- - cancer
  - transcriptomics
- - network analysis
+ - cancer
+ - networks
  - evolution
- - gene expression
+ - gene regulation
 ---
 {% include cloudstorplayer.html id=page.videoID %}
 <u>David Goode</u><sup>0</sup>, Anna Trigos<sup>0</sup>, Rick Pearson<sup>0</sup>, Tony Papenfuss<sup>1</sup><br/>

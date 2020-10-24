@@ -2,15 +2,15 @@
 layout: post
 title:  "A comprehensive analysis of code and data availability in biomedical research"
 comments: true
-category: genomics
+category: biomed_informatics
 description: "<b>Dhrithi Deshpande, Ruiwei Guo, Serghei Mangul</b><br/>In biomedical research, it is not only imperative ..."
 videoID: asdf
 optimized_image: assets/img/x2yM7LcXdCSi0bm_title.jpg
+session_talk: 1
 tags:
- - Scientific transparency
- - Reproducibility
- - Code availability
- - Data availability
+ - biomedical informatics
+ - reproducibility
+ - open source
 ---
 {% include cloudstorplayer.html id=page.videoID %}
 <u>Dhrithi Deshpande</u><sup>0</sup>, Ruiwei Guo<sup>0</sup>, [Serghei Mangul](http://sergheimangul.com)<sup>1</sup><br/>

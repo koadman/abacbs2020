@@ -6,11 +6,12 @@ category: indigenous_genomics
 description: "<b>Keolu Fox</b><br/>Appropriate empirical-based evidence and detailed ..."
 videoID: asdf
 optimized_image: assets/img/x2yM7LcXdCSi0bm_title.jpg
+invited_talk: 1
 tags:
- - base editing
+ - DNA editing
  - population genetics
- - signatures of natural selection
- - functional genomics
+ - selection
+ - gene function
 ---
 {% include cloudstorplayer.html id=page.videoID %}
 <u>Keolu Fox</u><sup>0</sup><br/>

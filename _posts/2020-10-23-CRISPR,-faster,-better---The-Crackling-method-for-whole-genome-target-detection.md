@@ -2,17 +2,15 @@
 layout: post
 title:  "CRISPR, faster, better - The Crackling method for whole-genome target detection"
 comments: true
-category: methods
+category: genomics
 description: "<b>Jacob Bradford, Timothy Chappell, Brendan Hosking, Laurence Wilson, Dimitri Perrin</b><br/>CRISPR-Cas9 systems have become a leading tool for..."
 videoID: asdf
 optimized_image: assets/img/x2yM7LcXdCSi0bm_title.jpg
+session_talk: 1
 tags:
+ - genomics
+ - genome editing
  - CRISPR
- - Guide design
- - Efficiency
- - Specificity
- - Cloud
- - Serverless
 ---
 {% include cloudstorplayer.html id=page.videoID %}
 <u>Jacob Bradford</u><sup>0</sup>, Timothy Chappell<sup>0</sup>, Brendan Hosking<sup>1</sup>, Laurence Wilson<sup>1</sup>, Dimitri Perrin<sup>0</sup><br/>

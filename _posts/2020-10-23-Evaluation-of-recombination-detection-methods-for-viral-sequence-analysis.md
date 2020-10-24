@@ -8,8 +8,8 @@ videoID: asdf
 optimized_image: assets/img/x2yM7LcXdCSi0bm_title.jpg
 tags:
  - recombination
- - RNA viruses
  - phylogenetics
+ - viruses
 ---
 {% include cloudstorplayer.html id=page.videoID %}
 <u>Frederick Jaya</u><sup>0</sup>, Barbara Brito-Rodriguez<sup>0</sup>, Aaron Darling<sup>0</sup><br/>

@@ -6,11 +6,12 @@ category: phylodynamics_COVID
 description: "<b>Sergey Knyazev, Harman Singh, Varuni Sarwal, Ram Ayyala, Daniel Novikov, Roya Hosseini, Serghei Mangul, Alex Zelikovsky</b><br/>A novel coronavirus, known as SARS-CoV-2, was iden..."
 videoID: asdf
 optimized_image: assets/img/x2yM7LcXdCSi0bm_title.jpg
+session_talk: 1
 tags:
- - eMST
- - SARS-CoV-2
- - Phylogenetic Analysis
- - Graphs and Trees
+ - COVID-19
+ - phylogenetics
+ - phylogenomics
+ - graph algorithms
 ---
 {% include cloudstorplayer.html id=page.videoID %}
 Sergey Knyazev<sup>0</sup>, <u>Harman Singh</u><sup>1</sup>, Varuni Sarwal<sup>2</sup>, Ram Ayyala<sup>2</sup>, Daniel Novikov<sup>0</sup>, Roya Hosseini<sup>0</sup>, Serghei Mangul<sup>3</sup>, Alex Zelikovsky<sup>0</sup><br/>

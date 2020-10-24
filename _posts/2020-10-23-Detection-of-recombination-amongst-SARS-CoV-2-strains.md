@@ -7,9 +7,9 @@ description: "<b>Cameron Hosking, Daniel Reti, Brendan Hosking, Suzanne Scott, A
 videoID: asdf
 optimized_image: assets/img/x2yM7LcXdCSi0bm_title.jpg
 tags:
- - Phylogenetics
- - Recombination
- - COVID19
+ - phylogenetics
+ - recombination
+ - COVID-19
 ---
 {% include cloudstorplayer.html id=page.videoID %}
 <u>Cameron Hosking</u><sup>0</sup>, Daniel Reti<sup>0</sup>, Brendan Hosking<sup>0</sup>, Suzanne Scott<sup>0</sup>, Aidan Tay<sup>0</sup>, Denis Bauer<sup>0</sup>, Laurence Wilson<sup>0</sup><br/>

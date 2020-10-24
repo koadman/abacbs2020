@@ -2,16 +2,16 @@
 layout: post
 title:  "Machine Learning in Dynamic Microscopy"
 comments: true
-category: single_cell
+category: methods
 description: "<b>Khelina Fedorchuk, Damien Hicks, Sarah Russel, Kajal Zibaei</b><br/>The tracking of individual, proliferating cells ov..."
 videoID: asdf
 optimized_image: assets/img/x2yM7LcXdCSi0bm_title.jpg
 tags:
- - tracking T-cells
- - segmentation
- - lineage trees
- - Deep Learning
- - neural networks
+ - deep learning
+ - microscopy
+ - image analysis
+ - machine learning
+ - immunology
 ---
 {% include cloudstorplayer.html id=page.videoID %}
 <u>Khelina Fedorchuk</u><sup>0</sup>, Damien Hicks<sup>0</sup>, Sarah Russel<sup>0</sup>, Kajal Zibaei<sup>0</sup><br/>

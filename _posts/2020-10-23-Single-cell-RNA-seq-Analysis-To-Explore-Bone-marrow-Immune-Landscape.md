@@ -7,11 +7,9 @@ description: "<b>Gunjan Dixit, Di Yu, Jiayu Wen</b><br/>Bone marrow (BM) contain
 videoID: asdf
 optimized_image: assets/img/x2yM7LcXdCSi0bm_title.jpg
 tags:
- - Single-cell RNA seq
- - Mouse Bone Marrow
- - CD45
- - Osteoporosis
- - Immunotherapy
+ - single cell
+ - transcriptomics
+ - immunology
 ---
 {% include cloudstorplayer.html id=page.videoID %}
 <u>Gunjan Dixit</u><sup>0</sup>, Di Yu<sup>1</sup>, Jiayu Wen<sup>0</sup><br/>

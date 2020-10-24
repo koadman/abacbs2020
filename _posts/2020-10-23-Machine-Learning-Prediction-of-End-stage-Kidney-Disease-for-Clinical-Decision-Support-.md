@@ -7,10 +7,10 @@ description: "<b>Dan Andrews, Aaron Chuah</b><br/>Chronic kidney disease (CKD) i
 videoID: asdf
 optimized_image: assets/img/x2yM7LcXdCSi0bm_title.jpg
 tags:
- - Machine learning
- - Clinical records
- - Chronic kidney disease
- - renal replacement therapy
+ - machine learning
+ - clinical genomics
+ - disease
+ - biomedical informatics
 ---
 {% include cloudstorplayer.html id=page.videoID %}
 [<u>Dan Andrews</u>](https://tinyurl.com/yc2wfa2n)<sup>0</sup>, Aaron Chuah<sup>1</sup><br/>

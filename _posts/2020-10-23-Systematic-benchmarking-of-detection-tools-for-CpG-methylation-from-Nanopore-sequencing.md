@@ -2,14 +2,16 @@
 layout: post
 title:  "Systematic benchmarking of detection tools for CpG methylation from Nanopore sequencing"
 comments: true
-category: other
+category: long_reads
 description: "<b>Zaka Yuen, Cameron Jack, Eduardo Eyras</b><br/>Nanopore sequencing can access native DNA at singl..."
 videoID: asdf
 optimized_image: assets/img/x2yM7LcXdCSi0bm_title.jpg
+session_talk: 1
 tags:
- - Nanopore sequencing
- - CpG methylation
- - Bioinformatics
+ - long reads
+ - DNA methylation
+ - benchmarking
+ - DNA sequencing
 ---
 {% include cloudstorplayer.html id=page.videoID %}
 <u>Zaka Yuen</u><sup>0</sup>, Cameron Jack<sup>0</sup>, Eduardo Eyras<sup>0</sup><br/>

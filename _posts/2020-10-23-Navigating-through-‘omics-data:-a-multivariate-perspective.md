@@ -6,13 +6,11 @@ category: methods
 description: "<b>Kim-Anh Lê Cao</b><br/>Technological improvements have allowed for the co..."
 videoID: asdf
 optimized_image: assets/img/x2yM7LcXdCSi0bm_title.jpg
+invited_talk: 1
 tags:
- - Projection to Latent Structures
- - Data integration
- - Biomarker panel
- - Data exploration
- - Data mining
- - Hypothesis-free
+ - statistics
+ - data integration
+ - biomarkers
 ---
 {% include cloudstorplayer.html id=page.videoID %}
 [<u>Kim-Anh Lê Cao</u>](http://lecao-lab.science.unimelb.edu.au/)<sup>0</sup><br/>

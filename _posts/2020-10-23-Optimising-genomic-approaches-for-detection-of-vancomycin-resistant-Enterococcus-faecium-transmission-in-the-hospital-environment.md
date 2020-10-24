@@ -7,9 +7,10 @@ description: "<b>Charlie Higgs, Claire Gorrie, Norelle Sherry, Ben Howden</b><br
 videoID: asdf
 optimized_image: assets/img/x2yM7LcXdCSi0bm_title.jpg
 tags:
- - genomic-epidemiology
- - transmission
- - Enterococcus faecium
+ - genomics
+ - epidemiology
+ - resistance
+ - disease
 ---
 {% include cloudstorplayer.html id=page.videoID %}
 <u>Charlie Higgs</u><sup>0</sup>, Claire Gorrie<sup>1</sup>, Norelle Sherry<sup>1</sup>, Ben Howden<sup>1</sup><br/>

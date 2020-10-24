@@ -2,24 +2,15 @@
 layout: post
 title:  "Assessing PacBio long reads and de novo genome assembly tools for useability and suitability to applications where resources are limited."
 comments: true
-category: long_reads
+category: plants_fungi
 description: "<b>Chelsea Matthews, Nathan Watson-Haigh</b><br/>Due to the further development of long read sequen..."
 videoID: asdf
 optimized_image: assets/img/x2yM7LcXdCSi0bm_title.jpg
+session_talk: 1
 tags:
- - PacBio
- - de novo assembly
- - flye
- - assembly
+ - genome assembly
  - long reads
- - HiFi
- - CLR
  - benchmarking
- - raven
- - wtdbg2
- - Canu
- - HiCanu
- - Hifiasm
 ---
 {% include cloudstorplayer.html id=page.videoID %}
 <u>Chelsea Matthews</u><sup>0</sup>, Nathan Watson-Haigh<sup>1</sup><br/>

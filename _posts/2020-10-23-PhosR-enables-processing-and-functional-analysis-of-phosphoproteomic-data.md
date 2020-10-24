@@ -2,14 +2,14 @@
 layout: post
 title:  "PhosR enables processing and functional analysis of phosphoproteomic data"
 comments: true
-category: methods
+category: regulation
 description: "<b>Jieun Kim, Taiyun Kim, Nolan J Hoffman, Di Xiao, David James, Sean J Humphrey, Pengyi Yang</b><br/>Mass spectrometry (MS)-based phosphoproteomics has..."
 videoID: asdf
 optimized_image: assets/img/x2yM7LcXdCSi0bm_title.jpg
 tags:
- - phosphoproteomics
- - signalome
- - kinase-substrate relationship
+ - proteomics
+ - gene function
+ - gene regulation
 ---
 {% include cloudstorplayer.html id=page.videoID %}
 <u>Jieun Kim</u><sup>0</sup>, Taiyun Kim<sup>0</sup>, Nolan J Hoffman<sup>1</sup>, Di Xiao<sup>0</sup>, David James<sup>2</sup>, Sean J Humphrey<sup>0</sup>, Pengyi Yang<sup>0</sup><br/>

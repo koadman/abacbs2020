@@ -2,18 +2,16 @@
 layout: post
 title:  "Sex-specific co-expression: a baseline to explore disease"
 comments: true
-category: transcriptomics
+category: single_cell
 description: "<b>Sara Ballouz</b><br/>Biological states such as cell-type, cell-state, t..."
 videoID: asdf
 optimized_image: assets/img/x2yM7LcXdCSi0bm_title.jpg
+invited_talk: 1
 tags:
- - Co-expression networks
- - RNA-seq
- - Transcriptomics
- - Single-cell
- - Sex-specific
- - Tissue
- - Autoimmune disease
+ - single cell
+ - transcriptomics
+ - networks
+ - sex differences
 ---
 {% include cloudstorplayer.html id=page.videoID %}
 <u>Sara Ballouz</u><sup>0</sup><br/>

@@ -2,18 +2,16 @@
 layout: post
 title:  "Moving beyond RNA sequence: uncovering the functional role of RNA structure"
 comments: true
-category: genomics
+category: transcriptomics
 description: "<b>Vincent Corbin, Phillip Tomezko, Paromita Gupta, Margalit Glasgow, Sitara Persad, Lachlan McIntosh, Anthony Papenfuss, Silvia Rouskin</b><br/>RNA is unique among biomolecules in its possession..."
 videoID: asdf
 optimized_image: assets/img/x2yM7LcXdCSi0bm_title.jpg
+session_talk: 1
 tags:
+ - gene regulation
+ - RNA splicing
+ - viruses
  - RNA structure
- - Heterogeneity
- - Computational biology
- - HIV
- - Splice variant
- - Bioinformatics
- - Novel method
 ---
 {% include cloudstorplayer.html id=page.videoID %}
 <u>Vincent Corbin</u><sup>0</sup>, Phillip Tomezko<sup>1</sup>, Paromita Gupta<sup>1</sup>, Margalit Glasgow<sup>1</sup>, Sitara Persad<sup>1</sup>, Lachlan McIntosh<sup>2</sup>, [Anthony Papenfuss](http://bioinf.wehi.edu.au/contacts/details_papenfuss.html)<sup>3</sup>, Silvia Rouskin<sup>1</sup><br/>

@@ -2,15 +2,14 @@
 layout: post
 title:  "Integrating multi-modal single-cell studies with a latent component-based approach"
 comments: true
-category: genomics
+category: methods
 description: "<b>Al J Abadi, Kim-Anh Lêcao</b><br/>Single-cell multi-modal sequencing offers unpreced..."
 videoID: asdf
 optimized_image: assets/img/x2yM7LcXdCSi0bm_title.jpg
+session_talk: 1
 tags:
- - data integration
- - single-cell sequencing
- - variable selection
- - Multi-block PLS
+ - single cell
+ - statistics
 ---
 {% include cloudstorplayer.html id=page.videoID %}
 <u>Al J Abadi</u><sup>0</sup>, Kim-Anh Lêcao<sup>0</sup><br/>

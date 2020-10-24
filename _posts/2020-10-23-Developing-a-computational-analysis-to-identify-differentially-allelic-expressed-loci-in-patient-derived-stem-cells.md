@@ -7,10 +7,10 @@ description: "<b>Daniel Russell, Alexandre S. Cristino</b><br/>Epigenetics is th
 videoID: asdf
 optimized_image: assets/img/x2yM7LcXdCSi0bm_title.jpg
 tags:
- - Epigenetics
- - RNA-Seq
- - Schizophrenia
- - WGS
+ - epigenomics
+ - transcriptomics
+ - disease
+ - DNA sequencing
 ---
 {% include cloudstorplayer.html id=page.videoID %}
 <u>Daniel Russell</u><sup>0</sup>, Alexandre S. Cristino<sup>0</sup><br/>

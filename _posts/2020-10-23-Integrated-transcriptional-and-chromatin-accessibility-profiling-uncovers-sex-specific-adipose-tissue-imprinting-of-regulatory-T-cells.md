@@ -7,12 +7,9 @@ description: "<b>David Chisanga, Ajith Vasanthakumar, Wei Shi, Axel Kallies</b><
 videoID: asdf
 optimized_image: assets/img/x2yM7LcXdCSi0bm_title.jpg
 tags:
- - Adipose tissue
- - ATAC-seq
- - Bioinformatics
- - Tregs
- - RNA-seq
- - VAT
+ - transcriptomics
+ - chromatin
+ - sex differences
 ---
 {% include cloudstorplayer.html id=page.videoID %}
 <u>David Chisanga</u><sup>0</sup>, Ajith Vasanthakumar<sup>1</sup>, Wei Shi<sup>0</sup>, Axel Kallies<sup>1</sup><br/>

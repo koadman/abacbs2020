@@ -7,11 +7,10 @@ description: "<b>Xiangnan Xu, Samuel Mueller, Jean Yang, Michal Lubomski, Ryan D
 videoID: asdf
 optimized_image: assets/img/x2yM7LcXdCSi0bm_title.jpg
 tags:
- - multi-step model
- - heterogeneity
+ - metagenomics
  - microbiome
+ - disease
  - nutrition
- - Parkinson's disease
 ---
 {% include cloudstorplayer.html id=page.videoID %}
 <u>Xiangnan Xu</u><sup>0</sup>, Samuel Mueller<sup>1</sup>, Jean Yang<sup>0</sup>, Michal Lubomski<sup>2</sup>, Ryan Davis<sup>3</sup>, Andrew Holmes<sup>4</sup>, Carolyn Sue<sup>2</sup><br/>

@@ -2,15 +2,15 @@
 layout: post
 title:  "SpicyR - Spatial analysis of in situ cytometry data"
 comments: true
-category: methods
+category: single_cell
 description: "<b>Nicolas Canete, Ellis Patrick</b><br/>Highly multiplexed imaging techniques such as cycl..."
 videoID: asdf
 optimized_image: assets/img/x2yM7LcXdCSi0bm_title.jpg
 tags:
- - spatial
- - single-cell
- - imaging
- - high-parameter
+ - single cell
+ - image analysis
+ - spatial analysis
+ - cytometry
 ---
 {% include cloudstorplayer.html id=page.videoID %}
 <u>Nicolas Canete</u><sup>0</sup>, Ellis Patrick<sup>0</sup><br/>

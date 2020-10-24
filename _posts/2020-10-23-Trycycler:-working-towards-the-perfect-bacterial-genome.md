@@ -2,19 +2,14 @@
 layout: post
 title:  "Trycycler: working towards the perfect bacterial genome"
 comments: true
-category: genomics
+category: long_reads
 description: "<b>Ryan Wick, Kathryn Holt</b><br/>Long-read assembly has progressed rapidly in recen..."
 videoID: asdf
 optimized_image: assets/img/x2yM7LcXdCSi0bm_title.jpg
 tags:
- - Assembly
- - Genome assembly
- - Bacterial genomics
- - Long reads
- - Oxford Nanopore
- - ONT
- - Pacific Biosciences
- - PacBio
+ - genome assembly
+ - long reads
+ - bacteria
 ---
 {% include cloudstorplayer.html id=page.videoID %}
 [<u>Ryan Wick</u>](https://github.com/rrwick)<sup>0</sup>, Kathryn Holt<sup>0</sup><br/>

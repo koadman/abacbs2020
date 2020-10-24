@@ -7,11 +7,10 @@ description: "<b>Givanna Putri, Irena Koprinska, Thomas Ashhurst, Nicholas King,
 videoID: asdf
 optimized_image: assets/img/x2yM7LcXdCSi0bm_title.jpg
 tags:
- - bioinformatics
- - clustering
+ - single cell
  - cytometry
- - benchmark
- - single-cell
+ - clustering
+ - benchmarking
 ---
 {% include cloudstorplayer.html id=page.videoID %}
 <u>Givanna Putri</u><sup>0</sup>, Irena Koprinska<sup>0</sup>, Thomas Ashhurst<sup>0</sup>, Nicholas King<sup>0</sup>, Mark Read<sup>0</sup><br/>

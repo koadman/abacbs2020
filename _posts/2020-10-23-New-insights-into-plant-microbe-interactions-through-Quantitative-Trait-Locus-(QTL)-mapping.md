@@ -6,15 +6,14 @@ category: plants_fungi
 description: "<b>Charlotte Francois</b><br/>Like humans, plants are colonised by bacteria on v..."
 videoID: asdf
 optimized_image: assets/img/x2yM7LcXdCSi0bm_title.jpg
+session_talk: 1
 tags:
- - Plant-microbe interaction
- - Quantitative genetics
- - Quantitative trait locus
+ - microbiome
+ - plants
  - QTL
- - Arabidopsis
- - Bacteria
- - Candidate gene
- - PGPR
+ - sequence variation
+ - statistics
+ - bacteria
 ---
 {% include cloudstorplayer.html id=page.videoID %}
 [<u>Charlotte Francois</u>](https://www.linkedin.com/in/charlotte-francois/)<sup>0</sup><br/>

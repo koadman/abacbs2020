@@ -6,11 +6,12 @@ category: methods
 description: "<b>Thomas Quinn, Dang Nguyen, Phuoc Nguyen, Sunil Gupta, Svetha Venkatesh</b><br/>In most biological studies, prediction is used pri..."
 videoID: asdf
 optimized_image: assets/img/x2yM7LcXdCSi0bm_title.jpg
+session_talk: 1
 tags:
  - deep learning
- - convolutional neural networks
- - interpretability
  - RNA splicing
+ - machine learning
+ - model interpretation
 ---
 {% include cloudstorplayer.html id=page.videoID %}
 <u>Thomas Quinn</u><sup>0</sup>, Dang Nguyen<sup>0</sup>, Phuoc Nguyen<sup>0</sup>, Sunil Gupta<sup>0</sup>, Svetha Venkatesh<sup>0</sup><br/>

@@ -2,16 +2,17 @@
 layout: post
 title:  "The landscape of alternative polyadenylation in CD8 T cells in single-cell transcriptome"
 comments: true
-category: single_cell
+category: regulation
 description: "<b>Lixinyu Liu, Jiayu Wen</b><br/>Alternative cleavage and polyadenylation (APA) ena..."
 videoID: asdf
 optimized_image: assets/img/x2yM7LcXdCSi0bm_title.jpg
+session_talk: 1
 tags:
- - Bioinformatics
- - single-cell
- - CD8+ cells
- - APA
+ - single cell
  - deep learning
+ - machine learning
+ - immunology
+ - transcriptomics
 ---
 {% include cloudstorplayer.html id=page.videoID %}
 <u>Lixinyu Liu</u><sup>0</sup>, Jiayu Wen<sup>0</sup><br/>

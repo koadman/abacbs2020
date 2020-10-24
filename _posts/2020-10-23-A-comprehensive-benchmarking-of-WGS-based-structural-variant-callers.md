@@ -6,11 +6,11 @@ category: genomics
 description: "<b>Varuni Sarwal, Sebastian Niehus, Ram Ayyala, Eleazar Eskin, Jonathan Flint, Serghei Mangul</b><br/>Structural variants (SVs) are genomic regions that..."
 videoID: asdf
 optimized_image: assets/img/x2yM7LcXdCSi0bm_title.jpg
+session_talk: 1
 tags:
- - Structural Variants
- - Benchmarking
- - Whole genome sequencing
- - Deletions
+ - structural variants
+ - DNA sequencing
+ - benchmarking
 ---
 {% include cloudstorplayer.html id=page.videoID %}
 [<u>Varuni Sarwal</u>](https://addicted-to-coding.github.io/webpage/)<sup>0</sup>, Sebastian Niehus<sup>1</sup>, Ram Ayyala<sup>0</sup>, Eleazar Eskin<sup>0</sup>, Jonathan Flint<sup>0</sup>, Serghei Mangul<sup>2</sup><br/>

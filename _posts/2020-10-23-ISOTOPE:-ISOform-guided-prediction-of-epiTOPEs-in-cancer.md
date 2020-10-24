@@ -2,15 +2,15 @@
 layout: post
 title:  "ISOTOPE: ISOform-guided prediction of epiTOPEs in cancer"
 comments: true
-category: transcriptomics
+category: biomed_informatics
 description: "<b>Juan Luis Trincado, Eduardo Eyras</b><br/>Immunotherapies provide effective treatments for p..."
 videoID: asdf
 optimized_image: assets/img/x2yM7LcXdCSi0bm_title.jpg
 tags:
  - alternative splicing
  - cancer
- - neoepitopes
- - immunotherapy
+ - immunology
+ - biomedical informatics
 ---
 {% include cloudstorplayer.html id=page.videoID %}
 [Juan Luis Trincado](https://github.com/comprna/ISOTOPE)<sup>0</sup>, [<u>Eduardo Eyras</u>](https://github.com/comprna/ISOTOPE)<sup>1</sup><br/>

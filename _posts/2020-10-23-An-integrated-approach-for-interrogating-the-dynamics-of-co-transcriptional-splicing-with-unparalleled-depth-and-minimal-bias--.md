@@ -7,9 +7,9 @@ description: "<b>A.J. Sethi, Rippei Hayashi</b><br/>Although dysregulated altern
 videoID: asdf
 optimized_image: assets/img/x2yM7LcXdCSi0bm_title.jpg
 tags:
- - pre-mRNA
- - Alternative splicing
- - Splicing dynamics
+ - RNA splicing
+ - gene regulation
+ - splicing dynamics
 ---
 {% include cloudstorplayer.html id=page.videoID %}
 <u>A.J. Sethi</u><sup>0</sup>, Rippei Hayashi<sup>0</sup><br/>

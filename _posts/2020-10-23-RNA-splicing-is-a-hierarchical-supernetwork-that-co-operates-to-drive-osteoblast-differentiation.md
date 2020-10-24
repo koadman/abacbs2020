@@ -6,39 +6,13 @@ category: transcriptomics
 description: "<b>Angel Liang</b><br/>Splicing is essential for the proper expression of..."
 videoID: asdf
 optimized_image: assets/img/x2yM7LcXdCSi0bm_title.jpg
+session_talk: 1
 tags:
- - mesenchymal
- - stem cell
- - bone marrow
- - multipotent
- - differentiation
  - development
- - devbio
- - osteoblast
- - bone
- - rejuvenation
- - regeneration
- - healing
- - organ
- - alternative splicing
- - RNA
- - single cell
- - scRNA-Seq
- - proteome
- - proteomics
- - phosphorylation
- - kinase
- - phosphoproteome
- - iclip
- - mirna
- - snp
- - expression
- - gene
- - regulation
+ - transcriptomics
  - clustering
- - transcriptome
- - short read
- - illumina
+ - gene regulation
+ - proteomics
 ---
 {% include cloudstorplayer.html id=page.videoID %}
 [<u>Angel Liang</u>](https://twitter.com/angel_bee2018)<sup>0</sup><br/>

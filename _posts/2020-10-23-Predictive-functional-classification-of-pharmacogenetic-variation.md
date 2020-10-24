@@ -2,15 +2,16 @@
 layout: post
 title:  "Predictive functional classification of pharmacogenetic variation"
 comments: true
-category: genomics
+category: methods
 description: "<b>Dan Andrews, Matt Field</b><br/>Pharmacogenetic variation is important to drug res..."
 videoID: asdf
 optimized_image: assets/img/x2yM7LcXdCSi0bm_title.jpg
 tags:
- - Pharmacogenetic variation
- - Functional inference
- - Purifying selection
- - Predictive tools
+ - genomics
+ - pharmacogenomics
+ - machine learning
+ - evolution
+ - selection
 ---
 {% include cloudstorplayer.html id=page.videoID %}
 [<u>Dan Andrews</u>](https://jcsmr.anu.edu.au/research/groups/andrews-group-genome-informatics)<sup>0</sup>, [Matt Field](https://research.jcu.edu.au/portfolio/matt.field/)<sup>1</sup><br/>

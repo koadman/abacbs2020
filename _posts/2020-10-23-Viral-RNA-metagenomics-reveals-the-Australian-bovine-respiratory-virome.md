@@ -2,18 +2,14 @@
 layout: post
 title:  "Viral RNA metagenomics reveals the Australian bovine respiratory virome"
 comments: true
-category: transcriptomics
+category: metagenomics
 description: "<b>Barbara Brito Rodriguez, Kay Anantanawat, Tony Batterham, Melinda Frost, Peter Kirkland, Edward Holmes, Aaron Darling</b><br/>Metagenomic next-generation sequencing is transfor..."
 videoID: asdf
 optimized_image: assets/img/x2yM7LcXdCSi0bm_title.jpg
 tags:
- - Virus
  - metagenomics
- - livestock
- - bovine
- - RNA sequencing
- - virome
- - antimicrobial resistance
+ - viruses
+ - transcriptomics
  - agriculture
 ---
 {% include cloudstorplayer.html id=page.videoID %}

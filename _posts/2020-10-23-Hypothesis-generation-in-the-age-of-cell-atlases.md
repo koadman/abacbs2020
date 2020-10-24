@@ -2,19 +2,17 @@
 layout: post
 title:  "Hypothesis generation in the age of cell atlases"
 comments: true
-category: transcriptomics
+category: single_cell
 description: "<b>Fabio Zanini, Julie Thoms, Bojk Berghuis, Racquel Domingo-Gonzales, Zhiyuan Yao, Shirit Einav, Cristina Alvira, David Cornfield, Stephen Quake, John Pimanda</b><br/>While many laboratories are driven by computationa..."
 videoID: asdf
 optimized_image: assets/img/x2yM7LcXdCSi0bm_title.jpg
+invited_talk: 1
 tags:
- - scRNA-Seq
- - cell atlases
+ - single cell
  - viruses
- - development
- - transcription factors
- - classification
- - clustering
  - transcriptomics
+ - development
+ - clustering
 ---
 {% include cloudstorplayer.html id=page.videoID %}
 [<u>Fabio Zanini</u>](http://fabilab.org)<sup>0</sup>, Julie Thoms<sup>0</sup>, Bojk Berghuis<sup>1</sup>, Racquel Domingo-Gonzales<sup>1</sup>, Zhiyuan Yao<sup>1</sup>, Shirit Einav<sup>1</sup>, Cristina Alvira<sup>1</sup>, David Cornfield<sup>1</sup>, Stephen Quake<sup>2</sup>, John Pimanda<sup>0</sup><br/>

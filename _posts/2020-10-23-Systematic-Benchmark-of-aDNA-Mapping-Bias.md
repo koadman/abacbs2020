@@ -7,10 +7,9 @@ description: "<b>Adrien Oliva, Raymond Tobler, Bastien Llamas, Alan Cooper, Yass
 videoID: asdf
 optimized_image: assets/img/x2yM7LcXdCSi0bm_title.jpg
 tags:
- - Ancient DNA
- - Alignment
- - Reference bias
- - Benchmarking
+ - ancient DNA
+ - sequence alignment
+ - benchmarking
 ---
 {% include cloudstorplayer.html id=page.videoID %}
 <u>Adrien Oliva</u><sup>0</sup>, Raymond Tobler<sup>0</sup>, Bastien Llamas<sup>1</sup>, Alan Cooper<sup>2</sup>, Yassine Souilmi<sup>1</sup><br/>

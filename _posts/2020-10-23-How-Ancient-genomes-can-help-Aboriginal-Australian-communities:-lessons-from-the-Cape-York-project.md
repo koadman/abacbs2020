@@ -6,10 +6,10 @@ category: indigenous_genomics
 description: "<b>Sally Wasef, Joanne Wright, Michael Westaway, Clarence Flinders</b><br/>Paleogenetics is a relatively new and promising fi..."
 videoID: asdf
 optimized_image: assets/img/x2yM7LcXdCSi0bm_title.jpg
+session_talk: 1
 tags:
- - Aborignal Australian Ancient DNA
- - Cape York Indiginous Australian genomes.
- - Flinders Island group Mortuary Practices.
+ - genomics
+ - ancient DNA
 ---
 {% include cloudstorplayer.html id=page.videoID %}
 <u>Sally Wasef</u><sup>0</sup>, Joanne Wright<sup>0</sup>, Michael Westaway<sup>1</sup>, Clarence Flinders<sup>2</sup><br/>
