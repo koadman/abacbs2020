@@ -47,10 +47,6 @@ menu:
     url: /category/phylodynamics_COVID
   - title: Plants/Fungi
     url: /category/plants_fungi
-  - title: Other
-    url: /category/other
-  - title: Feed
-    url: /feed.xml
 email: conference@abacbs.org
 disqus_username: abacbs
 
