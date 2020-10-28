@@ -2,12 +2,24 @@
 import sys
 import json
 
-for file in sys.argv[1:]:
+video_links = open(sys.argv[1], 'r')
+vid_urls = {}
+for line in video_links:
+    d = line.rstrip().split()
+    vid_urls[d[0]] = {}
+    vid_urls[d[0]]['video']=d[1]
+    vid_urls[d[0]]['image']=d[2]
+
+for file in sys.argv[2:]:
     jfile = open(file, 'r')
     jdat = json.load(jfile)
     jfile.close()
-    jdat['video_ID']='asdf'
-    jdat['video_stillframe']='x2yM7LcXdCSi0bm_title.jpg'
+    if jdat['number'] in vid_urls:
+        jdat['video_ID']=vid_urls[jdat['number']]['video']
+        jdat['video_stillframe']=vid_urls[jdat['number']]['image']
+    else:
+        jdat['video_ID']='asdf'
+        jdat['video_stillframe']='x2yM7LcXdCSi0bm_title.jpg'
     jfile = open(file, 'w')
     json.dump(jdat, jfile)
     jfile.close()
