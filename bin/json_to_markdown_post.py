@@ -11,7 +11,7 @@ comments: true
 category: {topics}
 description: "<b>{author_list}</b><br/>{short_abstract}"
 videoID: {video_ID}
-optimized_image: assets/img/{video_stillframe}
+optimized_image: {video_stillframe}
 """.format(title=json_data['title'],
         topics=json_data['topics'],
         author_list=json_data['author_list'],

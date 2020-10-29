@@ -15,11 +15,11 @@ for file in sys.argv[2:]:
     jdat = json.load(jfile)
     jfile.close()
     if jdat['number'] in vid_urls:
-        jdat['video_ID']=vid_urls[jdat['number']]['video']
-        jdat['video_stillframe']=vid_urls[jdat['number']]['image']
+        jdat['video_ID']=vid_urls[jdat['number']]['video'] + "/download"
+        jdat['video_stillframe']=vid_urls[jdat['number']]['image'] + "/download"
     else:
         jdat['video_ID']='asdf'
-        jdat['video_stillframe']='x2yM7LcXdCSi0bm_title.jpg'
+        jdat['video_stillframe']='/assets/img/x2yM7LcXdCSi0bm_title.jpg'
     jfile = open(file, 'w')
     json.dump(jdat, jfile)
     jfile.close()
