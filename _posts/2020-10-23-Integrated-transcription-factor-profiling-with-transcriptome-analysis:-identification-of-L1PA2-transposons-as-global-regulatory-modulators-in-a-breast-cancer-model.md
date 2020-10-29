@@ -4,8 +4,8 @@ title:  "Integrated transcription factor profiling with transcriptome analysis: 
 comments: true
 category: regulation
 description: "<b>Jiayue-Clara Jiang, Joe Rothnagel, Kyle Upton</b><br/>LINE1 retrotransposons occupy approximately 17% of..."
-videoID: asdf
-optimized_image: assets/img/x2yM7LcXdCSi0bm_title.jpg
+videoID: https://cloudstor.aarnet.edu.au/plus/s/uAx3Gqg1UADBQJE/download
+optimized_image: https://cloudstor.aarnet.edu.au/plus/s/UuSWg7BasuEoKve/download
 session_talk: 1
 tags:
  - transcriptomics

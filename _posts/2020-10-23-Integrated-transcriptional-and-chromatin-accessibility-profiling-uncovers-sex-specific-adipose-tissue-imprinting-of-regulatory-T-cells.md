@@ -5,7 +5,7 @@ comments: true
 category: regulation
 description: "<b>David Chisanga, Ajith Vasanthakumar, Wei Shi, Axel Kallies</b><br/>Integrated transcriptional and chromatin accessibi..."
 videoID: asdf
-optimized_image: assets/img/x2yM7LcXdCSi0bm_title.jpg
+optimized_image: /assets/img/x2yM7LcXdCSi0bm_title.jpg
 tags:
  - transcriptomics
  - chromatin

@@ -5,7 +5,7 @@ comments: true
 category: metagenomics
 description: "<b>Célio Dias Santos-Júnior, Thomas S. B. Schmidt, Anthony Fullam, Peer Bork, Xing-Ming Zhao, Luis Pedro Coelho</b><br/>Antimicrobial peptides (AMPs) are short peptides t..."
 videoID: asdf
-optimized_image: assets/img/x2yM7LcXdCSi0bm_title.jpg
+optimized_image: /assets/img/x2yM7LcXdCSi0bm_title.jpg
 session_talk: 1
 tags:
  - metagenomics

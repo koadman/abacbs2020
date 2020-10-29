@@ -5,7 +5,7 @@ comments: true
 category: genomics
 description: "<b>Christoffer Flensburg, Ian Majewski</b><br/>High throughput sequencing of cancer samples is an..."
 videoID: asdf
-optimized_image: assets/img/x2yM7LcXdCSi0bm_title.jpg
+optimized_image: /assets/img/x2yM7LcXdCSi0bm_title.jpg
 tags:
  - DNA sequencing
  - cancer

@@ -5,7 +5,7 @@ comments: true
 category: single_cell
 description: "<b>Fabio Zanini, Julie Thoms, Bojk Berghuis, Racquel Domingo-Gonzales, Zhiyuan Yao, Shirit Einav, Cristina Alvira, David Cornfield, Stephen Quake, John Pimanda</b><br/>While many laboratories are driven by computationa..."
 videoID: asdf
-optimized_image: assets/img/x2yM7LcXdCSi0bm_title.jpg
+optimized_image: /assets/img/x2yM7LcXdCSi0bm_title.jpg
 invited_talk: 1
 tags:
  - single cell

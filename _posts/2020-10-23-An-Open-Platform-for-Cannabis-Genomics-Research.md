@@ -5,7 +5,7 @@ comments: true
 category: plants_fungi
 description: "<b>Locedie Mansueto, Ramil Mauleon, Tobias Kretzschmar, Graham King</b><br/>Recent global appreciation of the therapeutic prop..."
 videoID: asdf
-optimized_image: assets/img/x2yM7LcXdCSi0bm_title.jpg
+optimized_image: /assets/img/x2yM7LcXdCSi0bm_title.jpg
 tags:
  - Cannabis
  - plants

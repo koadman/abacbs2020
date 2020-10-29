@@ -5,7 +5,7 @@ comments: true
 category: single_cell
 description: "<b>Belinda Phipson, Evangelyn Sim, Enzo Porrello, Alicia Oshlack</b><br/>Single cell RNA Sequencing (scRNA-seq) has rapidly..."
 videoID: asdf
-optimized_image: assets/img/x2yM7LcXdCSi0bm_title.jpg
+optimized_image: /assets/img/x2yM7LcXdCSi0bm_title.jpg
 session_talk: 1
 tags:
  - single cell

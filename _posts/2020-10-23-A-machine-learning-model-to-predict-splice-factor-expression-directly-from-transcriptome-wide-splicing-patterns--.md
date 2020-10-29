@@ -5,7 +5,7 @@ comments: true
 category: transcriptomics
 description: "<b>A.J. Sethi, Pablo Acera Mateos, Renzo Balboa, Emiliana Weiss, Attila Horvath</b><br/>Dysregulated splicing is a major driver of cancer ..."
 videoID: asdf
-optimized_image: assets/img/x2yM7LcXdCSi0bm_title.jpg
+optimized_image: /assets/img/x2yM7LcXdCSi0bm_title.jpg
 tags:
  - RNA splicing
  - networks

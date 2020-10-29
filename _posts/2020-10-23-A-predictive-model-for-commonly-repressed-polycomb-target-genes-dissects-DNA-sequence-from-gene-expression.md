@@ -5,7 +5,7 @@ comments: true
 category: regulation
 description: "<b>Emma Gail, Sonika Tyagi, Chen Davidovich</b><br/>BACKGROUND: Histone H3 lysine 27 trimethylation (H..."
 videoID: asdf
-optimized_image: assets/img/x2yM7LcXdCSi0bm_title.jpg
+optimized_image: /assets/img/x2yM7LcXdCSi0bm_title.jpg
 session_talk: 1
 tags:
  - machine learning

@@ -5,7 +5,7 @@ comments: true
 category: plants_fungi
 description: "<b>Charlotte Francois</b><br/>Like humans, plants are colonised by bacteria on v..."
 videoID: asdf
-optimized_image: assets/img/x2yM7LcXdCSi0bm_title.jpg
+optimized_image: /assets/img/x2yM7LcXdCSi0bm_title.jpg
 session_talk: 1
 tags:
  - microbiome

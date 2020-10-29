@@ -5,7 +5,7 @@ comments: true
 category: transcriptomics
 description: "<b>Marek Cmero, Breon Schmidt, Ian Majewski, Paul Ekert, Nadia Davidson, Alicia Oshlack</b><br/>RNA sequencing (RNA-seq) has enabled high-throughp..."
 videoID: asdf
-optimized_image: assets/img/x2yM7LcXdCSi0bm_title.jpg
+optimized_image: /assets/img/x2yM7LcXdCSi0bm_title.jpg
 tags:
  - transcriptomics
  - cancer

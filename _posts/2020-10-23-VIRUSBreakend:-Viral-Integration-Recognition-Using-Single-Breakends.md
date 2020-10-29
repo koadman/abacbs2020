@@ -5,7 +5,7 @@ comments: true
 category: genomics
 description: "<b>Daniel Cameron, Anthony Papenfuss</b><br/>An important cause of disease is the integration o..."
 videoID: asdf
-optimized_image: assets/img/x2yM7LcXdCSi0bm_title.jpg
+optimized_image: /assets/img/x2yM7LcXdCSi0bm_title.jpg
 session_talk: 1
 tags:
  - structural variants

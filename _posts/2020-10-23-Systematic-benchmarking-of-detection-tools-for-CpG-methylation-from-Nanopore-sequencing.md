@@ -5,7 +5,7 @@ comments: true
 category: long_reads
 description: "<b>Zaka Yuen, Cameron Jack, Eduardo Eyras</b><br/>Nanopore sequencing can access native DNA at singl..."
 videoID: asdf
-optimized_image: assets/img/x2yM7LcXdCSi0bm_title.jpg
+optimized_image: /assets/img/x2yM7LcXdCSi0bm_title.jpg
 session_talk: 1
 tags:
  - long reads

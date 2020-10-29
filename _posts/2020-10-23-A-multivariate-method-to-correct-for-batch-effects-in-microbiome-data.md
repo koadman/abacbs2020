@@ -5,7 +5,7 @@ comments: true
 category: metagenomics
 description: "<b>Yiwen Wang, Kim-Anh Lê Cao</b><br/>Microbial research has become critical to investig..."
 videoID: asdf
-optimized_image: assets/img/x2yM7LcXdCSi0bm_title.jpg
+optimized_image: /assets/img/x2yM7LcXdCSi0bm_title.jpg
 tags:
  - microbiome
  - metagenomics

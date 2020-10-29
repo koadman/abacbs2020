@@ -5,7 +5,7 @@ comments: true
 category: biomed_informatics
 description: "<b>Kerui Peng, Jaqueline Brito, Guoyun Kao, Serghei Mangul</b><br/>T cells are crucial components of the adaptive imm..."
 videoID: asdf
-optimized_image: assets/img/x2yM7LcXdCSi0bm_title.jpg
+optimized_image: /assets/img/x2yM7LcXdCSi0bm_title.jpg
 tags:
  - reproducibility
  - genomics

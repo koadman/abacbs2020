@@ -5,7 +5,7 @@ comments: true
 category: phylodynamics_COVID
 description: "<b>Sergey Knyazev, Harman Singh, Varuni Sarwal, Ram Ayyala, Daniel Novikov, Roya Hosseini, Serghei Mangul, Alex Zelikovsky</b><br/>A novel coronavirus, known as SARS-CoV-2, was iden..."
 videoID: asdf
-optimized_image: assets/img/x2yM7LcXdCSi0bm_title.jpg
+optimized_image: /assets/img/x2yM7LcXdCSi0bm_title.jpg
 session_talk: 1
 tags:
  - COVID-19

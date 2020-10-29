@@ -5,7 +5,7 @@ comments: true
 category: metagenomics
 description: "<b>Johanna Wong, Ethan Wyrsch, Daniel Bogema, Faisal Hai, Jawad Al-Rifai, Kay Anantanawat, Matthew DeMaere, Sotirios Vasileiadis, Erica Donner, Steven Djordjevic, Aaron Darling</b><br/>The rise of antimicrobial resistance (AMR) poses a..."
 videoID: asdf
-optimized_image: assets/img/x2yM7LcXdCSi0bm_title.jpg
+optimized_image: /assets/img/x2yM7LcXdCSi0bm_title.jpg
 tags:
  - metagenomics
  - microbiome

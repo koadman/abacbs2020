@@ -5,7 +5,7 @@ comments: true
 category: genomics
 description: "<b>Diksha Sharma, Sylvie Hermann Le Denmat, Nicholas Matzke, Lauri Saag, Katherine Hannan, Ross Hannan, Herwati Sudoyo, Murray Cox, Justin Sullivan, Austen Ganley</b><br/>In most eukaryotes the ribosomal RNA genes (rDNA) ..."
 videoID: asdf
-optimized_image: assets/img/x2yM7LcXdCSi0bm_title.jpg
+optimized_image: /assets/img/x2yM7LcXdCSi0bm_title.jpg
 tags:
  - sequence variation
  - phylodynamics

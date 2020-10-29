@@ -5,7 +5,7 @@ comments: true
 category: single_cell
 description: "<b>Yue You</b><br/>Recent studies have characterized the single-cell ..."
 videoID: asdf
-optimized_image: assets/img/x2yM7LcXdCSi0bm_title.jpg
+optimized_image: /assets/img/x2yM7LcXdCSi0bm_title.jpg
 tags:
  - COVID-19
  - transcriptomics

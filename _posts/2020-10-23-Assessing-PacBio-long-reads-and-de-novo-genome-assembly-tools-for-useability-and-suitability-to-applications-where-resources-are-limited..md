@@ -5,7 +5,7 @@ comments: true
 category: plants_fungi
 description: "<b>Chelsea Matthews, Nathan Watson-Haigh</b><br/>Due to the further development of long read sequen..."
 videoID: asdf
-optimized_image: assets/img/x2yM7LcXdCSi0bm_title.jpg
+optimized_image: /assets/img/x2yM7LcXdCSi0bm_title.jpg
 session_talk: 1
 tags:
  - genome assembly

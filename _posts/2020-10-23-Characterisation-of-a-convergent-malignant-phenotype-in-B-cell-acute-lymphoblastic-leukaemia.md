@@ -5,7 +5,7 @@ comments: true
 category: biomed_informatics
 description: "<b>Adria Closa, Marina Reixachs, Eduardo Eyras</b><br/>Acute lymphoblastic leukaemia (ALL) is the most co..."
 videoID: asdf
-optimized_image: assets/img/x2yM7LcXdCSi0bm_title.jpg
+optimized_image: /assets/img/x2yM7LcXdCSi0bm_title.jpg
 session_talk: 1
 tags:
  - transcriptomics

@@ -5,7 +5,7 @@ comments: true
 category: long_reads
 description: "<b>Nadia Davidson, Ying Chen, Jonathan Göke, Alicia Oshlack</b><br/>Genomic rearrangements are common in the cancer la..."
 videoID: asdf
-optimized_image: assets/img/x2yM7LcXdCSi0bm_title.jpg
+optimized_image: /assets/img/x2yM7LcXdCSi0bm_title.jpg
 session_talk: 1
 tags:
  - long reads

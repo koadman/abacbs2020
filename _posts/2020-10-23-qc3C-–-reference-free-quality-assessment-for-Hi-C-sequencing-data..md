@@ -5,7 +5,7 @@ comments: true
 category: genomics
 description: "<b>Matthew DeMaere, Aaron Darling</b><br/>Hi-C is a sample preparation method that enables h..."
 videoID: asdf
-optimized_image: assets/img/x2yM7LcXdCSi0bm_title.jpg
+optimized_image: /assets/img/x2yM7LcXdCSi0bm_title.jpg
 tags:
  - DNA sequencing
  - Hi-C

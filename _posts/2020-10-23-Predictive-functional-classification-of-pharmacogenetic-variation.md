@@ -5,7 +5,7 @@ comments: true
 category: methods
 description: "<b>Dan Andrews, Matt Field</b><br/>Pharmacogenetic variation is important to drug res..."
 videoID: asdf
-optimized_image: assets/img/x2yM7LcXdCSi0bm_title.jpg
+optimized_image: /assets/img/x2yM7LcXdCSi0bm_title.jpg
 tags:
  - genomics
  - pharmacogenomics

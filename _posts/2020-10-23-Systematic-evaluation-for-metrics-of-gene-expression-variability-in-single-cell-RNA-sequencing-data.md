@@ -5,7 +5,7 @@ comments: true
 category: single_cell
 description: "<b>Huiwen Zheng, Atefeh Taherian Fard, Xiao Dong, Jessica Mar, Jan Vijg</b><br/>During ageing, transcriptional noise has been show..."
 videoID: asdf
-optimized_image: assets/img/x2yM7LcXdCSi0bm_title.jpg
+optimized_image: /assets/img/x2yM7LcXdCSi0bm_title.jpg
 tags:
  - single cell
  - transcriptomics

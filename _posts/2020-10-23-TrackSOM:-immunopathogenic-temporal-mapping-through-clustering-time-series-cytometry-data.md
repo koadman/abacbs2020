@@ -5,7 +5,7 @@ comments: true
 category: single_cell
 description: "<b>Givanna H. Putri, Jonathan Chung, Davis N. Edwards, Felix Marsh-Wakefield, Suat Dervish, Irena Koprinska, Nicholas J.C. King, Thomas M. Ashhurst, Mark Read</b><br/>Disease, and our immune response to it, are dynami..."
 videoID: asdf
-optimized_image: assets/img/x2yM7LcXdCSi0bm_title.jpg
+optimized_image: /assets/img/x2yM7LcXdCSi0bm_title.jpg
 tags:
  - single cell
  - clustering

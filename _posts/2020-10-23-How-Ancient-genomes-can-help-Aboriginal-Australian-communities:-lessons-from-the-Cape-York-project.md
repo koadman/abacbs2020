@@ -5,7 +5,7 @@ comments: true
 category: indigenous_genomics
 description: "<b>Sally Wasef, Joanne Wright, Michael Westaway, Clarence Flinders</b><br/>Paleogenetics is a relatively new and promising fi..."
 videoID: asdf
-optimized_image: assets/img/x2yM7LcXdCSi0bm_title.jpg
+optimized_image: /assets/img/x2yM7LcXdCSi0bm_title.jpg
 session_talk: 1
 tags:
  - genomics

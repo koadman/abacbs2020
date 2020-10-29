@@ -5,7 +5,7 @@ comments: true
 category: biomed_informatics
 description: "<b>Juan Luis Trincado, Eduardo Eyras</b><br/>Immunotherapies provide effective treatments for p..."
 videoID: asdf
-optimized_image: assets/img/x2yM7LcXdCSi0bm_title.jpg
+optimized_image: /assets/img/x2yM7LcXdCSi0bm_title.jpg
 tags:
  - alternative splicing
  - cancer

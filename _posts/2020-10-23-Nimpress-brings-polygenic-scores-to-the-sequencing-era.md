@@ -5,7 +5,7 @@ comments: true
 category: genomics
 description: "<b>Mark Pinese, Emilie Wilkie, Mark Cowley</b><br/>Polygenic scores enable the quantitative predictio..."
 videoID: asdf
-optimized_image: assets/img/x2yM7LcXdCSi0bm_title.jpg
+optimized_image: /assets/img/x2yM7LcXdCSi0bm_title.jpg
 tags:
  - genomics
  - sequence variation

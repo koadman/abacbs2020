@@ -5,7 +5,7 @@ comments: true
 category: methods
 description: "<b>Khelina Fedorchuk, Damien Hicks, Sarah Russel, Kajal Zibaei</b><br/>The tracking of individual, proliferating cells ov..."
 videoID: asdf
-optimized_image: assets/img/x2yM7LcXdCSi0bm_title.jpg
+optimized_image: /assets/img/x2yM7LcXdCSi0bm_title.jpg
 tags:
  - deep learning
  - microscopy

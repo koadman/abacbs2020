@@ -5,7 +5,7 @@ comments: true
 category: long_reads
 description: "<b>Martin A. Smith, Tansel Ersavas, James Ferguson, Huanle Liu, Morghan C. Lucas, Oguzhan Begik, Lilly Bojarski, Kirston Barton, Eva Maria Novoa</b><br/>Nanopore sequencing enables direct measurement of ..."
 videoID: asdf
-optimized_image: assets/img/x2yM7LcXdCSi0bm_title.jpg
+optimized_image: /assets/img/x2yM7LcXdCSi0bm_title.jpg
 tags:
  - long reads
  - transcriptomics

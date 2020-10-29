@@ -5,7 +5,7 @@ comments: true
 category: methods
 description: "<b>Yingxin Lin, Tung-Yu Wu, Sheng Wan, Jean Yang, Wing H. Wong, Y. X. Rachel Wang</b><br/>Single-cell transcriptomics profiling with single-..."
 videoID: asdf
-optimized_image: assets/img/x2yM7LcXdCSi0bm_title.jpg
+optimized_image: /assets/img/x2yM7LcXdCSi0bm_title.jpg
 session_talk: 1
 tags:
  - single cell

@@ -5,7 +5,7 @@ comments: true
 category: metagenomics
 description: "<b>Timothy Chappell, Shlomo Geva, James Hogan, David Lovell, Dimitri Perrin, Andrew Trotman</b><br/>Metagenomic sequencing produces large quantities o..."
 videoID: asdf
-optimized_image: assets/img/x2yM7LcXdCSi0bm_title.jpg
+optimized_image: /assets/img/x2yM7LcXdCSi0bm_title.jpg
 tags:
  - metagenomics
  - clustering

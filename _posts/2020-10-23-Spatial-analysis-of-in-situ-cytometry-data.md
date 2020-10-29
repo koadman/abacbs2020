@@ -5,7 +5,7 @@ comments: true
 category: single_cell
 description: "<b>Ellis Patrick, Nicolas Canete</b><br/>Understanding the interplay between different type..."
 videoID: asdf
-optimized_image: assets/img/x2yM7LcXdCSi0bm_title.jpg
+optimized_image: /assets/img/x2yM7LcXdCSi0bm_title.jpg
 tags:
  - single cell
  - cytometry

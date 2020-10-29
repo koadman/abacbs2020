@@ -5,7 +5,7 @@ comments: true
 category: genomics
 description: "<b>Varuni Sarwal, Sebastian Niehus, Ram Ayyala, Eleazar Eskin, Jonathan Flint, Serghei Mangul</b><br/>Structural variants (SVs) are genomic regions that..."
 videoID: asdf
-optimized_image: assets/img/x2yM7LcXdCSi0bm_title.jpg
+optimized_image: /assets/img/x2yM7LcXdCSi0bm_title.jpg
 session_talk: 1
 tags:
  - structural variants

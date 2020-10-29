@@ -5,7 +5,7 @@ comments: true
 category: nonmodel
 description: "<b>Swapnil Tichkule, Aaron Jex, Cock Van Oosterhout, Simone Cacciò</b><br/>INTRODUCTION: Cryptosporidiosis is a major cause o..."
 videoID: asdf
-optimized_image: assets/img/x2yM7LcXdCSi0bm_title.jpg
+optimized_image: /assets/img/x2yM7LcXdCSi0bm_title.jpg
 session_talk: 1
 tags:
  - DNA sequencing

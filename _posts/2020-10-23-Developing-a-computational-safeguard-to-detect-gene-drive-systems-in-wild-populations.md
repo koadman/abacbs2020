@@ -5,7 +5,7 @@ comments: true
 category: nonmodel
 description: "<b>Aidan Tay, Cameron Hosking, Brendan Hosking, Suzanne Scott, Daniel Reti, Aidan O'Brien, Denis Bauer, Laurence Wilson</b><br/>Genome editing technologies such as CRISPR-Cas9, h..."
 videoID: asdf
-optimized_image: assets/img/x2yM7LcXdCSi0bm_title.jpg
+optimized_image: /assets/img/x2yM7LcXdCSi0bm_title.jpg
 session_talk: 1
 tags:
  - genomics

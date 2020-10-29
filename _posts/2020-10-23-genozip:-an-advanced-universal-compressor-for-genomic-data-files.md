@@ -5,7 +5,7 @@ comments: true
 category: methods
 description: "<b>Divon Lan</b><br/>genozip is a new universal lossless compressor for..."
 videoID: asdf
-optimized_image: assets/img/x2yM7LcXdCSi0bm_title.jpg
+optimized_image: /assets/img/x2yM7LcXdCSi0bm_title.jpg
 tags:
  - data compression
  - methods

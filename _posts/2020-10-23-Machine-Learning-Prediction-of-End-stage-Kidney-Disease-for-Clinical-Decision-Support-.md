@@ -5,7 +5,7 @@ comments: true
 category: biomed_informatics
 description: "<b>Dan Andrews, Aaron Chuah</b><br/>Chronic kidney disease (CKD) is a major source of ..."
 videoID: asdf
-optimized_image: assets/img/x2yM7LcXdCSi0bm_title.jpg
+optimized_image: /assets/img/x2yM7LcXdCSi0bm_title.jpg
 tags:
  - machine learning
  - clinical genomics

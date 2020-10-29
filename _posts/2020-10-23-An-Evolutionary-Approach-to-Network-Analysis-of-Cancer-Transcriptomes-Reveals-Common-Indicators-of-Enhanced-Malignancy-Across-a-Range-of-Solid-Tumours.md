@@ -5,7 +5,7 @@ comments: true
 category: biomed_informatics
 description: "<b>David Goode, Anna Trigos, Rick Pearson, Tony Papenfuss</b><br/>Despite diverse origins and significant genomic he..."
 videoID: asdf
-optimized_image: assets/img/x2yM7LcXdCSi0bm_title.jpg
+optimized_image: /assets/img/x2yM7LcXdCSi0bm_title.jpg
 session_talk: 1
 tags:
  - transcriptomics

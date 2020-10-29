@@ -5,7 +5,7 @@ comments: true
 category: metagenomics
 description: "<b>Jaqueline Brito, Varuni Sarwal, Serghei Mangul, David Koslicki</b><br/>Taxonomic metagenome profiling aims to predict the..."
 videoID: asdf
-optimized_image: assets/img/x2yM7LcXdCSi0bm_title.jpg
+optimized_image: /assets/img/x2yM7LcXdCSi0bm_title.jpg
 tags:
  - metagenomics
  - visualization

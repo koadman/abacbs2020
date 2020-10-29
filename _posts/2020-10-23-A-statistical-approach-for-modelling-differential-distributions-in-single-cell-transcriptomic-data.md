@@ -5,7 +5,7 @@ comments: true
 category: single_cell
 description: "<b>Malindrie Dharmaratne, Ameya Kulkarni, Atefeh Taherian Fard, Ernst Wolvetang, Nir Barzilai, Jessica C Mar</b><br/>Single cell RNA sequencing (scRNA-seq) allows the ..."
 videoID: asdf
-optimized_image: assets/img/x2yM7LcXdCSi0bm_title.jpg
+optimized_image: /assets/img/x2yM7LcXdCSi0bm_title.jpg
 tags:
  - single cell
  - transcriptomics

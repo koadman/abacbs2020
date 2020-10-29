@@ -5,7 +5,7 @@ comments: true
 category: transcriptomics
 description: "<b>Ruebena Dawes, Sandra Cooper</b><br/>Background:<br/>Splicing variants are a common cau..."
 videoID: asdf
-optimized_image: assets/img/x2yM7LcXdCSi0bm_title.jpg
+optimized_image: /assets/img/x2yM7LcXdCSi0bm_title.jpg
 session_talk: 1
 tags:
  - RNA splicing

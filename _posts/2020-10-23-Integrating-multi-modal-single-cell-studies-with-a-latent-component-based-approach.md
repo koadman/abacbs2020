@@ -5,7 +5,7 @@ comments: true
 category: methods
 description: "<b>Al J Abadi, Kim-Anh Lêcao</b><br/>Single-cell multi-modal sequencing offers unpreced..."
 videoID: asdf
-optimized_image: assets/img/x2yM7LcXdCSi0bm_title.jpg
+optimized_image: /assets/img/x2yM7LcXdCSi0bm_title.jpg
 session_talk: 1
 tags:
  - single cell

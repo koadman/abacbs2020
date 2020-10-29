@@ -5,7 +5,7 @@ comments: true
 category: methods
 description: "<b>Simon Sadedin</b><br/>In recent years many methods have been developed t..."
 videoID: asdf
-optimized_image: assets/img/x2yM7LcXdCSi0bm_title.jpg
+optimized_image: /assets/img/x2yM7LcXdCSi0bm_title.jpg
 session_talk: 1
 tags:
  - deep learning

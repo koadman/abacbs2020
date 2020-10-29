@@ -5,7 +5,7 @@ comments: true
 category: plants_fungi
 description: "<b>Heroen Verbruggen, Bobbie Shaban</b><br/>Microbial eukaryotes (protists) play key roles in ..."
 videoID: asdf
-optimized_image: assets/img/x2yM7LcXdCSi0bm_title.jpg
+optimized_image: /assets/img/x2yM7LcXdCSi0bm_title.jpg
 tags:
  - metagenomics
  - phylogenetics

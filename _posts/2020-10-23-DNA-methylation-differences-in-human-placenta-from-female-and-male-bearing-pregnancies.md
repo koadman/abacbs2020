@@ -5,7 +5,7 @@ comments: true
 category: genomics
 description: "<b>Qianhui Wan, Melanie Smith, Konstantinos Bogias, Tanja Jankovic-Karasoulos, Dale McAninch, Dylan McCullough, Shalem Leemaqz, Jimmy Breen, Claire Roberts</b><br/>Sex differences in fetal growth and development ar..."
 videoID: asdf
-optimized_image: assets/img/x2yM7LcXdCSi0bm_title.jpg
+optimized_image: /assets/img/x2yM7LcXdCSi0bm_title.jpg
 tags:
  - DNA methylation
  - genomics

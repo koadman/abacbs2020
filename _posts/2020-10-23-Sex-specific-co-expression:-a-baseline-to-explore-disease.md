@@ -5,7 +5,7 @@ comments: true
 category: single_cell
 description: "<b>Sara Ballouz</b><br/>Biological states such as cell-type, cell-state, t..."
 videoID: asdf
-optimized_image: assets/img/x2yM7LcXdCSi0bm_title.jpg
+optimized_image: /assets/img/x2yM7LcXdCSi0bm_title.jpg
 invited_talk: 1
 tags:
  - single cell

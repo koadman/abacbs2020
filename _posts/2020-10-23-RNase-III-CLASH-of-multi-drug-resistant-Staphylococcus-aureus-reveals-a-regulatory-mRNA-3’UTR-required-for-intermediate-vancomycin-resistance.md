@@ -5,7 +5,7 @@ comments: true
 category: regulation
 description: "<b>Daniel G. Mediati, Julia L. Wong, Wei Gao, Stuart MacKellar, Chi Nam Ignatius Pang, Sylvania Wu, Winton Wu, Brandon Sy, Ian Monk, Joanna Richmond, Benjamin Howden, Tim P. Stinear, Sander Granneman, Jai J. Tree</b><br/>Treatment of methicillin-resistant Staphylococcus ..."
 videoID: asdf
-optimized_image: assets/img/x2yM7LcXdCSi0bm_title.jpg
+optimized_image: /assets/img/x2yM7LcXdCSi0bm_title.jpg
 session_talk: 1
 tags:
  - transcriptomics

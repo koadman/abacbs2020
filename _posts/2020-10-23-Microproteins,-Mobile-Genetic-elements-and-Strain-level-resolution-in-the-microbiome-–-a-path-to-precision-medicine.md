@@ -5,7 +5,7 @@ comments: true
 category: metagenomics
 description: "<b>Ami Bhatt</b><br/> From climate change to agriculture, and human hea..."
 videoID: asdf
-optimized_image: assets/img/x2yM7LcXdCSi0bm_title.jpg
+optimized_image: /assets/img/x2yM7LcXdCSi0bm_title.jpg
 invited_talk: 1
 tags:
  - long reads

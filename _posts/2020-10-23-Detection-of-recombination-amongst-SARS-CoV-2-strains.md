@@ -5,7 +5,7 @@ comments: true
 category: phylodynamics_COVID
 description: "<b>Cameron Hosking, Daniel Reti, Brendan Hosking, Suzanne Scott, Aidan Tay, Denis Bauer, Laurence Wilson</b><br/>The emergence and spread of the SARS-CoV-2 virus h..."
 videoID: asdf
-optimized_image: assets/img/x2yM7LcXdCSi0bm_title.jpg
+optimized_image: /assets/img/x2yM7LcXdCSi0bm_title.jpg
 tags:
  - phylogenetics
  - recombination

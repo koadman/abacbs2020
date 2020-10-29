@@ -5,7 +5,7 @@ comments: true
 category: methods
 description: "<b>Bernard Pope, Peter Georgeson, Anna Syme, Jessica Chung, Michael Milton, Harriet Dashnow, Andrew Lonsdale, Clare Sloggett, David Powell</b><br/>The results-driven focus of bioinformatics means t..."
 videoID: asdf
-optimized_image: assets/img/x2yM7LcXdCSi0bm_title.jpg
+optimized_image: /assets/img/x2yM7LcXdCSi0bm_title.jpg
 tags:
  - software development
  - open source

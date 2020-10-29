@@ -5,7 +5,7 @@ comments: true
 category: transcriptomics
 description: "<b>Sasdekumar Loganathan, Atefeh Taherian Fard, Jessica Mar</b><br/>Ageing is a complex process where the combined eff..."
 videoID: asdf
-optimized_image: assets/img/x2yM7LcXdCSi0bm_title.jpg
+optimized_image: /assets/img/x2yM7LcXdCSi0bm_title.jpg
 session_talk: 1
 tags:
  - transcriptomics

@@ -5,7 +5,7 @@ comments: true
 category: regulation
 description: "<b>Ning Liu, Timothy Sadlon, Ying Ying Wong, Stephen Pederson, Simon Barry, Jimmy Breen</b><br/>Background<br/>Genome-wide association studies (GW..."
 videoID: asdf
-optimized_image: assets/img/x2yM7LcXdCSi0bm_title.jpg
+optimized_image: /assets/img/x2yM7LcXdCSi0bm_title.jpg
 tags:
  - Hi-C
  - transcription

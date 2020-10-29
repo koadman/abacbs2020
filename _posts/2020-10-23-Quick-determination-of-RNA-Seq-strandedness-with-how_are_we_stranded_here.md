@@ -5,7 +5,7 @@ comments: true
 category: transcriptomics
 description: "<b>Beth Signal, Tim Kahlke</b><br/>RNA-Seq is a commonly performed method to analyse ..."
 videoID: asdf
-optimized_image: assets/img/x2yM7LcXdCSi0bm_title.jpg
+optimized_image: /assets/img/x2yM7LcXdCSi0bm_title.jpg
 tags:
  - transcriptomics
  - methods

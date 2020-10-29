@@ -5,7 +5,7 @@ comments: true
 category: single_cell
 description: "<b>Givanna Putri, Irena Koprinska, Thomas Ashhurst, Nicholas King, Mark Read</b><br/>Clustering is widely used in biological fields suc..."
 videoID: asdf
-optimized_image: assets/img/x2yM7LcXdCSi0bm_title.jpg
+optimized_image: /assets/img/x2yM7LcXdCSi0bm_title.jpg
 tags:
  - single cell
  - cytometry

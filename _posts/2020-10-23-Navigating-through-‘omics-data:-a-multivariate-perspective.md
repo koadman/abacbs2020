@@ -5,7 +5,7 @@ comments: true
 category: methods
 description: "<b>Kim-Anh Lê Cao</b><br/>Technological improvements have allowed for the co..."
 videoID: asdf
-optimized_image: assets/img/x2yM7LcXdCSi0bm_title.jpg
+optimized_image: /assets/img/x2yM7LcXdCSi0bm_title.jpg
 invited_talk: 1
 tags:
  - statistics

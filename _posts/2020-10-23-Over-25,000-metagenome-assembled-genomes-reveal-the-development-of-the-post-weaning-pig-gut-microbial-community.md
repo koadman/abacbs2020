@@ -5,7 +5,7 @@ comments: true
 category: metagenomics
 description: "<b>Daniela Gaio, Matthew Z. DeMaere, Kay Anantanawat, Toni A. Chapman, Steven P. Djordjevic, Aaron E. Darling</b><br/>Building on a new lower-cost metagenome sequencing..."
 videoID: asdf
-optimized_image: assets/img/x2yM7LcXdCSi0bm_title.jpg
+optimized_image: /assets/img/x2yM7LcXdCSi0bm_title.jpg
 session_talk: 1
 tags:
  - metagenomics

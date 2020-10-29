@@ -5,7 +5,7 @@ comments: true
 category: nonmodel
 description: "<b>Jack Clarke, Richard Edwards, Vicki Thomson</b><br/>Snakes are one of the most venomous animals on the..."
 videoID: asdf
-optimized_image: assets/img/x2yM7LcXdCSi0bm_title.jpg
+optimized_image: /assets/img/x2yM7LcXdCSi0bm_title.jpg
 tags:
  - genomics
  - evolution

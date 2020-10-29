@@ -4,8 +4,8 @@ title:  "Revealing interactions between coding and non-coding transcripts in pla
 comments: true
 category: plants_fungi
 description: "<b>Joel Robertson, Stephen Davis, Nitin Mantri, Alice Johnstone</b><br/>Once thought to be junk genetic material, non-codi..."
-videoID: asdf
-optimized_image: assets/img/x2yM7LcXdCSi0bm_title.jpg
+videoID: https://cloudstor.aarnet.edu.au/plus/s/MpR7DQ4wLT9VBcB/download
+optimized_image: https://cloudstor.aarnet.edu.au/plus/s/gupEPX4sesC77f6/download
 tags:
  - transcriptomics
  - non-coding RNA

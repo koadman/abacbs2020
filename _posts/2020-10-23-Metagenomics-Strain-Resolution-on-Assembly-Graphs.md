@@ -4,8 +4,8 @@ title:  "Metagenomics Strain Resolution on Assembly Graphs"
 comments: true
 category: metagenomics
 description: "<b>Christopher Quince, Sergey Nurk, Sebastien Raguideau, Robert James, Orkun Soyer, J Kimberley Summers, Antoine Limasset, A Murat Eren, Rayan Chikhi, Aaron Darling</b><br/>We introduce a novel bioinformatics pipeline, STra..."
-videoID: asdf
-optimized_image: assets/img/x2yM7LcXdCSi0bm_title.jpg
+videoID: https://cloudstor.aarnet.edu.au/plus/s/OY14Ay5dKxvt6Pn/download
+optimized_image: https://cloudstor.aarnet.edu.au/plus/s/37sLLpPlVgmMMYp/download
 tags:
  - metagenomics
  - genome assembly

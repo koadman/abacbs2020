@@ -5,7 +5,7 @@ comments: true
 category: biomed_informatics
 description: "<b>Feng Yan, David J. Curtis, Francine E. Garrett-Bakelman, Nicholas C. Wong, Pieter Van Vlierberghe</b><br/>The role of DNA methylation in the initiation and ..."
 videoID: asdf
-optimized_image: assets/img/x2yM7LcXdCSi0bm_title.jpg
+optimized_image: /assets/img/x2yM7LcXdCSi0bm_title.jpg
 tags:
  - DNA methylation
  - cancer

@@ -5,7 +5,7 @@ comments: true
 category: single_cell
 description: "<b>Ying Zheng, Di Yu, Jiayu Wen</b><br/>The current most effective clinical cancer treatme..."
 videoID: asdf
-optimized_image: assets/img/x2yM7LcXdCSi0bm_title.jpg
+optimized_image: /assets/img/x2yM7LcXdCSi0bm_title.jpg
 tags:
  - single cell
  - transcriptomics

@@ -5,7 +5,7 @@ comments: true
 category: single_cell
 description: "<b>Gunjan Dixit, Di Yu, Jiayu Wen</b><br/>Bone marrow (BM) contains multiple immune cell sub..."
 videoID: asdf
-optimized_image: assets/img/x2yM7LcXdCSi0bm_title.jpg
+optimized_image: /assets/img/x2yM7LcXdCSi0bm_title.jpg
 tags:
  - single cell
  - transcriptomics

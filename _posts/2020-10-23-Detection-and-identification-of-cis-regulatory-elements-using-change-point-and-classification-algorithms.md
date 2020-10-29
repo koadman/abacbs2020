@@ -5,7 +5,7 @@ comments: true
 category: regulation
 description: "<b>Dominic Maderazo, Jennifer Flegg, Manjula Algama, Mirana Ramialison, Jonathan Keith</b><br/>Transcriptional regulation is primarily mediated b..."
 videoID: asdf
-optimized_image: assets/img/x2yM7LcXdCSi0bm_title.jpg
+optimized_image: /assets/img/x2yM7LcXdCSi0bm_title.jpg
 tags:
  - sequence analysis
  - sequence alignment

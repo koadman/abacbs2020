@@ -5,7 +5,7 @@ comments: true
 category: phylodynamics_COVID
 description: "<b>Anders Goncalves Da Silva, Torsten Seemann, Clare Sloggett</b><br/>The COVID-19 pandemic has highlighted the need for..."
 videoID: asdf
-optimized_image: assets/img/x2yM7LcXdCSi0bm_title.jpg
+optimized_image: /assets/img/x2yM7LcXdCSi0bm_title.jpg
 session_talk: 1
 tags:
  - COVID-19

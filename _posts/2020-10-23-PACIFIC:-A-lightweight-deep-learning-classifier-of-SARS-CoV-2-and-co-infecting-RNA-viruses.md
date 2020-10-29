@@ -4,8 +4,8 @@ title:  "PACIFIC: A lightweight deep-learning classifier of SARS-CoV-2 and co-in
 comments: true
 category: phylodynamics_COVID
 description: "<b>Pablo Acera Mateos, Renzo Balboa, Simon Easteal, Eduardo Eyras, Hardip Patel</b><br/>Viral co-infections occur in COVID-19 patients, po..."
-videoID: asdf
-optimized_image: assets/img/x2yM7LcXdCSi0bm_title.jpg
+videoID: https://cloudstor.aarnet.edu.au/plus/s/3MDtFXPpaPVsykY/download
+optimized_image: https://cloudstor.aarnet.edu.au/plus/s/gn87JkwuedJLP61/download
 tags:
  - transcriptomics
  - deep learning

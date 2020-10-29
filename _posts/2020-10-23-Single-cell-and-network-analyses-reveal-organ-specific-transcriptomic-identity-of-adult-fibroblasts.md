@@ -5,7 +5,7 @@ comments: true
 category: single_cell
 description: "<b>Elvira Forte, Mirana Ramialison, Hieu Nim, Milena Furtado</b><br/>BACKGROUNDS. Organ fibroblasts are essential compo..."
 videoID: asdf
-optimized_image: assets/img/x2yM7LcXdCSi0bm_title.jpg
+optimized_image: /assets/img/x2yM7LcXdCSi0bm_title.jpg
 tags:
  - transcriptomics
  - single cell

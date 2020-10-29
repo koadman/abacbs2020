@@ -5,7 +5,7 @@ comments: true
 category: transcriptomics
 description: "<b>Konstantinos Bogias, Stephen Pederson, Qianhui Wan, Melanie Smith, James Breen, Claire Roberts</b><br/>The human placenta is a rapidly developing, highly..."
 videoID: asdf
-optimized_image: assets/img/x2yM7LcXdCSi0bm_title.jpg
+optimized_image: /assets/img/x2yM7LcXdCSi0bm_title.jpg
 tags:
  - transcriptomics
  - alternative splicing

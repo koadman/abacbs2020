@@ -5,7 +5,7 @@ comments: true
 category: single_cell
 description: "<b>Adam Chan, Ellis Patrick, Jean Yang</b><br/>With the progressive influx of high dimensional cy..."
 videoID: asdf
-optimized_image: assets/img/x2yM7LcXdCSi0bm_title.jpg
+optimized_image: /assets/img/x2yM7LcXdCSi0bm_title.jpg
 session_talk: 1
 tags:
  - single cell

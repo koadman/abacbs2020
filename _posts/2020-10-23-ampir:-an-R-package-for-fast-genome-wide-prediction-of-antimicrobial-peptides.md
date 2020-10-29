@@ -5,7 +5,7 @@ comments: true
 category: methods
 description: "<b>Legana Fingerhut, Ira Cooke, Jan Strugnell, David Miller, Norelle Daly</b><br/>Antimicrobial peptides are natural antibiotics, pa..."
 videoID: asdf
-optimized_image: assets/img/x2yM7LcXdCSi0bm_title.jpg
+optimized_image: /assets/img/x2yM7LcXdCSi0bm_title.jpg
 session_talk: 1
 tags:
  - machine learning

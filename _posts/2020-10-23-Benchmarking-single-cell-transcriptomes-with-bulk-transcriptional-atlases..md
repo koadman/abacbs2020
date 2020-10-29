@@ -5,7 +5,7 @@ comments: true
 category: single_cell
 description: "<b>Yidi Deng, Kim-Anh Lê Cao, Choi Jarny, Christine Wells</b><br/><br/>Single cell RNA sequencing (scRNA-seq) allows..."
 videoID: asdf
-optimized_image: assets/img/x2yM7LcXdCSi0bm_title.jpg
+optimized_image: /assets/img/x2yM7LcXdCSi0bm_title.jpg
 tags:
  - single cell
  - transcriptomics

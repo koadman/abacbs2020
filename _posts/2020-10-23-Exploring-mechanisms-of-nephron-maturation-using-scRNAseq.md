@@ -5,7 +5,7 @@ comments: true
 category: single_cell
 description: "<b>Sarah Williams, Rachel Lam, Yasmin Neirijnck, Pauline Sararols, Chloé Mayère, Serge Nef, Alex Combes</b><br/>Three paired kidney structures arise sequentially ..."
 videoID: asdf
-optimized_image: assets/img/x2yM7LcXdCSi0bm_title.jpg
+optimized_image: /assets/img/x2yM7LcXdCSi0bm_title.jpg
 tags:
  - single cell
  - transcriptomics

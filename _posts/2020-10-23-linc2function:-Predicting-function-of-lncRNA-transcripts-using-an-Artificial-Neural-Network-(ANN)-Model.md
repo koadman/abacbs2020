@@ -5,7 +5,7 @@ comments: true
 category: transcriptomics
 description: "<b>Yashpal Ramakrishnaiah, Levin Kuhlmann, Sonika Tyagi</b><br/>Long Noncoding RNAs (LncRNA) modulate cellular pro..."
 videoID: asdf
-optimized_image: assets/img/x2yM7LcXdCSi0bm_title.jpg
+optimized_image: /assets/img/x2yM7LcXdCSi0bm_title.jpg
 tags:
  - deep learning
  - transcriptomics

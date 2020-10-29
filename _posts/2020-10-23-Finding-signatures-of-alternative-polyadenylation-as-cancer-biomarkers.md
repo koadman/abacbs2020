@@ -5,7 +5,7 @@ comments: true
 category: biomed_informatics
 description: "<b>Nitika Kandhari, Paul Harrison, Kaylene Simpson, David Powell, Traude Beilharz, Iva Nikolic, Robert Vary, Karla Cowley</b><br/>Alternative transcript cleavage and Polyadenylatio..."
 videoID: asdf
-optimized_image: assets/img/x2yM7LcXdCSi0bm_title.jpg
+optimized_image: /assets/img/x2yM7LcXdCSi0bm_title.jpg
 session_talk: 1
 tags:
  - transcriptomics

@@ -5,7 +5,7 @@ comments: true
 category: transcriptomics
 description: "<b>Karishma Chhugani, Dhrithi Deshpande, Serghei Mangul</b><br/>As technology has advanced, RNA-seq methods have b..."
 videoID: asdf
-optimized_image: assets/img/x2yM7LcXdCSi0bm_title.jpg
+optimized_image: /assets/img/x2yM7LcXdCSi0bm_title.jpg
 tags:
  - transcriptomics
  - reproducibility

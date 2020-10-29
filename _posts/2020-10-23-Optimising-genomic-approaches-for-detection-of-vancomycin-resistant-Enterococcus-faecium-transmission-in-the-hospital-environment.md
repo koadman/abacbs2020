@@ -5,7 +5,7 @@ comments: true
 category: methods
 description: "<b>Charlie Higgs, Claire Gorrie, Norelle Sherry, Ben Howden</b><br/>Objectives:<br/><br/>Vancomycin-resistant Enteroco..."
 videoID: asdf
-optimized_image: assets/img/x2yM7LcXdCSi0bm_title.jpg
+optimized_image: /assets/img/x2yM7LcXdCSi0bm_title.jpg
 tags:
  - genomics
  - epidemiology

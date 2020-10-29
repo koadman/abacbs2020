@@ -5,7 +5,7 @@ comments: true
 category: single_cell
 description: "<b>Christina Azodi, Davis McCarthy</b><br/>Advances in single-cell (sc) technologies have mad..."
 videoID: asdf
-optimized_image: assets/img/x2yM7LcXdCSi0bm_title.jpg
+optimized_image: /assets/img/x2yM7LcXdCSi0bm_title.jpg
 tags:
  - single cell
  - benchmarking

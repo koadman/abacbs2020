@@ -5,7 +5,7 @@ comments: true
 category: methods
 description: "<b>Ebony Watson, Atefeh Taherian Fard, Farhad Soheilmoghaddam, Ernst Eolvetang, Jessica Mar</b><br/>Senescence is a cellular stress response character..."
 videoID: asdf
-optimized_image: assets/img/x2yM7LcXdCSi0bm_title.jpg
+optimized_image: /assets/img/x2yM7LcXdCSi0bm_title.jpg
 session_talk: 1
 tags:
  - machine learning

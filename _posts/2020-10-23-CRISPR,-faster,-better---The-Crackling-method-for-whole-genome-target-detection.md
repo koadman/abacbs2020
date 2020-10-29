@@ -5,7 +5,7 @@ comments: true
 category: genomics
 description: "<b>Jacob Bradford, Timothy Chappell, Brendan Hosking, Laurence Wilson, Dimitri Perrin</b><br/>CRISPR-Cas9 systems have become a leading tool for..."
 videoID: asdf
-optimized_image: assets/img/x2yM7LcXdCSi0bm_title.jpg
+optimized_image: /assets/img/x2yM7LcXdCSi0bm_title.jpg
 session_talk: 1
 tags:
  - genomics

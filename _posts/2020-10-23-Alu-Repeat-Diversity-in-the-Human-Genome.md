@@ -5,7 +5,7 @@ comments: true
 category: genomics
 description: "<b>Renzo Balboa, Simon Easteal, Hardip Patel</b><br/>More than half of the human genome is comprised of..."
 videoID: asdf
-optimized_image: assets/img/x2yM7LcXdCSi0bm_title.jpg
+optimized_image: /assets/img/x2yM7LcXdCSi0bm_title.jpg
 tags:
  - structural variants
  - evolution

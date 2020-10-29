@@ -5,7 +5,7 @@ comments: true
 category: single_cell
 description: "<b>Caleb Lau, Terry Speed, Sarah Russell, Damien Hicks</b><br/>Cell lineage trees provide a blueprint for underst..."
 videoID: asdf
-optimized_image: assets/img/x2yM7LcXdCSi0bm_title.jpg
+optimized_image: /assets/img/x2yM7LcXdCSi0bm_title.jpg
 tags:
  - single cell
  - methods

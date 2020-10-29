@@ -5,7 +5,7 @@ comments: true
 category: plants_fungi
 description: "<b>Amy Longmuir, Peter Beech, Mark Richardson</b><br/>The plant pathogen, Phytophthora cinnamomi results..."
 videoID: asdf
-optimized_image: assets/img/x2yM7LcXdCSi0bm_title.jpg
+optimized_image: /assets/img/x2yM7LcXdCSi0bm_title.jpg
 tags:
  - pathogens
  - long reads

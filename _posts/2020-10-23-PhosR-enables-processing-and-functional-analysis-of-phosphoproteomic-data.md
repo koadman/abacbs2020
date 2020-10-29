@@ -5,7 +5,7 @@ comments: true
 category: regulation
 description: "<b>Jieun Kim, Taiyun Kim, Nolan J Hoffman, Di Xiao, David James, Sean J Humphrey, Pengyi Yang</b><br/>Mass spectrometry (MS)-based phosphoproteomics has..."
 videoID: asdf
-optimized_image: assets/img/x2yM7LcXdCSi0bm_title.jpg
+optimized_image: /assets/img/x2yM7LcXdCSi0bm_title.jpg
 tags:
  - proteomics
  - gene function

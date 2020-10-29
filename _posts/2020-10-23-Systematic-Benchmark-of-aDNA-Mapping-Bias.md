@@ -5,7 +5,7 @@ comments: true
 category: methods
 description: "<b>Adrien Oliva, Raymond Tobler, Bastien Llamas, Alan Cooper, Yassine Souilmi</b><br/>Recent advances in molecular techniques, as well a..."
 videoID: asdf
-optimized_image: assets/img/x2yM7LcXdCSi0bm_title.jpg
+optimized_image: /assets/img/x2yM7LcXdCSi0bm_title.jpg
 tags:
  - ancient DNA
  - sequence alignment

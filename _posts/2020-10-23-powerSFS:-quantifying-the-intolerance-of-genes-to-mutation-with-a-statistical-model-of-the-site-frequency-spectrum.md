@@ -4,8 +4,8 @@ title:  "powerSFS: quantifying the intolerance of genes to mutation with a stati
 comments: true
 category: genomics
 description: "<b>Loic Thibaut, Eleni Giannoulatou</b><br/>Scores of genic intolerance such as RVIS, GeVIR an..."
-videoID: asdf
-optimized_image: assets/img/x2yM7LcXdCSi0bm_title.jpg
+videoID: https://cloudstor.aarnet.edu.au/plus/s/FhRcdk5PwwYhnwK/download
+optimized_image: https://cloudstor.aarnet.edu.au/plus/s/9GTf6UKmK9Pk4ax/download
 session_talk: 1
 tags:
  - genomics

@@ -5,7 +5,7 @@ comments: true
 category: methods
 description: "<b>Nicholas Darci-Maher, Serghei Mangul, Kerui Peng, Dat Duong, Eleazar Eskin, Jaqueline Brito, Anushka Rajesh, Andrew Smith, Reid F. Thompson, Abhinav Nellore, Casey Greene, Jonathan Jacobs</b><br/>As today’s high throughput sequencing techniques..."
 videoID: asdf
-optimized_image: assets/img/x2yM7LcXdCSi0bm_title.jpg
+optimized_image: /assets/img/x2yM7LcXdCSi0bm_title.jpg
 tags:
  - reproducibility
  - data sharing

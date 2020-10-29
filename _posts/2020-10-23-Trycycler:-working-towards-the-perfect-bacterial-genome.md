@@ -5,7 +5,7 @@ comments: true
 category: long_reads
 description: "<b>Ryan Wick, Kathryn Holt</b><br/>Long-read assembly has progressed rapidly in recen..."
 videoID: asdf
-optimized_image: assets/img/x2yM7LcXdCSi0bm_title.jpg
+optimized_image: /assets/img/x2yM7LcXdCSi0bm_title.jpg
 tags:
  - genome assembly
  - long reads

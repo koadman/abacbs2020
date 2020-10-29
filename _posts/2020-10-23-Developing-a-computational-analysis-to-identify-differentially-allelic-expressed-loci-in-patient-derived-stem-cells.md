@@ -5,7 +5,7 @@ comments: true
 category: methods
 description: "<b>Daniel Russell, Alexandre S. Cristino</b><br/>Epigenetics is the inherited and acquired modifica..."
 videoID: asdf
-optimized_image: assets/img/x2yM7LcXdCSi0bm_title.jpg
+optimized_image: /assets/img/x2yM7LcXdCSi0bm_title.jpg
 tags:
  - epigenomics
  - transcriptomics

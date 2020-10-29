@@ -5,7 +5,7 @@ comments: true
 category: single_cell
 description: "<b>Nicolas Canete, Ellis Patrick</b><br/>Highly multiplexed imaging techniques such as cycl..."
 videoID: asdf
-optimized_image: assets/img/x2yM7LcXdCSi0bm_title.jpg
+optimized_image: /assets/img/x2yM7LcXdCSi0bm_title.jpg
 tags:
  - single cell
  - image analysis

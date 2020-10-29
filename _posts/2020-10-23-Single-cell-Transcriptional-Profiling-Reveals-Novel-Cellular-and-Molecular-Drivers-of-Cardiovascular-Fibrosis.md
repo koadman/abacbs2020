@@ -5,7 +5,7 @@ comments: true
 category: single_cell
 description: "<b>Malathi S.I. Dona, Micheal A. McLellan, Daniel A. Skelly, Maria Jelinic, Galen T. Squiers, Gabriella E. Farrugia, Anthony Vinh, Taylah L. Gaynor, Charles D. Cohen, Raghav Pandey, Henry Diep, Nadia A. Rosenthal, Grant R. Drummond, Alexander R. Pinto</b><br/>Fibrosis is a leading factor in the development of..."
 videoID: asdf
-optimized_image: assets/img/x2yM7LcXdCSi0bm_title.jpg
+optimized_image: /assets/img/x2yM7LcXdCSi0bm_title.jpg
 tags:
  - single cell
  - transcriptomics

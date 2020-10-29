@@ -5,7 +5,7 @@ comments: true
 category: nonmodel
 description: "<b>Evelien Bunnik, Aarthi Venkat, Ferhat Ay, Karine Le Roch</b><br/>The malaria parasite, Plasmodium falciparum, is a ..."
 videoID: asdf
-optimized_image: assets/img/x2yM7LcXdCSi0bm_title.jpg
+optimized_image: /assets/img/x2yM7LcXdCSi0bm_title.jpg
 invited_talk: 1
 tags:
  - Hi-C
