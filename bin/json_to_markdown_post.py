@@ -27,20 +27,21 @@ optimized_image: {video_stillframe}
         for keyword in json_data['keywords']:
             md_string += ' - '+keyword+'\n'
 
+    remo_string = ""
+    if json_data['talk_type'] != 'invited':
+        remo_string = "\nFind me during our live conference, [in Remo, table "+str(json_data['number'])+"](https://remo.co)"
     md_string += """---
 {cloudstor_include}
 {author_list_hyperlinked}<br/>
 {affil_text}
-
-Find me during our live conference, [in Remo Room {remo_room}, table {remo_table}](https://remo.co)
+{remo_string}
 
 <b>Abstract</b><br/>
 {abstract}
 """.format(cloudstor_include=cloudstor_include,
         author_list_hyperlinked=json_data['author_list_hyperlinked'],
         affil_text=json_data['affil_text'],
-        remo_room=json_data['remo_room'],
-        remo_table=json_data['remo_table'],
+        remo_string=remo_string,
         abstract=json_data['abstract'])
 
     output_fname = json_data['title']
