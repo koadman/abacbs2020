@@ -18,7 +18,7 @@ Martin A. Smith<sup>0</sup>, Tansel Ersavas<sup>1</sup>, <u>James Ferguson</u><s
 \(1\) Garvan Institute<br/>
 \(2\) Centre for Genomic Regulation (CRG)
 
-Find me during our live conference, [in Remo Room 2, table 19](https://remo.co)
+Find me during our live conference, [in Remo, table 40](https://remo.co)
 
 <b>Abstract</b><br/>
 Nanopore sequencing enables direct measurement of RNA molecules without conversion to cDNA, thus opening the gates to a new era for RNA biology. However, the lack of molecular barcoding of direct RNA nanopore sequencing data sets severely affects the applicability of this technology to biological samples, where RNA availability is often limited. Here, we provide the first experimental protocol and associated algorithm to barcode and demultiplex direct RNA nanopore sequencing data sets. Specifically, we present a novel and robust approach to accurately classify raw nanopore signal data by transforming current intensities into images or arrays of pixels, followed by classification using a deep learning algorithm. We demonstrate the power of this strategy by developing the first experimental protocol for barcoding and demultiplexing direct RNA sequencing libraries. Our method, DeePlexiCon, can classify 93% of reads with 95.1% accuracy or 60% of reads with 99.9% accuracy. The availability of an efficient and simple multiplexing strategy for native RNA sequencing will improve the cost-effectiveness of this technology, as well as facilitate the analysis of lower-input biological samples. Overall, our work exemplifies the power, simplicity, and robustness of signal-to-image conversion for nanopore data analysis using deep learning.

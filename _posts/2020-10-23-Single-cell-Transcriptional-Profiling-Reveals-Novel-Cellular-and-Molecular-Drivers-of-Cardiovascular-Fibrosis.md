@@ -20,7 +20,7 @@ tags:
 \(4\) Baker Heart and Diabetes Institute, La Trobe University<br/>
 \(5\) Baker Heart and Diabetes Institute , La Trobe University, The Jackson Laboratory
 
-Find me during our live conference, [in Remo Room 3, table 20](https://remo.co)
+Find me during our live conference, [in Remo, table 97](https://remo.co)
 
 <b>Abstract</b><br/>
 Fibrosis is a leading factor in the development of many cardiovascular diseases, which are major causes of morbidity and mortality worldwide. Recent research has revealed that cardiovascular tissues—such as the heart and aorta—are complex cellular networks comprising diverse arrays of cell types. However, little is known of how these networks change during chronic physiological stress and how specific cell populations contribute to fibrosis. To address these gaps in our knowledge, we utilised single-cell RNA-sequencing to characterise changes in the cellular landscapes of mouse hearts and aortas in the context of chronic physiological stress. Our research has identified previously undescribed cell types, global cellular changes in gene expression, and shifts in intercellular communication networks that drive tissue fibrosis. Our research has also highlighted sex-specific characteristics of the homeostatic and stressed tissue that have been previously unappreciated. Our high-resolution analyses of the heart and aorta provide new insights and challenge many long-held paradigms of how fibrosis develops and contributes to cardiovascular disease.

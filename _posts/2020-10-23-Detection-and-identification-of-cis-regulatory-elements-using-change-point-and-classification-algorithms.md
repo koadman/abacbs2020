@@ -18,7 +18,7 @@ tags:
 \(2\) The Australian Regenerative Medicine Instute<br/>
 \(3\) Monash University
 
-Find me during our live conference, [in Remo Room 2, table 30](https://remo.co)
+Find me during our live conference, [in Remo, table 50](https://remo.co)
 
 <b>Abstract</b><br/>
 Transcriptional regulation is primarily mediated by the binding of factors to non-coding regions in DNA. Identification of these binding regions enhances understanding of tissue formation and potentially facilitates the development of gene therapies. However, successful identification of binding regions is made difficult by the lack of a universal biological code for their characterisation. We extend an alignment-based method, changept, and identify clusters of biological significance, through ontology and de novo motif analysis. Further, we apply a Bayesian method to estimate and combine binary classifiers on the clusters we identify to produce a better performing composite. The analysis we describe provides a computational method for identification of conserved binding sites.
