@@ -36,6 +36,10 @@ TARGETACODEC=`ffprobe -v error -select_streams a:0 -show_entries stream=codec_na
 TARGETAUDIORATE=`ffprobe -v error -show_entries stream=sample_rate -of default=noprint_wrappers=1:nokey=1 "${video}"`
 TARGETCHANNELS=`ffprobe -v error -show_entries stream=channels -of default=noprint_wrappers=1:nokey=1 "${video}"`
 #VIDEOTRACK=`ffprobe -select_streams v:0 -show_entries stream=index -of default=noprint_wrappers=1:nokey=1 "${video}"`
+if [ \$TARGETACODEC == 'mp3' ]
+then
+	TARGETACODEC="aac"
+fi
 
 # reformat the sponsor logo videos to match the talk video
 ffmpeg -i ${prefix_video} -threads 10 -vf "scale=w=\$TARGETWIDTH:h=\$TARGETHEIGHT:force_original_aspect_ratio=decrease,pad=\$TARGETWIDTH:\$TARGETHEIGHT:(ow-iw)/2:(oh-ih)/2" -acodec \$TARGETACODEC -ac \$TARGETCHANNELS -ar \$TARGETAUDIORATE -b:a \$TARGETABITRATE -y prefix_downsample.mp4
