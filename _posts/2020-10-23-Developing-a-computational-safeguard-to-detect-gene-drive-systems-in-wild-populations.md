@@ -4,8 +4,8 @@ title:  "Developing a computational safeguard to detect gene drive systems in wi
 comments: true
 category: nonmodel
 description: "<b>Aidan Tay, Cameron Hosking, Brendan Hosking, Suzanne Scott, Daniel Reti, Aidan O'Brien, Denis Bauer, Laurence Wilson</b><br/>Genome editing technologies such as CRISPR-Cas9, h..."
-videoID: asdf
-optimized_image: /assets/img/x2yM7LcXdCSi0bm_title.jpg
+videoID: https://cloudstor.aarnet.edu.au/plus/s/fR6w17mLNeei5Ut/download
+optimized_image: https://cloudstor.aarnet.edu.au/plus/s/5Es7LoU9NTsiAZx/download
 session_talk: 1
 tags:
  - genomics

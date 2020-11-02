@@ -4,8 +4,8 @@ title:  "Detection and identification of cis-regulatory elements using change-po
 comments: true
 category: regulation
 description: "<b>Dominic Maderazo, Jennifer Flegg, Manjula Algama, Mirana Ramialison, Jonathan Keith</b><br/>Transcriptional regulation is primarily mediated b..."
-videoID: https://cloudstor.aarnet.edu.au/plus/s/WTYE8PbcbLTg7cT/download
-optimized_image: https://cloudstor.aarnet.edu.au/plus/s/srEEiTCZ0knRfD9/download
+videoID: https://cloudstor.aarnet.edu.au/plus/s/9cq7dxJl2mW8QSR/download
+optimized_image: https://cloudstor.aarnet.edu.au/plus/s/3rMYBFmXByIo3rf/download
 tags:
  - sequence analysis
  - sequence alignment

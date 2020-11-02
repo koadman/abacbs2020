@@ -4,8 +4,8 @@ title:  "Implementing an integrated analysis to identify and validate circular R
 comments: true
 category: transcriptomics
 description: "<b>Oak Hatzimanolis, Alan Mackay-Sim, Alexandre Cristino</b><br/>In recent years it has been determined that a larg..."
-videoID: https://cloudstor.aarnet.edu.au/plus/s/pcMuiaRfVwMgf5s/download
-optimized_image: https://cloudstor.aarnet.edu.au/plus/s/0jjI9s0aPv5Gdvb/download
+videoID: https://cloudstor.aarnet.edu.au/plus/s/huxwdLkGK6YPUaI/download
+optimized_image: https://cloudstor.aarnet.edu.au/plus/s/yKyKh0nDtigovl9/download
 session_talk: 1
 tags:
  - transcriptomics

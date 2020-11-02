@@ -4,8 +4,8 @@ title:  "3DFAACTS-SNP: Using regulatory T cell-specific epigenomics data to unco
 comments: true
 category: regulation
 description: "<b>Ning Liu, Timothy Sadlon, Ying Ying Wong, Stephen Pederson, Simon Barry, Jimmy Breen</b><br/>Background<br/>Genome-wide association studies (GW..."
-videoID: https://cloudstor.aarnet.edu.au/plus/s/3gKyAoJnCkX0CIj/download
-optimized_image: https://cloudstor.aarnet.edu.au/plus/s/ial5U8A7aDMKrre/download
+videoID: https://cloudstor.aarnet.edu.au/plus/s/dNrVg7XULMq9ZV7/download
+optimized_image: https://cloudstor.aarnet.edu.au/plus/s/az4ysKe0mcrptGS/download
 tags:
  - Hi-C
  - transcription

@@ -4,8 +4,8 @@ title:  "A workflow for the detection and phylogenetic placement of eukaryotes f
 comments: true
 category: plants_fungi
 description: "<b>Heroen Verbruggen, Bobbie Shaban</b><br/>Microbial eukaryotes (protists) play key roles in ..."
-videoID: https://cloudstor.aarnet.edu.au/plus/s/cyMgNpTg1okCqLc/download
-optimized_image: https://cloudstor.aarnet.edu.au/plus/s/6iO9fe11smoRWxu/download
+videoID: https://cloudstor.aarnet.edu.au/plus/s/AFE65LUuoWlnKvl/download
+optimized_image: https://cloudstor.aarnet.edu.au/plus/s/pxQjFOOTb9tRhdm/download
 tags:
  - metagenomics
  - phylogenetics

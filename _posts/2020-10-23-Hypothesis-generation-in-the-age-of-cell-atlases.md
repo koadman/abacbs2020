@@ -4,8 +4,8 @@ title:  "Hypothesis generation in the age of cell atlases"
 comments: true
 category: single_cell
 description: "<b>Fabio Zanini, Julie Thoms, Bojk Berghuis, Racquel Domingo-Gonzales, Zhiyuan Yao, Shirit Einav, Cristina Alvira, David Cornfield, Stephen Quake, John Pimanda</b><br/>While many laboratories are driven by computationa..."
-videoID: https://cloudstor.aarnet.edu.au/plus/s/YkbySfwIKBtnrcA/download
-optimized_image: https://cloudstor.aarnet.edu.au/plus/s/vImjVfqkjspCbh0/download
+videoID: https://cloudstor.aarnet.edu.au/plus/s/qiiNJv632cypSq7/download
+optimized_image: https://cloudstor.aarnet.edu.au/plus/s/m9v5nWt9Qwn3uQd/download
 invited_talk: 1
 tags:
  - single cell

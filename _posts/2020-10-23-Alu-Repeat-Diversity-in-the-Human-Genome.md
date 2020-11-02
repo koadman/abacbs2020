@@ -4,8 +4,8 @@ title:  "Alu Repeat Diversity in the Human Genome"
 comments: true
 category: genomics
 description: "<b>Renzo Balboa, Simon Easteal, Hardip Patel</b><br/>More than half of the human genome is comprised of..."
-videoID: https://cloudstor.aarnet.edu.au/plus/s/WmCHzSdJLS0TI7I/download
-optimized_image: https://cloudstor.aarnet.edu.au/plus/s/B4a06bCmq18U6OD/download
+videoID: https://cloudstor.aarnet.edu.au/plus/s/Us1ilTzZdBXpAiU/download
+optimized_image: https://cloudstor.aarnet.edu.au/plus/s/XCyS2OGIUWGR5Or/download
 tags:
  - structural variants
  - evolution

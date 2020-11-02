@@ -4,8 +4,8 @@ title:  "Developing a computational analysis to identify differentially allelic 
 comments: true
 category: methods
 description: "<b>Daniel Russell, Alexandre S. Cristino</b><br/>Epigenetics is the inherited and acquired modifica..."
-videoID: https://cloudstor.aarnet.edu.au/plus/s/V7o2VqwZzCpghvA/download
-optimized_image: https://cloudstor.aarnet.edu.au/plus/s/Q4w3tU2SogMorXS/download
+videoID: https://cloudstor.aarnet.edu.au/plus/s/YiFi9rUkfh8Kaaf/download
+optimized_image: https://cloudstor.aarnet.edu.au/plus/s/OTskKytOkF3WLLA/download
 tags:
  - epigenomics
  - transcriptomics

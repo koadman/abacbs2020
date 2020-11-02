@@ -4,8 +4,8 @@ title:  "propeller: finding statistically significant differences in cell type p
 comments: true
 category: single_cell
 description: "<b>Belinda Phipson, Evangelyn Sim, Enzo Porrello, Alicia Oshlack</b><br/>Single cell RNA Sequencing (scRNA-seq) has rapidly..."
-videoID: https://cloudstor.aarnet.edu.au/plus/s/oSlOrshyIE2t5p1/download
-optimized_image: https://cloudstor.aarnet.edu.au/plus/s/PkhFe6zwKRH8hFw/download
+videoID: https://cloudstor.aarnet.edu.au/plus/s/QyCChrW2nhNntLz/download
+optimized_image: https://cloudstor.aarnet.edu.au/plus/s/VFgw5zZsIYIla0c/download
 session_talk: 1
 tags:
  - single cell

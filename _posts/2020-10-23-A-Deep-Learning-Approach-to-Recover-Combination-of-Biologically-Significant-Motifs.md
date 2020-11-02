@@ -4,8 +4,8 @@ title:  "A Deep Learning Approach to Recover Combination of Biologically Signifi
 comments: true
 category: regulation
 description: "<b>Tarun Bonu, Sonika Tyagi</b><br/>DNA or RNA motifs are short (5-20 bp) recurring pa..."
-videoID: https://cloudstor.aarnet.edu.au/plus/s/0L9EDQSeUAH6VmP/download
-optimized_image: https://cloudstor.aarnet.edu.au/plus/s/dB7T8b06jlTbsGm/download
+videoID: https://cloudstor.aarnet.edu.au/plus/s/aMDZmfIGL8uamkd/download
+optimized_image: https://cloudstor.aarnet.edu.au/plus/s/TlLFG6XFLNPEfuH/download
 tags:
  - deep learning
  - machine learning

@@ -4,8 +4,8 @@ title:  "Evaluation of recombination detection methods for viral sequence analys
 comments: true
 category: methods
 description: "<b>Frederick Jaya, Barbara Brito-Rodriguez, Aaron Darling</b><br/>To accurately infer the evolutionary history of vi..."
-videoID: https://cloudstor.aarnet.edu.au/plus/s/LwQ6bvIvNRqKzpr/download
-optimized_image: https://cloudstor.aarnet.edu.au/plus/s/zOwOESMLg5IoE5J/download
+videoID: https://cloudstor.aarnet.edu.au/plus/s/ygKtqOjbwg30Lxy/download
+optimized_image: https://cloudstor.aarnet.edu.au/plus/s/qE2zFNeYR5PQo0T/download
 tags:
  - recombination
  - phylogenetics

@@ -4,8 +4,8 @@ title:  "Trycycler: working towards the perfect bacterial genome"
 comments: true
 category: long_reads
 description: "<b>Ryan Wick, Kathryn Holt</b><br/>Long-read assembly has progressed rapidly in recen..."
-videoID: https://cloudstor.aarnet.edu.au/plus/s/W5NLRBe2dGatTVz/download
-optimized_image: https://cloudstor.aarnet.edu.au/plus/s/Ej4JRQGEjGFq91k/download
+videoID: https://cloudstor.aarnet.edu.au/plus/s/thlkRrLHFWkEYYR/download
+optimized_image: https://cloudstor.aarnet.edu.au/plus/s/19yefFFsNR4P7aQ/download
 tags:
  - genome assembly
  - long reads

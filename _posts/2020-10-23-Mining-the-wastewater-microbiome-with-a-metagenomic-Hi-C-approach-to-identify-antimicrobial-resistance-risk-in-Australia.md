@@ -4,8 +4,8 @@ title:  "Mining the wastewater microbiome with a metagenomic Hi-C approach to id
 comments: true
 category: metagenomics
 description: "<b>Johanna Wong, Ethan Wyrsch, Daniel Bogema, Faisal Hai, Jawad Al-Rifai, Kay Anantanawat, Matthew DeMaere, Sotirios Vasileiadis, Erica Donner, Steven Djordjevic, Aaron Darling</b><br/>The rise of antimicrobial resistance (AMR) poses a..."
-videoID: https://cloudstor.aarnet.edu.au/plus/s/lB1V2CiIooEEE0O/download
-optimized_image: https://cloudstor.aarnet.edu.au/plus/s/lJXR867oVKxOona/download
+videoID: https://cloudstor.aarnet.edu.au/plus/s/uwoHvKaRDLMueyt/download
+optimized_image: https://cloudstor.aarnet.edu.au/plus/s/FxRAY1NLu0CuESk/download
 tags:
  - metagenomics
  - microbiome

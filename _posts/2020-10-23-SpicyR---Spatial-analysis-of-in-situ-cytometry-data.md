@@ -4,8 +4,8 @@ title:  "SpicyR - Spatial analysis of in situ cytometry data"
 comments: true
 category: single_cell
 description: "<b>Nicolas Canete, Ellis Patrick</b><br/>Highly multiplexed imaging techniques such as cycl..."
-videoID: https://cloudstor.aarnet.edu.au/plus/s/MxIhTzWiBVQbMOe/download
-optimized_image: https://cloudstor.aarnet.edu.au/plus/s/8hTs2UvVMNMVaeM/download
+videoID: https://cloudstor.aarnet.edu.au/plus/s/qNFq6u92O980voo/download
+optimized_image: https://cloudstor.aarnet.edu.au/plus/s/9iqiPpgpyhbvEcL/download
 tags:
  - single cell
  - image analysis

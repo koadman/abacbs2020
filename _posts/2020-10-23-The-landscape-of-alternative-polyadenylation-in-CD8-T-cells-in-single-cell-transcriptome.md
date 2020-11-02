@@ -4,8 +4,8 @@ title:  "The landscape of alternative polyadenylation in CD8 T cells in single-c
 comments: true
 category: regulation
 description: "<b>Lixinyu Liu, Jiayu Wen</b><br/>Alternative cleavage and polyadenylation (APA) ena..."
-videoID: https://cloudstor.aarnet.edu.au/plus/s/ZordrI9kS2Suedh/download
-optimized_image: https://cloudstor.aarnet.edu.au/plus/s/V7lPTWDWp7uh7s9/download
+videoID: https://cloudstor.aarnet.edu.au/plus/s/jTZf2APwe6Tm55s/download
+optimized_image: https://cloudstor.aarnet.edu.au/plus/s/3E5rdWyqKMYa4yw/download
 session_talk: 1
 tags:
  - single cell

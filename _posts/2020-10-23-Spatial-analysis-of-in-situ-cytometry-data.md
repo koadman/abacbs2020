@@ -4,8 +4,8 @@ title:  "Spatial analysis of in situ cytometry data"
 comments: true
 category: single_cell
 description: "<b>Ellis Patrick, Nicolas Canete</b><br/>Understanding the interplay between different type..."
-videoID: https://cloudstor.aarnet.edu.au/plus/s/n69AQrNflMzKY2G/download
-optimized_image: https://cloudstor.aarnet.edu.au/plus/s/Of1TsitHQKNANuB/download
+videoID: https://cloudstor.aarnet.edu.au/plus/s/lJlXdWxdckDoiud/download
+optimized_image: https://cloudstor.aarnet.edu.au/plus/s/45US2hNzaSn5Q6M/download
 tags:
  - single cell
  - cytometry

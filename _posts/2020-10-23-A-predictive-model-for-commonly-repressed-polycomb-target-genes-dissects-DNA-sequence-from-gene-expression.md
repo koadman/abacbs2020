@@ -4,8 +4,8 @@ title:  "A predictive model for commonly-repressed polycomb-target genes dissect
 comments: true
 category: regulation
 description: "<b>Emma Gail, Sonika Tyagi, Chen Davidovich</b><br/>BACKGROUND: Histone H3 lysine 27 trimethylation (H..."
-videoID: https://cloudstor.aarnet.edu.au/plus/s/Vw9RUX5JcRqqMrA/download
-optimized_image: https://cloudstor.aarnet.edu.au/plus/s/tnBWet57i02BV8u/download
+videoID: https://cloudstor.aarnet.edu.au/plus/s/RNmfQ4uwnYtZhME/download
+optimized_image: https://cloudstor.aarnet.edu.au/plus/s/mLorTXsI40lRZht/download
 session_talk: 1
 tags:
  - machine learning

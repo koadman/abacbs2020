@@ -4,8 +4,8 @@ title:  "Comprehensive analysis of usability and archival stability of RNA-seq t
 comments: true
 category: transcriptomics
 description: "<b>Karishma Chhugani, Dhrithi Deshpande, Serghei Mangul</b><br/>As technology has advanced, RNA-seq methods have b..."
-videoID: https://cloudstor.aarnet.edu.au/plus/s/DhpK9Lify1XuHlN/download
-optimized_image: https://cloudstor.aarnet.edu.au/plus/s/MvRzWqkC0YShMGA/download
+videoID: https://cloudstor.aarnet.edu.au/plus/s/6EkZ7wMsDM6NU8a/download
+optimized_image: https://cloudstor.aarnet.edu.au/plus/s/PKQ5UpfGpproKKi/download
 tags:
  - transcriptomics
  - reproducibility

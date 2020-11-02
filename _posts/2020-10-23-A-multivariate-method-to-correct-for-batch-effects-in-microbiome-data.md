@@ -4,8 +4,8 @@ title:  "A multivariate method to correct for batch effects in microbiome data"
 comments: true
 category: metagenomics
 description: "<b>Yiwen Wang, Kim-Anh Lê Cao</b><br/>Microbial research has become critical to investig..."
-videoID: https://cloudstor.aarnet.edu.au/plus/s/zx5OFwWRDAD02zt/download
-optimized_image: https://cloudstor.aarnet.edu.au/plus/s/tuCCxIjpetNoWqW/download
+videoID: https://cloudstor.aarnet.edu.au/plus/s/b9rlWHqDZBd5A4B/download
+optimized_image: https://cloudstor.aarnet.edu.au/plus/s/x0giaQMuv56ZxkY/download
 tags:
  - microbiome
  - metagenomics

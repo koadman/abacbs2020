@@ -4,8 +4,8 @@ title:  "Systematic evaluation for metrics of gene expression variability in sin
 comments: true
 category: single_cell
 description: "<b>Huiwen Zheng, Atefeh Taherian Fard, Xiao Dong, Jessica Mar, Jan Vijg</b><br/>During ageing, transcriptional noise has been show..."
-videoID: https://cloudstor.aarnet.edu.au/plus/s/BNEXMht7LIPt0CD/download
-optimized_image: https://cloudstor.aarnet.edu.au/plus/s/lUVEDrPkuJkBxN3/download
+videoID: https://cloudstor.aarnet.edu.au/plus/s/eAUdhjYqDVVzyKc/download
+optimized_image: https://cloudstor.aarnet.edu.au/plus/s/P3y5Jf67okxJBKP/download
 tags:
  - single cell
  - transcriptomics

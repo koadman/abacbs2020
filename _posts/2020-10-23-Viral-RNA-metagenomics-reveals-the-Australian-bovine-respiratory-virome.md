@@ -4,8 +4,8 @@ title:  "Viral RNA metagenomics reveals the Australian bovine respiratory virome
 comments: true
 category: metagenomics
 description: "<b>Barbara Brito Rodriguez, Kay Anantanawat, Tony Batterham, Melinda Frost, Peter Kirkland, Edward Holmes, Aaron Darling</b><br/>Metagenomic next-generation sequencing is transfor..."
-videoID: https://cloudstor.aarnet.edu.au/plus/s/hyFpyNa0UjZ6WMI/download
-optimized_image: https://cloudstor.aarnet.edu.au/plus/s/brVf7gUaI6ErAjG/download
+videoID: https://cloudstor.aarnet.edu.au/plus/s/9079h8SwDw7DhKi/download
+optimized_image: https://cloudstor.aarnet.edu.au/plus/s/RtWexLyKDA20VFh/download
 tags:
  - metagenomics
  - viruses

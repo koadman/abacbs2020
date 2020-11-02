@@ -4,8 +4,8 @@ title:  "An Open Platform for Cannabis Genomics Research"
 comments: true
 category: plants_fungi
 description: "<b>Locedie Mansueto, Ramil Mauleon, Tobias Kretzschmar, Graham King</b><br/>Recent global appreciation of the therapeutic prop..."
-videoID: https://cloudstor.aarnet.edu.au/plus/s/1kdWkuJq9dSQEte/download
-optimized_image: https://cloudstor.aarnet.edu.au/plus/s/yiDGgL8slx4QvHN/download
+videoID: https://cloudstor.aarnet.edu.au/plus/s/bSnFbMEzG5Mrpqz/download
+optimized_image: https://cloudstor.aarnet.edu.au/plus/s/dJt3AygHzZVexCl/download
 tags:
  - Cannabis
  - plants

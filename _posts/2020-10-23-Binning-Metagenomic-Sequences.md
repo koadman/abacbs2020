@@ -4,8 +4,8 @@ title:  "Binning Metagenomic Sequences"
 comments: true
 category: genomics
 description: "<b>Yu Lin</b><br/>Metagenomics studies have provided key insights in..."
-videoID: https://cloudstor.aarnet.edu.au/plus/s/IYdbINBUd3yaR2w/download
-optimized_image: https://cloudstor.aarnet.edu.au/plus/s/mcAPE21Y1USW0Kr/download
+videoID: https://cloudstor.aarnet.edu.au/plus/s/U11C8Gbbqsjr4GK/download
+optimized_image: https://cloudstor.aarnet.edu.au/plus/s/VvYav6rXyv4f0S0/download
 invited_talk: 1
 tags:
  - metagenomics

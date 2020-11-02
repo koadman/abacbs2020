@@ -4,8 +4,8 @@ title:  "Comprehensive characterization of single cell full-length isoforms in h
 comments: true
 category: long_reads
 description: "<b>Luyi Tian, Jafar Jabbari, Matthew Ritchie</b><br/>Alternative splicing shapes the phenotype of cells..."
-videoID: https://cloudstor.aarnet.edu.au/plus/s/AtGlXxMyhkpUHeO/download
-optimized_image: https://cloudstor.aarnet.edu.au/plus/s/28DOOVQKOc2eIc5/download
+videoID: https://cloudstor.aarnet.edu.au/plus/s/wKNAES5tStkVjU6/download
+optimized_image: https://cloudstor.aarnet.edu.au/plus/s/q3q9jfMfYMJk4tq/download
 session_talk: 1
 tags:
  - single cell genomic

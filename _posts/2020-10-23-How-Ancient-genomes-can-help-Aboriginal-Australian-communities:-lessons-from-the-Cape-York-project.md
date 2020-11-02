@@ -4,8 +4,8 @@ title:  "How Ancient genomes can help Aboriginal Australian communities: lessons
 comments: true
 category: indigenous_genomics
 description: "<b>Sally Wasef, Joanne Wright, Michael Westaway, Clarence Flinders</b><br/>Paleogenetics is a relatively new and promising fi..."
-videoID: https://cloudstor.aarnet.edu.au/plus/s/9vVNcNe3XPZg1aB/download
-optimized_image: https://cloudstor.aarnet.edu.au/plus/s/GWKr0UNMzr8KuP3/download
+videoID: https://cloudstor.aarnet.edu.au/plus/s/SONeNeeM8cfaltk/download
+optimized_image: https://cloudstor.aarnet.edu.au/plus/s/KUBoyYTeHLeHdPY/download
 session_talk: 1
 tags:
  - genomics
