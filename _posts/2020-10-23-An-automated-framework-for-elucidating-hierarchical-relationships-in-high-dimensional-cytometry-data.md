@@ -4,8 +4,8 @@ title:  "An automated framework for elucidating hierarchical relationships in hi
 comments: true
 category: single_cell
 description: "<b>Adam Chan, Ellis Patrick, Jean Yang</b><br/>With the progressive influx of high dimensional cy..."
-videoID: asdf
-optimized_image: /assets/img/x2yM7LcXdCSi0bm_title.jpg
+videoID: https://cloudstor.aarnet.edu.au/plus/s/l4fbeErRWeKbY5W/download
+optimized_image: https://cloudstor.aarnet.edu.au/plus/s/uLx8yYk71304Fhz/download
 session_talk: 1
 tags:
  - single cell

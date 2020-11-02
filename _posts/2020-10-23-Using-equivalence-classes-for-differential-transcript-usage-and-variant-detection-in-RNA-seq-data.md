@@ -4,8 +4,8 @@ title:  "Using equivalence classes for differential transcript usage and variant
 comments: true
 category: transcriptomics
 description: "<b>Marek Cmero, Breon Schmidt, Ian Majewski, Paul Ekert, Nadia Davidson, Alicia Oshlack</b><br/>RNA sequencing (RNA-seq) has enabled high-throughp..."
-videoID: https://cloudstor.aarnet.edu.au/plus/s/630sR1QEYMuYwk1/download
-optimized_image: https://cloudstor.aarnet.edu.au/plus/s/D6cJTnjJDe0JbGK/download
+videoID: https://cloudstor.aarnet.edu.au/plus/s/BQVeawImoWyaQO1/download
+optimized_image: https://cloudstor.aarnet.edu.au/plus/s/x6R20PYFBpXbKX0/download
 tags:
  - transcriptomics
  - cancer

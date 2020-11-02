@@ -4,8 +4,8 @@ title:  "Risk prediction survival model utilising both omics data and clinical d
 comments: true
 category: biomed_informatics
 description: "<b>Yunwei Zhang, Jean Yang, Samuel Mueller, Graham Mann</b><br/>Utilisation of omics data such as gene expression ..."
-videoID: https://cloudstor.aarnet.edu.au/plus/s/jsWfCSqkjf4NDOB/download
-optimized_image: https://cloudstor.aarnet.edu.au/plus/s/nctqE1qvMXTkyBe/download
+videoID: https://cloudstor.aarnet.edu.au/plus/s/uu4gYD3yaCfERxD/download
+optimized_image: https://cloudstor.aarnet.edu.au/plus/s/Sudi9VkDFDUnCdW/download
 tags:
  - machine learning
  - biomedical informatics

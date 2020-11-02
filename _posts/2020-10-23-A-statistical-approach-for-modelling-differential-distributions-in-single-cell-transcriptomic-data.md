@@ -4,8 +4,8 @@ title:  "A statistical approach for modelling differential distributions in sing
 comments: true
 category: single_cell
 description: "<b>Malindrie Dharmaratne, Ameya Kulkarni, Atefeh Taherian Fard, Ernst Wolvetang, Nir Barzilai, Jessica C Mar</b><br/>Single cell RNA sequencing (scRNA-seq) allows the ..."
-videoID: asdf
-optimized_image: /assets/img/x2yM7LcXdCSi0bm_title.jpg
+videoID: https://cloudstor.aarnet.edu.au/plus/s/hKgXPW5yYkiek4M/download
+optimized_image: https://cloudstor.aarnet.edu.au/plus/s/lXo6VqROnzU9ogA/download
 tags:
  - single cell
  - transcriptomics

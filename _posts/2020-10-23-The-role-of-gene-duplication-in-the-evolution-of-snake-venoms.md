@@ -4,8 +4,8 @@ title:  "The role of gene duplication in the evolution of snake venoms"
 comments: true
 category: nonmodel
 description: "<b>Jack Clarke, Richard Edwards, Vicki Thomson</b><br/>Snakes are one of the most venomous animals on the..."
-videoID: asdf
-optimized_image: /assets/img/x2yM7LcXdCSi0bm_title.jpg
+videoID: https://cloudstor.aarnet.edu.au/plus/s/hhTzAIB6GcfFIBS/download
+optimized_image: https://cloudstor.aarnet.edu.au/plus/s/vMcGEBTLGSOetmB/download
 tags:
  - genomics
  - evolution

@@ -4,8 +4,8 @@ title:  "Secondary analysis of publicly available omics data across almost 3 mil
 comments: true
 category: methods
 description: "<b>Nicholas Darci-Maher, Serghei Mangul, Kerui Peng, Dat Duong, Eleazar Eskin, Jaqueline Brito, Anushka Rajesh, Andrew Smith, Reid F. Thompson, Abhinav Nellore, Casey Greene, Jonathan Jacobs</b><br/>As today’s high throughput sequencing techniques..."
-videoID: asdf
-optimized_image: /assets/img/x2yM7LcXdCSi0bm_title.jpg
+videoID: https://cloudstor.aarnet.edu.au/plus/s/mXEWwWk8iTdzUHf/download
+optimized_image: https://cloudstor.aarnet.edu.au/plus/s/lY56Y8FT8Eelo8x/download
 tags:
  - reproducibility
  - data sharing

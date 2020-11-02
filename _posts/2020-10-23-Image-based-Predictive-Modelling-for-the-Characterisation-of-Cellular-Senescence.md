@@ -4,8 +4,8 @@ title:  "Image-based Predictive Modelling for the Characterisation of Cellular S
 comments: true
 category: methods
 description: "<b>Ebony Watson, Atefeh Taherian Fard, Farhad Soheilmoghaddam, Ernst Eolvetang, Jessica Mar</b><br/>Senescence is a cellular stress response character..."
-videoID: asdf
-optimized_image: /assets/img/x2yM7LcXdCSi0bm_title.jpg
+videoID: https://cloudstor.aarnet.edu.au/plus/s/0lYIhZ9t5Cqd4wk/download
+optimized_image: https://cloudstor.aarnet.edu.au/plus/s/WSvh64T8UIqmTV6/download
 session_talk: 1
 tags:
  - machine learning

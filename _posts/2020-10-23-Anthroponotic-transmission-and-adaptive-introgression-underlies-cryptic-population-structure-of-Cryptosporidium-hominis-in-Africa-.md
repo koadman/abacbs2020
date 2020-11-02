@@ -4,8 +4,8 @@ title:  "Anthroponotic transmission and adaptive introgression underlies cryptic
 comments: true
 category: nonmodel
 description: "<b>Swapnil Tichkule, Aaron Jex, Cock Van Oosterhout, Simone Cacciò</b><br/>INTRODUCTION: Cryptosporidiosis is a major cause o..."
-videoID: asdf
-optimized_image: /assets/img/x2yM7LcXdCSi0bm_title.jpg
+videoID: https://cloudstor.aarnet.edu.au/plus/s/d37WejLWKz2Ri8B/download
+optimized_image: https://cloudstor.aarnet.edu.au/plus/s/koW8pkg5RsJsm4z/download
 session_talk: 1
 tags:
  - DNA sequencing

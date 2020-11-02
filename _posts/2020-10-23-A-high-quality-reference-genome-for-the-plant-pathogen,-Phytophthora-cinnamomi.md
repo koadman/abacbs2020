@@ -4,8 +4,8 @@ title:  "A high-quality reference genome for the plant pathogen, Phytophthora ci
 comments: true
 category: plants_fungi
 description: "<b>Amy Longmuir, Peter Beech, Mark Richardson</b><br/>The plant pathogen, Phytophthora cinnamomi results..."
-videoID: asdf
-optimized_image: /assets/img/x2yM7LcXdCSi0bm_title.jpg
+videoID: https://cloudstor.aarnet.edu.au/plus/s/VV48gwIvJllsF58/download
+optimized_image: https://cloudstor.aarnet.edu.au/plus/s/yZI5PK4204cxmgN/download
 tags:
  - pathogens
  - long reads

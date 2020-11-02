@@ -4,8 +4,8 @@ title:  "qc3C – reference-free quality assessment for Hi-C sequencing data."
 comments: true
 category: genomics
 description: "<b>Matthew DeMaere, Aaron Darling</b><br/>Hi-C is a sample preparation method that enables h..."
-videoID: asdf
-optimized_image: /assets/img/x2yM7LcXdCSi0bm_title.jpg
+videoID: https://cloudstor.aarnet.edu.au/plus/s/dIeYqUnVbCL9dUk/download
+optimized_image: https://cloudstor.aarnet.edu.au/plus/s/SbY7khrJZCeMgeS/download
 tags:
  - DNA sequencing
  - Hi-C

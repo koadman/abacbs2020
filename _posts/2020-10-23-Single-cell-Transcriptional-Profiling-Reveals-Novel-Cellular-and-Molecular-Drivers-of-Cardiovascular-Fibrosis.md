@@ -4,8 +4,8 @@ title:  "Single-cell Transcriptional Profiling Reveals Novel Cellular and Molecu
 comments: true
 category: single_cell
 description: "<b>Malathi S.I. Dona, Micheal A. McLellan, Daniel A. Skelly, Maria Jelinic, Galen T. Squiers, Gabriella E. Farrugia, Anthony Vinh, Taylah L. Gaynor, Charles D. Cohen, Raghav Pandey, Henry Diep, Nadia A. Rosenthal, Grant R. Drummond, Alexander R. Pinto</b><br/>Fibrosis is a leading factor in the development of..."
-videoID: asdf
-optimized_image: /assets/img/x2yM7LcXdCSi0bm_title.jpg
+videoID: https://cloudstor.aarnet.edu.au/plus/s/3sAc2Die42s4da1/download
+optimized_image: https://cloudstor.aarnet.edu.au/plus/s/i6oRIUkaYC030gU/download
 tags:
  - single cell
  - transcriptomics

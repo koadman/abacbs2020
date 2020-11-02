@@ -4,8 +4,8 @@ title:  "Is it a Mammal Thing? Determining When the Change in rDNA Unit Size Occ
 comments: true
 category: long_reads
 description: "<b>Emma Macdonald, Austen Ganley, Richard Edwards</b><br/>The ribosomal RNA genes in eukaryotes are organise..."
-videoID: https://cloudstor.aarnet.edu.au/plus/s/vqnbV0nmcq8oEtG/download
-optimized_image: https://cloudstor.aarnet.edu.au/plus/s/NXtVWPv8TC2J7Rd/download
+videoID: https://cloudstor.aarnet.edu.au/plus/s/ghOe6K2uYVrqMxN/download
+optimized_image: https://cloudstor.aarnet.edu.au/plus/s/17Ag6cKGO267wMl/download
 tags:
  - long reads
  - evolution

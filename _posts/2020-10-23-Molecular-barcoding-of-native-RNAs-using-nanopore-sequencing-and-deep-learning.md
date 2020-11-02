@@ -4,8 +4,8 @@ title:  "Molecular barcoding of native RNAs using nanopore sequencing and deep l
 comments: true
 category: long_reads
 description: "<b>Martin A. Smith, Tansel Ersavas, James Ferguson, Huanle Liu, Morghan C. Lucas, Oguzhan Begik, Lilly Bojarski, Kirston Barton, Eva Maria Novoa</b><br/>Nanopore sequencing enables direct measurement of ..."
-videoID: asdf
-optimized_image: /assets/img/x2yM7LcXdCSi0bm_title.jpg
+videoID: https://cloudstor.aarnet.edu.au/plus/s/dDj4439NHWv96vd/download
+optimized_image: https://cloudstor.aarnet.edu.au/plus/s/lkMu0NOh80cOS6h/download
 tags:
  - long reads
  - transcriptomics

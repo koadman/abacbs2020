@@ -4,8 +4,8 @@ title:  "Transfer learning for data integration of single-cell RNA-seq and ATAC-
 comments: true
 category: methods
 description: "<b>Yingxin Lin, Tung-Yu Wu, Sheng Wan, Jean Yang, Wing H. Wong, Y. X. Rachel Wang</b><br/>Single-cell transcriptomics profiling with single-..."
-videoID: asdf
-optimized_image: /assets/img/x2yM7LcXdCSi0bm_title.jpg
+videoID: https://cloudstor.aarnet.edu.au/plus/s/DtRHJzM8zeDOtrQ/download
+optimized_image: https://cloudstor.aarnet.edu.au/plus/s/0JyL56tZ2aIKb6c/download
 session_talk: 1
 tags:
  - single cell

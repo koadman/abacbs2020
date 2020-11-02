@@ -4,8 +4,8 @@ title:  "New Insights Of Cancer DNA Methylation By Studies Of Pre-Leukemic Stem 
 comments: true
 category: biomed_informatics
 description: "<b>Feng Yan, David J. Curtis, Francine E. Garrett-Bakelman, Nicholas C. Wong, Pieter Van Vlierberghe</b><br/>The role of DNA methylation in the initiation and ..."
-videoID: asdf
-optimized_image: /assets/img/x2yM7LcXdCSi0bm_title.jpg
+videoID: https://cloudstor.aarnet.edu.au/plus/s/HP4CZACCtJXJ91d/download
+optimized_image: https://cloudstor.aarnet.edu.au/plus/s/ifbK6naG07QI0N1/download
 tags:
  - DNA methylation
  - cancer

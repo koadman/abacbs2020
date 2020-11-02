@@ -4,8 +4,8 @@ title:  "DNA methylation differences in human placenta from female and male bear
 comments: true
 category: genomics
 description: "<b>Qianhui Wan, Melanie Smith, Konstantinos Bogias, Tanja Jankovic-Karasoulos, Dale McAninch, Dylan McCullough, Shalem Leemaqz, Jimmy Breen, Claire Roberts</b><br/>Sex differences in fetal growth and development ar..."
-videoID: asdf
-optimized_image: /assets/img/x2yM7LcXdCSi0bm_title.jpg
+videoID: https://cloudstor.aarnet.edu.au/plus/s/yp2KuhdJpfXi9ac/download
+optimized_image: https://cloudstor.aarnet.edu.au/plus/s/XkHo8KIG6y5Kq2r/download
 tags:
  - DNA methylation
  - genomics

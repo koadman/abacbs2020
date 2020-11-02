@@ -4,8 +4,8 @@ title:  "CRISPR, faster, better - The Crackling method for whole-genome target d
 comments: true
 category: genomics
 description: "<b>Jacob Bradford, Timothy Chappell, Brendan Hosking, Laurence Wilson, Dimitri Perrin</b><br/>CRISPR-Cas9 systems have become a leading tool for..."
-videoID: https://cloudstor.aarnet.edu.au/plus/s/Acz79Z4WIErqqIy/download
-optimized_image: https://cloudstor.aarnet.edu.au/plus/s/FLdCfZkp4pXwAwK/download
+videoID: https://cloudstor.aarnet.edu.au/plus/s/qxwjdw90EE2lisq/download
+optimized_image: https://cloudstor.aarnet.edu.au/plus/s/8rKsw5HIW3gTMi5/download
 session_talk: 1
 tags:
  - genomics

@@ -4,8 +4,8 @@ title:  "Characterisation of transcript expression in placenta across early gest
 comments: true
 category: transcriptomics
 description: "<b>Konstantinos Bogias, Stephen Pederson, Qianhui Wan, Melanie Smith, James Breen, Claire Roberts</b><br/>The human placenta is a rapidly developing, highly..."
-videoID: asdf
-optimized_image: /assets/img/x2yM7LcXdCSi0bm_title.jpg
+videoID: https://cloudstor.aarnet.edu.au/plus/s/QjjVhY7NCVuC1TC/download
+optimized_image: https://cloudstor.aarnet.edu.au/plus/s/2qs5n5iVzE5eBUP/download
 tags:
  - transcriptomics
  - alternative splicing

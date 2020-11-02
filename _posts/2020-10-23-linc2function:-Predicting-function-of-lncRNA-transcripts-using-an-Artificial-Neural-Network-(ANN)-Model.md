@@ -4,8 +4,8 @@ title:  "linc2function: Predicting function of lncRNA transcripts using an Artif
 comments: true
 category: transcriptomics
 description: "<b>Yashpal Ramakrishnaiah, Levin Kuhlmann, Sonika Tyagi</b><br/>Long Noncoding RNAs (LncRNA) modulate cellular pro..."
-videoID: asdf
-optimized_image: /assets/img/x2yM7LcXdCSi0bm_title.jpg
+videoID: https://cloudstor.aarnet.edu.au/plus/s/7y9L8eg4oKgzNIX/download
+optimized_image: https://cloudstor.aarnet.edu.au/plus/s/BWf46W1tNogm2r7/download
 tags:
  - deep learning
  - transcriptomics

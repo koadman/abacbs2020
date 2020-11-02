@@ -4,8 +4,8 @@ title:  "Benchmarking single cell RNA-sequencing simulation methods"
 comments: true
 category: single_cell
 description: "<b>Yue Cao, Pengyi Yang, Jean Yang</b><br/>Single cell RNA-sequencing (scRNA-seq) is a powerf..."
-videoID: asdf
-optimized_image: /assets/img/x2yM7LcXdCSi0bm_title.jpg
+videoID: https://cloudstor.aarnet.edu.au/plus/s/Eh3QuBY1QFnQUf5/download
+optimized_image: https://cloudstor.aarnet.edu.au/plus/s/29fXgBUS3dmiHU2/download
 session_talk: 1
 tags:
  - single cell

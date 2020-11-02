@@ -4,8 +4,8 @@ title:  "Exploring mechanisms of nephron maturation using scRNAseq"
 comments: true
 category: single_cell
 description: "<b>Sarah Williams, Rachel Lam, Yasmin Neirijnck, Pauline Sararols, Chloé Mayère, Serge Nef, Alex Combes</b><br/>Three paired kidney structures arise sequentially ..."
-videoID: asdf
-optimized_image: /assets/img/x2yM7LcXdCSi0bm_title.jpg
+videoID: https://cloudstor.aarnet.edu.au/plus/s/HnUP7EDU01JDzsy/download
+optimized_image: https://cloudstor.aarnet.edu.au/plus/s/XICtwSVeEGVzyOW/download
 tags:
  - single cell
  - transcriptomics

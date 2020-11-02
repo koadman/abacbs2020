@@ -4,8 +4,8 @@ title:  "Systematic benchmarking of detection tools for CpG methylation from Nan
 comments: true
 category: long_reads
 description: "<b>Zaka Yuen, Cameron Jack, Eduardo Eyras</b><br/>Nanopore sequencing can access native DNA at singl..."
-videoID: asdf
-optimized_image: /assets/img/x2yM7LcXdCSi0bm_title.jpg
+videoID: https://cloudstor.aarnet.edu.au/plus/s/OOBUecePZPfTYVY/download
+optimized_image: https://cloudstor.aarnet.edu.au/plus/s/p24K3OWKsZgiLRj/download
 session_talk: 1
 tags:
  - long reads

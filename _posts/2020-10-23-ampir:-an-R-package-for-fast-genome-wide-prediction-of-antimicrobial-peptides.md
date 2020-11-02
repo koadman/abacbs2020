@@ -4,8 +4,8 @@ title:  "ampir: an R package for fast genome-wide prediction of antimicrobial pe
 comments: true
 category: methods
 description: "<b>Legana Fingerhut, Ira Cooke, Jan Strugnell, David Miller, Norelle Daly</b><br/>Antimicrobial peptides are natural antibiotics, pa..."
-videoID: asdf
-optimized_image: /assets/img/x2yM7LcXdCSi0bm_title.jpg
+videoID: https://cloudstor.aarnet.edu.au/plus/s/TxZswzKoGchGjZd/download
+optimized_image: https://cloudstor.aarnet.edu.au/plus/s/cu38XtRgayxnZ9N/download
 session_talk: 1
 tags:
  - machine learning

@@ -4,8 +4,8 @@ title:  "Confidence and truth in phylogenomics"
 comments: true
 category: phylodynamics_COVID
 description: "<b>Robert Lanfear</b><br/>How do you estimate a good phylogeny? How do you k..."
-videoID: https://cloudstor.aarnet.edu.au/plus/s/wpRdx3pwsIY7aPf/download
-optimized_image: https://cloudstor.aarnet.edu.au/plus/s/zaFugSkRqh1al5m/download
+videoID: https://cloudstor.aarnet.edu.au/plus/s/fI1iU3gc2QIjpHE/download
+optimized_image: https://cloudstor.aarnet.edu.au/plus/s/t00JHpCiLxa99fz/download
 invited_talk: 1
 tags:
  - phylogenetics

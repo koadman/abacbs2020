@@ -4,8 +4,8 @@ title:  "RNA splicing is a hierarchical supernetwork that co-operates to drive o
 comments: true
 category: transcriptomics
 description: "<b>Angel Liang</b><br/>Splicing is essential for the proper expression of..."
-videoID: asdf
-optimized_image: /assets/img/x2yM7LcXdCSi0bm_title.jpg
+videoID: https://cloudstor.aarnet.edu.au/plus/s/nt5eMKeCXldJASG/download
+optimized_image: https://cloudstor.aarnet.edu.au/plus/s/wxqTihgXOsT1w8W/download
 session_talk: 1
 tags:
  - development

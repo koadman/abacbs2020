@@ -4,8 +4,8 @@ title:  "sBeacon: cloud-native genomic data exchange"
 comments: true
 category: phylodynamics_COVID
 description: "<b>Yatish Jain, Brendan Hosking, Laurence Wilson, Natalie Twine, Armita Zarnegar, Mercy Rophina, Vinod Scaria, Denis Bauer</b><br/>The Beacon protocol was published last year (Fiume..."
-videoID: https://cloudstor.aarnet.edu.au/plus/s/Q3aIMDgPc0fHXEa/download
-optimized_image: https://cloudstor.aarnet.edu.au/plus/s/tDRLQSidDtsNUpj/download
+videoID: https://cloudstor.aarnet.edu.au/plus/s/UAemBp24d8rerMe/download
+optimized_image: https://cloudstor.aarnet.edu.au/plus/s/46vCtDzkeqFVPPK/download
 tags:
  - genomics
  - COVID-19

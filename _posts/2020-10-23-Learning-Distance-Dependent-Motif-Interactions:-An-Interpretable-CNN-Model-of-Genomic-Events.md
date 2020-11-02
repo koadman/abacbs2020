@@ -4,8 +4,8 @@ title:  "Learning Distance-Dependent Motif Interactions: An Interpretable CNN Mo
 comments: true
 category: methods
 description: "<b>Thomas Quinn, Dang Nguyen, Phuoc Nguyen, Sunil Gupta, Svetha Venkatesh</b><br/>In most biological studies, prediction is used pri..."
-videoID: https://cloudstor.aarnet.edu.au/plus/s/OSiWpT5zjkJVIrd/download
-optimized_image: https://cloudstor.aarnet.edu.au/plus/s/1mw2VqTtyukjs29/download
+videoID: https://cloudstor.aarnet.edu.au/plus/s/lkIRezyf0btLcwV/download
+optimized_image: https://cloudstor.aarnet.edu.au/plus/s/rtEpJSycM20JA23/download
 session_talk: 1
 tags:
  - deep learning

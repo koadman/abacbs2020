@@ -4,8 +4,8 @@ title:  "pyTCR: a comprehensive cloud-based platform for TCR-Seq data analysis u
 comments: true
 category: biomed_informatics
 description: "<b>Kerui Peng, Jaqueline Brito, Guoyun Kao, Serghei Mangul</b><br/>T cells are crucial components of the adaptive imm..."
-videoID: asdf
-optimized_image: /assets/img/x2yM7LcXdCSi0bm_title.jpg
+videoID: https://cloudstor.aarnet.edu.au/plus/s/zvzAc3toaNGXI1J/download
+optimized_image: https://cloudstor.aarnet.edu.au/plus/s/xY3o2MsntuCklKT/download
 tags:
  - reproducibility
  - genomics

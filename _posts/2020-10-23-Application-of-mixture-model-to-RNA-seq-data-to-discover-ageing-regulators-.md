@@ -4,8 +4,8 @@ title:  "Application of mixture model to RNA-seq data to discover ageing regulat
 comments: true
 category: transcriptomics
 description: "<b>Sasdekumar Loganathan, Atefeh Taherian Fard, Jessica Mar</b><br/>Ageing is a complex process where the combined eff..."
-videoID: asdf
-optimized_image: /assets/img/x2yM7LcXdCSi0bm_title.jpg
+videoID: https://cloudstor.aarnet.edu.au/plus/s/lhP3w2ZJ6MzMYEj/download
+optimized_image: https://cloudstor.aarnet.edu.au/plus/s/efmPKh73bFI2TTx/download
 session_talk: 1
 tags:
  - transcriptomics

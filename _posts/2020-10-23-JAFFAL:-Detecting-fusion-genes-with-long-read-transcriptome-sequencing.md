@@ -4,8 +4,8 @@ title:  "JAFFAL: Detecting fusion genes with long read transcriptome sequencing"
 comments: true
 category: long_reads
 description: "<b>Nadia Davidson, Ying Chen, Jonathan Göke, Alicia Oshlack</b><br/>Genomic rearrangements are common in the cancer la..."
-videoID: asdf
-optimized_image: /assets/img/x2yM7LcXdCSi0bm_title.jpg
+videoID: https://cloudstor.aarnet.edu.au/plus/s/31eZYfsRgszyChr/download
+optimized_image: https://cloudstor.aarnet.edu.au/plus/s/bhc7K5H120uQ5zA/download
 session_talk: 1
 tags:
  - long reads

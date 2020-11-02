@@ -4,8 +4,8 @@ title:  "New insights into plant-microbe interactions through Quantitative Trait
 comments: true
 category: plants_fungi
 description: "<b>Charlotte Francois</b><br/>Like humans, plants are colonised by bacteria on v..."
-videoID: asdf
-optimized_image: /assets/img/x2yM7LcXdCSi0bm_title.jpg
+videoID: https://cloudstor.aarnet.edu.au/plus/s/axRSNoyqWNKDo6j/download
+optimized_image: https://cloudstor.aarnet.edu.au/plus/s/2gVBjq8vtzn9Qzu/download
 session_talk: 1
 tags:
  - microbiome

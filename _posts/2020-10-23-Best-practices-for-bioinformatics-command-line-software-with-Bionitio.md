@@ -4,8 +4,8 @@ title:  "Best practices for bioinformatics command-line software with Bionitio"
 comments: true
 category: methods
 description: "<b>Bernard Pope, Peter Georgeson, Anna Syme, Jessica Chung, Michael Milton, Harriet Dashnow, Andrew Lonsdale, Clare Sloggett, David Powell</b><br/>The results-driven focus of bioinformatics means t..."
-videoID: https://cloudstor.aarnet.edu.au/plus/s/KT3ATRPWnDtxsQM/download
-optimized_image: https://cloudstor.aarnet.edu.au/plus/s/WqJl9IcnoYOwKDq/download
+videoID: https://cloudstor.aarnet.edu.au/plus/s/kDclt9r8iLx4Deq/download
+optimized_image: https://cloudstor.aarnet.edu.au/plus/s/vsBAqe9WYaCPdpq/download
 tags:
  - software development
  - open source

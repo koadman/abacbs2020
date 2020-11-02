@@ -4,8 +4,8 @@ title:  "TrackSOM: immunopathogenic temporal mapping through clustering time-ser
 comments: true
 category: single_cell
 description: "<b>Givanna H. Putri, Jonathan Chung, Davis N. Edwards, Felix Marsh-Wakefield, Suat Dervish, Irena Koprinska, Nicholas J.C. King, Thomas M. Ashhurst, Mark Read</b><br/>Disease, and our immune response to it, are dynami..."
-videoID: asdf
-optimized_image: /assets/img/x2yM7LcXdCSi0bm_title.jpg
+videoID: https://cloudstor.aarnet.edu.au/plus/s/tpHVq88R2QjtSkQ/download
+optimized_image: https://cloudstor.aarnet.edu.au/plus/s/Nf3cMe5uB5MI9E6/download
 tags:
  - single cell
  - clustering

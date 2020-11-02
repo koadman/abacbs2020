@@ -4,8 +4,8 @@ title:  "A machine learning model to predict splice factor expression directly f
 comments: true
 category: transcriptomics
 description: "<b>A.J. Sethi, Pablo Acera Mateos, Renzo Balboa, Emiliana Weiss, Attila Horvath</b><br/>Dysregulated splicing is a major driver of cancer ..."
-videoID: asdf
-optimized_image: /assets/img/x2yM7LcXdCSi0bm_title.jpg
+videoID: https://cloudstor.aarnet.edu.au/plus/s/2Rv9ohYgZ6caUMX/download
+optimized_image: https://cloudstor.aarnet.edu.au/plus/s/mD54sJ26xaq9iBM/download
 tags:
  - RNA splicing
  - networks

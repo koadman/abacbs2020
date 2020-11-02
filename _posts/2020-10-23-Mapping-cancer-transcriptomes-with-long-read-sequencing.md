@@ -4,8 +4,8 @@ title:  "Mapping cancer transcriptomes with long-read sequencing"
 comments: true
 category: long_reads
 description: "<b>Stephen Kazakoff, Pamela Mukhopadhyay, Futoshi Kawamata, Catherine Bond, Katia Nones, Akinobu Takeomi, Vicki Whitehall, Ann-Marie Patch</b><br/>Whilst tissue-specific transcript expression is hi..."
-videoID: asdf
-optimized_image: /assets/img/x2yM7LcXdCSi0bm_title.jpg
+videoID: https://cloudstor.aarnet.edu.au/plus/s/19HgzXaK3SWtnPT/download
+optimized_image: https://cloudstor.aarnet.edu.au/plus/s/8uUTOS9Ie8bvcpd/download
 session_talk: 1
 tags:
  - long reads

@@ -4,8 +4,8 @@ title:  "Single-cell RNA-seq Analysis To Explore Bone-marrow Immune Landscape"
 comments: true
 category: single_cell
 description: "<b>Gunjan Dixit, Di Yu, Jiayu Wen</b><br/>Bone marrow (BM) contains multiple immune cell sub..."
-videoID: asdf
-optimized_image: /assets/img/x2yM7LcXdCSi0bm_title.jpg
+videoID: https://cloudstor.aarnet.edu.au/plus/s/qHErXKbzAaMrMq7/download
+optimized_image: https://cloudstor.aarnet.edu.au/plus/s/P8UZ47hArRfYOY4/download
 tags:
  - single cell
  - transcriptomics

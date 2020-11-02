@@ -4,8 +4,8 @@ title:  "Nimpress brings polygenic scores to the sequencing era"
 comments: true
 category: genomics
 description: "<b>Mark Pinese, Emilie Wilkie, Mark Cowley</b><br/>Polygenic scores enable the quantitative predictio..."
-videoID: asdf
-optimized_image: /assets/img/x2yM7LcXdCSi0bm_title.jpg
+videoID: https://cloudstor.aarnet.edu.au/plus/s/ZH658jjZN8mpOVm/download
+optimized_image: https://cloudstor.aarnet.edu.au/plus/s/djUNB0NOAiFvgzG/download
 tags:
  - genomics
  - sequence variation

@@ -4,8 +4,8 @@ title:  "An Evolutionary Approach to Network Analysis of Cancer Transcriptomes R
 comments: true
 category: biomed_informatics
 description: "<b>David Goode, Anna Trigos, Rick Pearson, Tony Papenfuss</b><br/>Despite diverse origins and significant genomic he..."
-videoID: asdf
-optimized_image: /assets/img/x2yM7LcXdCSi0bm_title.jpg
+videoID: https://cloudstor.aarnet.edu.au/plus/s/UuWjaCuoJIN7iVJ/download
+optimized_image: https://cloudstor.aarnet.edu.au/plus/s/PBDBDnla5EGbsue/download
 session_talk: 1
 tags:
  - transcriptomics

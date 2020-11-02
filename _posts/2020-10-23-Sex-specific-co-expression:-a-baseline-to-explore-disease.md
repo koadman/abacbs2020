@@ -4,8 +4,8 @@ title:  "Sex-specific co-expression: a baseline to explore disease"
 comments: true
 category: single_cell
 description: "<b>Sara Ballouz</b><br/>Biological states such as cell-type, cell-state, t..."
-videoID: asdf
-optimized_image: /assets/img/x2yM7LcXdCSi0bm_title.jpg
+videoID: https://cloudstor.aarnet.edu.au/plus/s/qAJ8UxxnoxyFzKH/download
+optimized_image: https://cloudstor.aarnet.edu.au/plus/s/9AcS2k6lNIy0uM3/download
 invited_talk: 1
 tags:
  - single cell

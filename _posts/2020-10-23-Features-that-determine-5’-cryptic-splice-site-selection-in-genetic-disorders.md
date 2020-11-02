@@ -4,8 +4,8 @@ title:  "Features that determine 5’ cryptic splice site selection in genetic d
 comments: true
 category: transcriptomics
 description: "<b>Ruebena Dawes, Sandra Cooper</b><br/>Background:<br/>Splicing variants are a common cau..."
-videoID: asdf
-optimized_image: /assets/img/x2yM7LcXdCSi0bm_title.jpg
+videoID: https://cloudstor.aarnet.edu.au/plus/s/hDa1IlIzPH9M3WZ/download
+optimized_image: https://cloudstor.aarnet.edu.au/plus/s/k30NGmRCStjFFRV/download
 session_talk: 1
 tags:
  - RNA splicing

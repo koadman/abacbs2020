@@ -4,8 +4,8 @@ title:  "Characterisation of a convergent malignant phenotype in B-cell acute ly
 comments: true
 category: biomed_informatics
 description: "<b>Adria Closa, Marina Reixachs, Eduardo Eyras</b><br/>Acute lymphoblastic leukaemia (ALL) is the most co..."
-videoID: asdf
-optimized_image: /assets/img/x2yM7LcXdCSi0bm_title.jpg
+videoID: https://cloudstor.aarnet.edu.au/plus/s/0QXtTV8Xxv4N2B2/download
+optimized_image: https://cloudstor.aarnet.edu.au/plus/s/aoPX0zmrcRKRHGW/download
 session_talk: 1
 tags:
  - transcriptomics
