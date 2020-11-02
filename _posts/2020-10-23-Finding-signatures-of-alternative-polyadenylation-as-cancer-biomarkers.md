@@ -4,8 +4,8 @@ title:  "Finding signatures of alternative polyadenylation as cancer biomarkers"
 comments: true
 category: biomed_informatics
 description: "<b>Nitika Kandhari, Paul Harrison, Kaylene Simpson, David Powell, Traude Beilharz, Iva Nikolic, Robert Vary, Karla Cowley</b><br/>Alternative transcript cleavage and Polyadenylatio..."
-videoID: asdf
-optimized_image: /assets/img/x2yM7LcXdCSi0bm_title.jpg
+videoID: https://cloudstor.aarnet.edu.au/plus/s/XQ9sqfEu2AqwoDm/download
+optimized_image: https://cloudstor.aarnet.edu.au/plus/s/E5kSYPDPehq0Ghj/download
 session_talk: 1
 tags:
  - transcriptomics
