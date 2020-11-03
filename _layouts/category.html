@@ -13,7 +13,7 @@
                         {% if post.category == page.slug %}
                             <article class="box-item">
                                 <div class="box-body">
-                                    {% if post.image %}
+                                    {% if post.optimized_image %}
                                         <a class="cover" href="{{ post.url | prepend: site.baseurl }}">
                                             {% include loader.html %}
                                             {% if post.optimized_image %}
@@ -32,14 +32,15 @@
                                                     <img src="/assets/img/off.jpg" width="100%">
                                                 </noscript>
                                             {% endif %}
-                                            {% include new-post-tag.html date=post.date %}
+                                            {% if post.session_talk %}
+                                                {% include session-talk.html %}
+                                            {% elsif post.invited_talk %}
+                                                {% include invited-talk.html %}
+                                            {% endif %}
                                             {% include read-icon.html %}
                                         </a>
                                     {% endif %}
                                     <div class="box-info">
-                                        <time datetime="{{ post.date | date_to_xmlschema }}" class="date">
-                                            {% include date.html date=post.date %}
-                                        </time>
                                         <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
                                             <h2 class="post-title">
                                                 {{ post.title }}
@@ -66,6 +67,3 @@
         {% include footer.html %}
     </body>
 </html>
-
-
-
