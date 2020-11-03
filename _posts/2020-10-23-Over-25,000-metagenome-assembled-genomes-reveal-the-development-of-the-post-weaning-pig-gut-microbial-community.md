@@ -4,8 +4,8 @@ title:  "Over 25,000 metagenome assembled genomes reveal the development of the 
 comments: true
 category: metagenomics
 description: "<b>Daniela Gaio, Matthew Z. DeMaere, Kay Anantanawat, Toni A. Chapman, Steven P. Djordjevic, Aaron E. Darling</b><br/>Building on a new lower-cost metagenome sequencing..."
-videoID: 
-optimized_image: 
+videoID: https://cloudstor.aarnet.edu.au/plus/s/8IWy9MQLYEyLH2r/download
+optimized_image: https://cloudstor.aarnet.edu.au/plus/s/EbyoJN94BBDwCmC/download
 session_talk: 1
 tags:
  - metagenomics
