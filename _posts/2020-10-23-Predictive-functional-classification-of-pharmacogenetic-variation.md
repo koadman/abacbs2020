@@ -4,8 +4,8 @@ title:  "Predictive functional classification of pharmacogenetic variation"
 comments: true
 category: methods
 description: "<b>Dan Andrews, Matt Field</b><br/>Pharmacogenetic variation is important to drug res..."
-videoID: asdf
-optimized_image: /assets/img/x2yM7LcXdCSi0bm_title.jpg
+videoID: 
+optimized_image: 
 tags:
  - genomics
  - pharmacogenomics

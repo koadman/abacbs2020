@@ -12,7 +12,7 @@ tags:
  - cancer
  - networks
  - evolution
- - gene regulation
+ - gene expression
 ---
 {% include cloudstorplayer.html id=page.videoID %}
 <u>David Goode</u><sup>0</sup>, Anna Trigos<sup>0</sup>, Rick Pearson<sup>0</sup>, Tony Papenfuss<sup>1</sup><br/>

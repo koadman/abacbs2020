@@ -4,8 +4,8 @@ title:  "Machine Learning Prediction of End-stage Kidney Disease for Clinical De
 comments: true
 category: biomed_informatics
 description: "<b>Dan Andrews, Aaron Chuah</b><br/>Chronic kidney disease (CKD) is a major source of ..."
-videoID: asdf
-optimized_image: /assets/img/x2yM7LcXdCSi0bm_title.jpg
+videoID: 
+optimized_image: 
 tags:
  - machine learning
  - clinical genomics

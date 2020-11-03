@@ -3,7 +3,7 @@ layout: post
 title:  "Application of mixture model to RNA-seq data to discover ageing regulators "
 comments: true
 category: transcriptomics
-description: "<b>Sasdekumar Loganathan, Atefeh Taherian Fard, Jessica Mar</b><br/>Ageing is a complex process where the combined eff..."
+description: "<b>Sasdekumar Loganathan, Atefeh Taherian Fard, Jessica Mar, Ameya Kulkarni</b><br/>Ageing is a complex process where the combined eff..."
 videoID: https://cloudstor.aarnet.edu.au/plus/s/TgKOgYrvoR9pHqN/download
 optimized_image: https://cloudstor.aarnet.edu.au/plus/s/qhtXy7SA19HuCMU/download
 session_talk: 1
@@ -13,8 +13,9 @@ tags:
  - ageing
 ---
 {% include cloudstorplayer.html id=page.videoID %}
-<u>Sasdekumar Loganathan</u><sup>0</sup>, Atefeh Taherian Fard<sup>0</sup>, Jessica Mar<sup>0</sup><br/>
-\(0\) Australian Institute for Bioengineering and Nanotechnology
+<u>Sasdekumar Loganathan</u><sup>0</sup>, Atefeh Taherian Fard<sup>0</sup>, Jessica Mar<sup>0</sup>, Ameya Kulkarni<sup>1</sup><br/>
+\(0\) Australian Institute for Bioengineering and Nanotechnology<br/>
+\(1\) Department of Genetics, Albert Einstein College of Medicine, Bronx, New York, United States of America
 
 Find me during our live conference, [in Remo, table 133](https://remo.co)
 

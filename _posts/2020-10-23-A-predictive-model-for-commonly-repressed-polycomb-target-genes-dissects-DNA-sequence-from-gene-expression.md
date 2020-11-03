@@ -12,6 +12,7 @@ tags:
  - epigenetics
  - transcription
  - gene regulation
+ - gene expression
 ---
 {% include cloudstorplayer.html id=page.videoID %}
 <u>Emma Gail</u><sup>0</sup>, Sonika Tyagi<sup>1</sup>, Chen Davidovich<sup>2</sup><br/>

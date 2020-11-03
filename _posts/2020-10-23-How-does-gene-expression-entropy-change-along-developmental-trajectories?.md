@@ -3,18 +3,19 @@ layout: post
 title:  "How does gene expression entropy change along developmental trajectories?"
 comments: true
 category: methods
-description: "<b>Elisabeth Roesch, Anissa Guillemin, Michael P.H. Stumpf</b><br/>The differentiation of stem or progenitor cells is..."
+description: "<b>Elisabeth Roesch, Anissa Guillemin, Michael P.H. Stumpf, Megan Anne Coomer</b><br/>The differentiation of stem or progenitor cells is..."
 videoID: https://cloudstor.aarnet.edu.au/plus/s/GqHod4NomwEf0xV/download
 optimized_image: https://cloudstor.aarnet.edu.au/plus/s/kKtXFH6QAiAqGMg/download
 session_talk: 1
 tags:
  - single cell
  - transcriptomics
+ - gene expression
  - gene regulation
  - development
 ---
 {% include cloudstorplayer.html id=page.videoID %}
-[<u>Elisabeth Roesch</u>](https://elisabethroesch.github.io)<sup>0</sup>, Anissa Guillemin<sup>0</sup>, Michael P.H. Stumpf<sup>0</sup><br/>
+[<u>Elisabeth Roesch</u>](https://elisabethroesch.github.io)<sup>0</sup>, Anissa Guillemin<sup>0</sup>, Michael P.H. Stumpf<sup>0</sup>, Megan Anne Coomer<sup>0</sup><br/>
 \(0\) University of Melbourne
 
 Find me during our live conference, [in Remo, table 109](https://remo.co)

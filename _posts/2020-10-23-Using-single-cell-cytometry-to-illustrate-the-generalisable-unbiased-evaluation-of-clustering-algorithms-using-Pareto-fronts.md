@@ -13,7 +13,7 @@ tags:
  - benchmarking
 ---
 {% include cloudstorplayer.html id=page.videoID %}
-<u>Givanna Putri</u><sup>0</sup>, Irena Koprinska<sup>0</sup>, Thomas Ashhurst<sup>0</sup>, Nicholas King<sup>0</sup>, Mark Read<sup>0</sup><br/>
+Givanna Putri<sup>0</sup>, Irena Koprinska<sup>0</sup>, Thomas Ashhurst<sup>0</sup>, Nicholas King<sup>0</sup>, <u>Mark Read</u><sup>0</sup><br/>
 \(0\) University of Sydney
 
 Find me during our live conference, [in Remo, table 128](https://remo.co)

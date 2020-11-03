@@ -4,8 +4,8 @@ title:  "Creating accountability in human population genetics using base editing
 comments: true
 category: indigenous_genomics
 description: "<b>Keolu Fox</b><br/>Appropriate empirical-based evidence and detailed ..."
-videoID: asdf
-optimized_image: /assets/img/x2yM7LcXdCSi0bm_title.jpg
+videoID: 
+optimized_image: 
 invited_talk: 1
 tags:
  - DNA editing

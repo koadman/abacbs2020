@@ -9,9 +9,9 @@ optimized_image: https://cloudstor.aarnet.edu.au/plus/s/q3q9jfMfYMJk4tq/download
 session_talk: 1
 tags:
  - single cell genomic
- -  long-read sequencing
- -  single cell multi-omics
- -  transcriptomic
+ - long-reads
+ - single cell multi-omics
+ - transcriptomic
 ---
 {% include cloudstorplayer.html id=page.videoID %}
 <u>Luyi Tian</u><sup>0</sup>, Jafar Jabbari<sup>1</sup>, Matthew Ritchie<sup>0</sup><br/>

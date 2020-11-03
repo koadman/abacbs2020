@@ -13,7 +13,7 @@ tags:
  - reference-free
 ---
 {% include cloudstorplayer.html id=page.videoID %}
-[Ivan de la Rubia](https://github.com/comprna/RATTLE)<sup>0</sup>, Joel Indi<sup>1</sup>, Silvia Carbonell-Sala<sup>2</sup>, Julien Lagarde<sup>2</sup>, Mar Alba<sup>3</sup>, [<u>Eduardo Eyras</u>](https://github.com/comprna/RATTLE)<sup>4</sup><br/>
+[<u>Ivan de la Rubia</u>](https://github.com/comprna/RATTLE)<sup>0</sup>, Joel Indi<sup>1</sup>, Silvia Carbonell-Sala<sup>2</sup>, Julien Lagarde<sup>2</sup>, Mar Alba<sup>3</sup>, [Eduardo Eyras](https://github.com/comprna/RATTLE)<sup>4</sup><br/>
 \(0\) Pompeu Fabra University<br/>
 \(1\) University of Lisboa<br/>
 \(2\) Centre for Genomic Regulation<br/>

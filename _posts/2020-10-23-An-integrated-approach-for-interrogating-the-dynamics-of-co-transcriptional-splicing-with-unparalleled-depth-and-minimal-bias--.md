@@ -4,8 +4,8 @@ title:  "An integrated approach for interrogating the dynamics of co-transcripti
 comments: true
 category: transcriptomics
 description: "<b>A.J. Sethi, Rippei Hayashi</b><br/>Although dysregulated alternative splicing underli..."
-videoID: asdf
-optimized_image: /assets/img/x2yM7LcXdCSi0bm_title.jpg
+videoID: 
+optimized_image: 
 tags:
  - RNA splicing
  - gene regulation
