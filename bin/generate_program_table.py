@@ -76,6 +76,12 @@ layout: page
 title: Live sessions
 permalink: /program/
 ---
+
+# Conference program
+All times AEDT (Sydney, Canberra, Melbourne)<br/>
+Jump to [Tuesday](#tuesday-november-24th) \| [Wednesday](#wednesday-november-25th) \| [Thursday](#thursday-november-26th)
+
+
 """
 print(md_string)
 print("\n## Tuesday November 24th\n\n")
@@ -84,3 +90,4 @@ print("\n## Wednesday November 25th\n\n")
 print_schedule(df,5,json_data)
 print("\n## Thursday November 26th\n\n")
 print_schedule(df,9,json_data)
+print("\n\nJump to [Tuesday](#tuesday-november-24th) \| [Wednesday](#wednesday-november-25th) \| [Thursday](#thursday-november-26th)")
