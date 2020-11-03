@@ -18,8 +18,8 @@ for file in sys.argv[2:]:
         jdat['video_ID']=vid_urls[jdat['number']]['video'] + "/download"
         jdat['video_stillframe']=vid_urls[jdat['number']]['image'] + "/download"
     else:
-        jdat['video_ID']='asdf'
-        jdat['video_stillframe']='/assets/img/x2yM7LcXdCSi0bm_title.jpg'
+        jdat['video_ID']=''
+        jdat['video_stillframe']=''
     jfile = open(file, 'w')
     json.dump(jdat, jfile)
     jfile.close()
