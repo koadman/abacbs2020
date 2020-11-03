@@ -11,7 +11,7 @@ params.API_PATH="ocs/v1.php/apps/files_sharing/api/v1/shares"
 
 prefix_channel = Channel.fromPath(params.prefix_video)
 suffix_channel = Channel.fromPath(params.suffix_video)
-video_channel = Channel.fromPath(params.watch_dir+'/**.mp4')
+video_channel = Channel.fromPath(params.watch_dir+'/**.m??')
 video_sets = video_channel.combine(prefix_channel).combine(suffix_channel)
 
 process concat_videos {
