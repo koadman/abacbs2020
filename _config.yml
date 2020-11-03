@@ -17,8 +17,6 @@ tags:
   - phylodynamics
 show_hero: true
 menu:
-  - title: Home
-    url: /
   - title: Conference Program
     url: /program
   - title: Long reads
