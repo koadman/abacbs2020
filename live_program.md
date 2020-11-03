@@ -4,6 +4,12 @@ title: Live sessions
 permalink: /program/
 ---
 
+# Conference program
+All times AEDT (Sydney, Canberra, Melbourne)<br/>
+Jump to [Tuesday](#tuesday-november-24th) \| [Wednesday](#wednesday-november-25th) \| [Thursday](#thursday-november-26th)
+
+
+
 
 ## Tuesday November 24th
 
@@ -37,7 +43,7 @@ permalink: /program/
 | 15:50 | Chi Nam Ignatius Pang<br/>[RNase III-CLASH of multi-drug resistant Staphyloco...](/RNase-III-CLASH-of-multi-drug-resistant-Staphylococcus-aureus-reveals-a-regulatory-mRNA-3-UTR-required-for-intermediate-vancomycin-resistance/) | David Goode<br/>[An Evolutionary Approach to Network Analysis of Ca...](/An-Evolutionary-Approach-to-Network-Analysis-of-Cancer-Transcriptomes-Reveals-Common-Indicators-of-Enhanced-Malignancy-Across-a-Range-of-Solid-Tumours/) |
 | 16:00 | Jiayue-Clara Jiang<br/>[Integrated transcription factor profiling with tra...](/Integrated-transcription-factor-profiling-with-transcriptome-analysis-identification-of-L1PA2-transposons-as-global-regulatory-modulators-in-a-breast-cancer-model/) | Nitika Kandhari<br/>[Finding signatures of alternative polyadenylation ...](/Finding-signatures-of-alternative-polyadenylation-as-cancer-biomarkers/) |
 | 16:10 | short break | short break |
-| 16:40 | Senior Fellow Award & Talk |  |
+| 16:40 | Honorary Senior Fellow Award & Talk |  |
 | 17:30 | End | End |
 
 ## Wednesday November 25th
@@ -114,3 +120,6 @@ permalink: /program/
 | 16:40 | COMBINE best talk |  |
 | 16:50 | Best poster award |  |
 | 17:00 | Remo Social event (Bioinformatics Quiz Night) |  |
+
+
+Jump to [Tuesday](#tuesday-november-24th) \| [Wednesday](#wednesday-november-25th) \| [Thursday](#thursday-november-26th)
