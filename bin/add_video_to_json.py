@@ -18,6 +18,9 @@ for file in sys.argv[2:]:
         jdat['video_ID']=vid_urls[jdat['number']]['video'] + "/download"
         jdat['video_stillframe']=vid_urls[jdat['number']]['image'] + "/download"
     else:
+        for author in jdat['author_info']:
+            if author['presenting']:
+                print('Missing\t'+str(jdat['number'])+'\t'+author['first_name']+' '+author['last_name']+'\t'+author['email'], file = sys.stderr)
         jdat['video_ID']=''
         jdat['video_stillframe']=''
     jfile = open(file, 'w')
