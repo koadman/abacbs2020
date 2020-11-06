@@ -42,8 +42,8 @@ then
 fi
 
 # reformat the sponsor logo videos to match the talk video
-ffmpeg -i ${prefix_video} -threads 10 -vf "scale=w=\$TARGETWIDTH:h=\$TARGETHEIGHT:force_original_aspect_ratio=decrease,pad=\$TARGETWIDTH:\$TARGETHEIGHT:(ow-iw)/2:(oh-ih)/2" -acodec \$TARGETACODEC -ac \$TARGETCHANNELS -ar \$TARGETAUDIORATE -b:a \$TARGETABITRATE -y prefix_downsample.mp4
-ffmpeg -i ${suffix_video} -threads 10 -vf "scale=w=\$TARGETWIDTH:h=\$TARGETHEIGHT:force_original_aspect_ratio=decrease,pad=\$TARGETWIDTH:\$TARGETHEIGHT:(ow-iw)/2:(oh-ih)/2" -acodec \$TARGETACODEC -ac \$TARGETCHANNELS -ar \$TARGETAUDIORATE -b:a \$TARGETABITRATE -y suffix_downsample.mp4
+ffmpeg -i ${prefix_video} -threads 10 -vf "scale=w=\$TARGETWIDTH:h=\$TARGETHEIGHT:force_original_aspect_ratio=decrease,pad=\$TARGETWIDTH:\$TARGETHEIGHT:(ow-iw)/2:(oh-ih)/2,setsar=0/1" -acodec \$TARGETACODEC -ac \$TARGETCHANNELS -ar \$TARGETAUDIORATE -b:a \$TARGETABITRATE -y prefix_downsample.mp4
+ffmpeg -i ${suffix_video} -threads 10 -vf "scale=w=\$TARGETWIDTH:h=\$TARGETHEIGHT:force_original_aspect_ratio=decrease,pad=\$TARGETWIDTH:\$TARGETHEIGHT:(ow-iw)/2:(oh-ih)/2,setsar=0/1" -acodec \$TARGETACODEC -ac \$TARGETCHANNELS -ar \$TARGETAUDIORATE -b:a \$TARGETABITRATE -y suffix_downsample.mp4
 
 # concatenate sponsor videos and talk video
 ffmpeg -i prefix_downsample.mp4 -i "$video" -i suffix_downsample.mp4 -threads 10 -filter_complex "[0:v:0][0:a:0][1:v:0][1:a:0][2:v:0][2:a:0]concat=n=3:v=1:a=1[outv][outa]" -map "[outv]" -map "[outa]" -y video_${abstract_id}.concat.mp4
