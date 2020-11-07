@@ -4,8 +4,8 @@ title:  "Long short-term memory RNN for mirtron identification"
 comments: true
 category: methods
 description: "<b>Ke Ding, Jiayu Wen</b><br/>MicroRNAs are small regulatory RNAs mediate extens..."
-videoID: https://cloudstor.aarnet.edu.au/plus/s/RHxWgtwRQ4N3ipl/download
-optimized_image: https://cloudstor.aarnet.edu.au/plus/s/JXwcnvGpdYhr1FB/download
+videoID: https://cloudstor.aarnet.edu.au/plus/s/D29U4IFz6DgnlF8/download
+optimized_image: https://cloudstor.aarnet.edu.au/plus/s/Q7Au0Y7q6KXhEEU/download
 session_talk: 1
 tags:
  - transcriptomics

@@ -4,8 +4,8 @@ title:  "How does gene expression entropy change along developmental trajectorie
 comments: true
 category: methods
 description: "<b>Elisabeth Roesch, Anissa Guillemin, Michael P.H. Stumpf, Megan Anne Coomer</b><br/>The differentiation of stem or progenitor cells is..."
-videoID: https://cloudstor.aarnet.edu.au/plus/s/GqHod4NomwEf0xV/download
-optimized_image: https://cloudstor.aarnet.edu.au/plus/s/kKtXFH6QAiAqGMg/download
+videoID: https://cloudstor.aarnet.edu.au/plus/s/vVic5kkThKF5ste/download
+optimized_image: https://cloudstor.aarnet.edu.au/plus/s/tJii4WTGbeqOfAH/download
 session_talk: 1
 tags:
  - single cell

@@ -4,8 +4,8 @@ title:  "Characterising Diversity in Gene Regulation Across the Indonesian Archi
 comments: true
 category: indigenous_genomics
 description: "<b>Irene Gallego Romero</b><br/>Title: Genetic Drivers Of Gene Expression And DNA ..."
-videoID: https://cloudstor.aarnet.edu.au/plus/s/3n3itZfzdE8fTyK/download
-optimized_image: https://cloudstor.aarnet.edu.au/plus/s/dSJUe2ogeos34v8/download
+videoID: https://cloudstor.aarnet.edu.au/plus/s/CBcPN5bgSwazxbN/download
+optimized_image: https://cloudstor.aarnet.edu.au/plus/s/fVKfMBMa8BuRdkV/download
 session_talk: 1
 tags:
  - transcriptomics

@@ -4,8 +4,8 @@ title:  "Metagenomic Geolocation with Read Signature Clustering"
 comments: true
 category: metagenomics
 description: "<b>Timothy Chappell, Shlomo Geva, James Hogan, David Lovell, Dimitri Perrin, Andrew Trotman</b><br/>Metagenomic sequencing produces large quantities o..."
-videoID: https://cloudstor.aarnet.edu.au/plus/s/tdKIWixLSOCJZiF/download
-optimized_image: https://cloudstor.aarnet.edu.au/plus/s/uQmNWfbElmNIuGu/download
+videoID: https://cloudstor.aarnet.edu.au/plus/s/NizSomliZOxeApA/download
+optimized_image: https://cloudstor.aarnet.edu.au/plus/s/8H5aW6s25uioEyH/download
 tags:
  - metagenomics
  - clustering

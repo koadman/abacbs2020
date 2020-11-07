@@ -4,8 +4,8 @@ title:  "Discovery of Tissue-specific Gene Expression Patterns in CD8 T Cells by
 comments: true
 category: single_cell
 description: "<b>Ying Zheng, Di Yu, Jiayu Wen</b><br/>The current most effective clinical cancer treatme..."
-videoID: https://cloudstor.aarnet.edu.au/plus/s/Zu7e19ryH1q5elP/download
-optimized_image: https://cloudstor.aarnet.edu.au/plus/s/57SCcCrYRIZIFt9/download
+videoID: https://cloudstor.aarnet.edu.au/plus/s/SYd4WWC3K7l5VgC/download
+optimized_image: https://cloudstor.aarnet.edu.au/plus/s/pkQJ4FRfeLLEMEX/download
 tags:
  - single cell
  - transcriptomics

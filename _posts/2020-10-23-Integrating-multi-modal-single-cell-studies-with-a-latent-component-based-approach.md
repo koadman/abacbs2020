@@ -4,8 +4,8 @@ title:  "Integrating multi-modal single-cell studies with a latent component-bas
 comments: true
 category: methods
 description: "<b>Al J Abadi, Kim-Anh Lêcao</b><br/>Single-cell multi-modal sequencing offers unpreced..."
-videoID: 
-optimized_image: 
+videoID: https://cloudstor.aarnet.edu.au/plus/s/1T62MBHbmcggeO7/download
+optimized_image: https://cloudstor.aarnet.edu.au/plus/s/9O0kMhzKlitaz4s/download
 session_talk: 1
 tags:
  - single cell

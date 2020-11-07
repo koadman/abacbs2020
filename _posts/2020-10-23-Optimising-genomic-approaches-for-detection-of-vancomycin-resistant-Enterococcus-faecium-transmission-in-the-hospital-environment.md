@@ -4,8 +4,8 @@ title:  "Optimising genomic approaches for detection of vancomycin resistant Ent
 comments: true
 category: methods
 description: "<b>Charlie Higgs, Claire Gorrie, Norelle Sherry, Ben Howden</b><br/>Objectives:<br/><br/>Vancomycin-resistant Enteroco..."
-videoID: https://cloudstor.aarnet.edu.au/plus/s/cWsh04W6IrJBKBd/download
-optimized_image: https://cloudstor.aarnet.edu.au/plus/s/ada5TIH3JqGLpMI/download
+videoID: https://cloudstor.aarnet.edu.au/plus/s/GsgJTQS7AFNOWZK/download
+optimized_image: https://cloudstor.aarnet.edu.au/plus/s/QUKr2DmGsgu0sfZ/download
 tags:
  - genomics
  - epidemiology

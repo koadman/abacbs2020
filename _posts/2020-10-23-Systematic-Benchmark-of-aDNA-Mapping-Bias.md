@@ -4,8 +4,8 @@ title:  "Systematic Benchmark of aDNA Mapping Bias"
 comments: true
 category: methods
 description: "<b>Adrien Oliva, Raymond Tobler, Bastien Llamas, Alan Cooper, Yassine Souilmi</b><br/>Recent advances in molecular techniques, as well a..."
-videoID: https://cloudstor.aarnet.edu.au/plus/s/0TgVcP0SrNMCTRx/download
-optimized_image: https://cloudstor.aarnet.edu.au/plus/s/6zHz5aJWEd3O5l8/download
+videoID: https://cloudstor.aarnet.edu.au/plus/s/Lchk4IoSUZtFOty/download
+optimized_image: https://cloudstor.aarnet.edu.au/plus/s/iCWXeevoYYVchKy/download
 tags:
  - ancient DNA
  - sequence alignment

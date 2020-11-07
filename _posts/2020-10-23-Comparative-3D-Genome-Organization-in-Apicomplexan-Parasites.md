@@ -4,8 +4,8 @@ title:  "Comparative 3D Genome Organization in Apicomplexan Parasites"
 comments: true
 category: nonmodel
 description: "<b>Evelien Bunnik, Aarthi Venkat, Ferhat Ay, Karine Le Roch</b><br/>The malaria parasite, Plasmodium falciparum, is a ..."
-videoID: 
-optimized_image: 
+videoID: https://cloudstor.aarnet.edu.au/plus/s/NHgAnCngZ6EdnPw/download
+optimized_image: https://cloudstor.aarnet.edu.au/plus/s/eCuxdqHwPS4c5Am/download
 invited_talk: 1
 tags:
  - Hi-C

@@ -4,8 +4,8 @@ title:  "ISOTOPE: ISOform-guided prediction of epiTOPEs in cancer"
 comments: true
 category: biomed_informatics
 description: "<b>Juan Luis Trincado, Eduardo Eyras</b><br/>Immunotherapies provide effective treatments for p..."
-videoID: 
-optimized_image: 
+videoID: https://cloudstor.aarnet.edu.au/plus/s/LKOMXT0UqtnQJda/download
+optimized_image: https://cloudstor.aarnet.edu.au/plus/s/ghl3ROKXi3i8D3A/download
 tags:
  - alternative splicing
  - cancer

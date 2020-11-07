@@ -4,8 +4,8 @@ title:  "Tampa: interpretable analysis and visualization of metagenomics-based t
 comments: true
 category: metagenomics
 description: "<b>Jaqueline Brito, Varuni Sarwal, Serghei Mangul, David Koslicki</b><br/>Taxonomic metagenome profiling aims to predict the..."
-videoID: https://cloudstor.aarnet.edu.au/plus/s/93Hb568Xci6el24/download
-optimized_image: https://cloudstor.aarnet.edu.au/plus/s/bxbOLPZXXRku2Tx/download
+videoID: https://cloudstor.aarnet.edu.au/plus/s/AMRehKXKVZYRyv7/download
+optimized_image: https://cloudstor.aarnet.edu.au/plus/s/jEujOnplNgYTDGU/download
 tags:
  - metagenomics
  - visualization

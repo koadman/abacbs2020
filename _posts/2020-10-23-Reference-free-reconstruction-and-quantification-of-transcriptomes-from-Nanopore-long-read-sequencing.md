@@ -4,8 +4,8 @@ title:  "Reference-free reconstruction and quantification of transcriptomes from
 comments: true
 category: long_reads
 description: "<b>Ivan de la Rubia, Joel Indi, Silvia Carbonell-Sala, Julien Lagarde, Mar Alba, Eduardo Eyras</b><br/>Single-molecule long-read sequencing with Nanopore..."
-videoID: https://cloudstor.aarnet.edu.au/plus/s/AE9YlMm8B3gRCYZ/download
-optimized_image: https://cloudstor.aarnet.edu.au/plus/s/fZh60okYLsg47PE/download
+videoID: https://cloudstor.aarnet.edu.au/plus/s/q8UK4i4EyMTz05v/download
+optimized_image: https://cloudstor.aarnet.edu.au/plus/s/g7UD5tu8W7CHlE0/download
 tags:
  - long reads
  - transcriptomics

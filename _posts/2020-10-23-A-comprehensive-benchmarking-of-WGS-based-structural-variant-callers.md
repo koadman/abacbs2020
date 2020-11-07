@@ -4,8 +4,8 @@ title:  "A comprehensive benchmarking of WGS-based structural variant callers"
 comments: true
 category: genomics
 description: "<b>Varuni Sarwal, Sebastian Niehus, Ram Ayyala, Eleazar Eskin, Jonathan Flint, Serghei Mangul</b><br/>Structural variants (SVs) are genomic regions that..."
-videoID: https://cloudstor.aarnet.edu.au/plus/s/OD2pMX2U0m0DYoF/download
-optimized_image: https://cloudstor.aarnet.edu.au/plus/s/XWIPig8g59wK6W3/download
+videoID: https://cloudstor.aarnet.edu.au/plus/s/c7q6KCkhRID4n1D/download
+optimized_image: https://cloudstor.aarnet.edu.au/plus/s/9cL4FTDTw9fvx8U/download
 session_talk: 1
 tags:
  - structural variants

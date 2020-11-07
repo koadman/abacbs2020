@@ -4,8 +4,8 @@ title:  "Navigating through ‘omics data: a multivariate perspective"
 comments: true
 category: methods
 description: "<b>Kim-Anh Lê Cao</b><br/>Technological improvements have allowed for the co..."
-videoID: https://cloudstor.aarnet.edu.au/plus/s/R0sCQotnHUVC8sI/download
-optimized_image: https://cloudstor.aarnet.edu.au/plus/s/xCpKj14OQW1GgyS/download
+videoID: https://cloudstor.aarnet.edu.au/plus/s/jZQMxs45xj3a8nS/download
+optimized_image: https://cloudstor.aarnet.edu.au/plus/s/WCWU9TfmpfWNxUa/download
 invited_talk: 1
 tags:
  - statistics

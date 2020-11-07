@@ -4,8 +4,8 @@ title:  "Using single-cell cytometry to illustrate the generalisable unbiased ev
 comments: true
 category: single_cell
 description: "<b>Givanna Putri, Irena Koprinska, Thomas Ashhurst, Nicholas King, Mark Read</b><br/>Clustering is widely used in biological fields suc..."
-videoID: https://cloudstor.aarnet.edu.au/plus/s/1oOyGtzREqnzgvE/download
-optimized_image: https://cloudstor.aarnet.edu.au/plus/s/3XtQIs9fBkidJb4/download
+videoID: https://cloudstor.aarnet.edu.au/plus/s/2Cn8X5D8X8gx2Ek/download
+optimized_image: https://cloudstor.aarnet.edu.au/plus/s/QvaYg97QhUfmsLG/download
 tags:
  - single cell
  - cytometry

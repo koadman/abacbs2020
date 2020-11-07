@@ -4,8 +4,8 @@ title:  "Exploring Neural Network models for CNV detection from Exome Data"
 comments: true
 category: methods
 description: "<b>Simon Sadedin</b><br/>In recent years many methods have been developed t..."
-videoID: https://cloudstor.aarnet.edu.au/plus/s/r2mroHvUYvtYL6L/download
-optimized_image: https://cloudstor.aarnet.edu.au/plus/s/cAr8HD3sv8CtXT9/download
+videoID: https://cloudstor.aarnet.edu.au/plus/s/KxIadm8rK4gh9Qa/download
+optimized_image: https://cloudstor.aarnet.edu.au/plus/s/m7XZtswQLSLbzQJ/download
 session_talk: 1
 tags:
  - deep learning

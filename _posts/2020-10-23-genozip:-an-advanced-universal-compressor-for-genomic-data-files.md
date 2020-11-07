@@ -4,8 +4,8 @@ title:  "genozip: an advanced universal compressor for genomic data files"
 comments: true
 category: methods
 description: "<b>Divon Lan</b><br/>genozip is a new universal lossless compressor for..."
-videoID: https://cloudstor.aarnet.edu.au/plus/s/x3I4cAp1uHGbB0P/download
-optimized_image: https://cloudstor.aarnet.edu.au/plus/s/1pm9oJ4Pi3jwDnG/download
+videoID: https://cloudstor.aarnet.edu.au/plus/s/z5DEmCOxLs3055v/download
+optimized_image: https://cloudstor.aarnet.edu.au/plus/s/WVmPMBNdxU7gtSv/download
 tags:
  - data compression
  - methods

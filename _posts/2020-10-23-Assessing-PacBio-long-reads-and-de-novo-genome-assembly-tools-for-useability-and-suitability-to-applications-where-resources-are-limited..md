@@ -4,8 +4,8 @@ title:  "Assessing PacBio long reads and de novo genome assembly tools for useab
 comments: true
 category: plants_fungi
 description: "<b>Chelsea Matthews, Nathan Watson-Haigh</b><br/>Due to the further development of long read sequen..."
-videoID: https://cloudstor.aarnet.edu.au/plus/s/uRbUeFiQObVUKQB/download
-optimized_image: https://cloudstor.aarnet.edu.au/plus/s/joC1KYY9HnmhWjI/download
+videoID: https://cloudstor.aarnet.edu.au/plus/s/eB6oGpexX7N3wvt/download
+optimized_image: https://cloudstor.aarnet.edu.au/plus/s/ce9JUv3EC9Kv52C/download
 session_talk: 1
 tags:
  - genome assembly

@@ -4,8 +4,8 @@ title:  "VIRUSBreakend: Viral Integration Recognition Using Single Breakends"
 comments: true
 category: genomics
 description: "<b>Daniel Cameron, Anthony Papenfuss</b><br/>An important cause of disease is the integration o..."
-videoID: https://cloudstor.aarnet.edu.au/plus/s/AChOSenQZcZrnZU/download
-optimized_image: https://cloudstor.aarnet.edu.au/plus/s/04lHXzjCYnZbaNE/download
+videoID: https://cloudstor.aarnet.edu.au/plus/s/j1d78UnWFJiJmrb/download
+optimized_image: https://cloudstor.aarnet.edu.au/plus/s/oYSdlbCGXZCQCHh/download
 session_talk: 1
 tags:
  - structural variants

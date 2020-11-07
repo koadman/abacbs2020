@@ -4,8 +4,8 @@ title:  "Direct RNA sequencing identifies isoform specific structures"
 comments: true
 category: transcriptomics
 description: "<b>Yue Wan</b><br/>The ability to correctly assign structure informat..."
-videoID: 
-optimized_image: 
+videoID: https://cloudstor.aarnet.edu.au/plus/s/Q9V5CGfADtLWXZS/download
+optimized_image: https://cloudstor.aarnet.edu.au/plus/s/dPCb6pTmJtfBp2v/download
 invited_talk: 1
 tags:
  - RNA structure

@@ -4,8 +4,8 @@ title:  "Moving beyond RNA sequence: uncovering the functional role of RNA struc
 comments: true
 category: transcriptomics
 description: "<b>Vincent Corbin, Phillip Tomezko, Paromita Gupta, Margalit Glasgow, Sitara Persad, Lachlan McIntosh, Anthony Papenfuss, Silvia Rouskin</b><br/>RNA is unique among biomolecules in its possession..."
-videoID: https://cloudstor.aarnet.edu.au/plus/s/yH5j5IjSI7FjMkA/download
-optimized_image: https://cloudstor.aarnet.edu.au/plus/s/vbSKFBtvm8TRBLm/download
+videoID: https://cloudstor.aarnet.edu.au/plus/s/Q8DLPMtLF3R5MT9/download
+optimized_image: https://cloudstor.aarnet.edu.au/plus/s/1PQnh7y20ipCIYc/download
 session_talk: 1
 tags:
  - gene regulation

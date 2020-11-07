@@ -4,8 +4,8 @@ title:  "eMST, a scalable and interpretable method for Phylogenetic analysis of 
 comments: true
 category: phylodynamics_COVID
 description: "<b>Sergey Knyazev, Harman Singh, Varuni Sarwal, Ram Ayyala, Daniel Novikov, Roya Hosseini, Serghei Mangul, Alex Zelikovsky</b><br/>A novel coronavirus, known as SARS-CoV-2, was iden..."
-videoID: https://cloudstor.aarnet.edu.au/plus/s/qQ0A25ReTNBe0Ne/download
-optimized_image: https://cloudstor.aarnet.edu.au/plus/s/4o766heUeW5AcCB/download
+videoID: https://cloudstor.aarnet.edu.au/plus/s/HPY499o0dF1Li9y/download
+optimized_image: https://cloudstor.aarnet.edu.au/plus/s/aSXZg7CnYRkiyD0/download
 session_talk: 1
 tags:
  - COVID-19

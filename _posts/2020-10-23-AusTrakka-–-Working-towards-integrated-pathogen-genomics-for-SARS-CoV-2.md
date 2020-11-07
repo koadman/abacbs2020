@@ -4,8 +4,8 @@ title:  "AusTrakka – Working towards integrated pathogen genomics for SARS-CoV
 comments: true
 category: phylodynamics_COVID
 description: "<b>Clare Sloggett, Torsten Seemann, Anders Goncalves Da Silva</b><br/>The COVID-19 pandemic has highlighted the need for..."
-videoID: https://cloudstor.aarnet.edu.au/plus/s/I7gIDTlEdvXuvQG/download
-optimized_image: https://cloudstor.aarnet.edu.au/plus/s/mlY52tYJ9KKqp5C/download
+videoID: https://cloudstor.aarnet.edu.au/plus/s/2zSdWXSdA7NB1C5/download
+optimized_image: https://cloudstor.aarnet.edu.au/plus/s/pRWPvx89wHZdiWX/download
 session_talk: 1
 tags:
  - COVID-19

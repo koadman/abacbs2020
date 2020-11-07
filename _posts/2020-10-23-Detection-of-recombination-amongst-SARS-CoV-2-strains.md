@@ -4,8 +4,8 @@ title:  "Detection of recombination amongst SARS-CoV-2 strains"
 comments: true
 category: phylodynamics_COVID
 description: "<b>Cameron Hosking, Daniel Reti, Brendan Hosking, Suzanne Scott, Aidan Tay, Denis Bauer, Laurence Wilson</b><br/>The emergence and spread of the SARS-CoV-2 virus h..."
-videoID: https://cloudstor.aarnet.edu.au/plus/s/MJBJEpaigbi6iOx/download
-optimized_image: https://cloudstor.aarnet.edu.au/plus/s/QZ6gsVj2yXz0Z6t/download
+videoID: https://cloudstor.aarnet.edu.au/plus/s/F5kb4c9g7AdkJY4/download
+optimized_image: https://cloudstor.aarnet.edu.au/plus/s/IMe6seI4NP9QFEc/download
 tags:
  - phylogenetics
  - recombination

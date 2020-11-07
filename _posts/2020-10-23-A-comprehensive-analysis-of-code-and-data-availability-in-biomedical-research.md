@@ -4,8 +4,8 @@ title:  "A comprehensive analysis of code and data availability in biomedical re
 comments: true
 category: biomed_informatics
 description: "<b>Dhrithi Deshpande, Ruiwei Guo, Serghei Mangul</b><br/>In biomedical research, it is not only imperative ..."
-videoID: https://cloudstor.aarnet.edu.au/plus/s/EuPJztuSYQZxw4E/download
-optimized_image: https://cloudstor.aarnet.edu.au/plus/s/7gDbpu0fZLjsDMX/download
+videoID: https://cloudstor.aarnet.edu.au/plus/s/sWkRJJIyNGfnq6V/download
+optimized_image: https://cloudstor.aarnet.edu.au/plus/s/fgEKue1vdSRDB5t/download
 session_talk: 1
 tags:
  - biomedical informatics

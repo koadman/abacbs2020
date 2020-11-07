@@ -4,8 +4,8 @@ title:  "PhosR enables processing and functional analysis of phosphoproteomic da
 comments: true
 category: regulation
 description: "<b>Jieun Kim, Taiyun Kim, Nolan J Hoffman, Di Xiao, David James, Sean J Humphrey, Pengyi Yang</b><br/>Mass spectrometry (MS)-based phosphoproteomics has..."
-videoID: 
-optimized_image: 
+videoID: https://cloudstor.aarnet.edu.au/plus/s/JAeJt2XOarTiji3/download
+optimized_image: https://cloudstor.aarnet.edu.au/plus/s/unxnXeD1OK4PDeR/download
 tags:
  - proteomics
  - gene function

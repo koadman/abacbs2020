@@ -4,8 +4,8 @@ title:  "Machine Learning in Dynamic Microscopy"
 comments: true
 category: methods
 description: "<b>Khelina Fedorchuk, Damien Hicks, Sarah Russel, Kajal Zibaei</b><br/>The tracking of individual, proliferating cells ov..."
-videoID: https://cloudstor.aarnet.edu.au/plus/s/bDSbd2x4hkvRcqQ/download
-optimized_image: https://cloudstor.aarnet.edu.au/plus/s/MyuKahkavOuGiDP/download
+videoID: https://cloudstor.aarnet.edu.au/plus/s/sKxk6dlc1VizfaP/download
+optimized_image: https://cloudstor.aarnet.edu.au/plus/s/5UFYVb5wBJ7oYiV/download
 tags:
  - deep learning
  - microscopy

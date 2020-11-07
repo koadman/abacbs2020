@@ -4,8 +4,8 @@ title:  "Whole transcripts in genome assembly, annotation, and assessment: the d
 comments: true
 category: nonmodel
 description: "<b>Katarina Stuart, Yuanyuan Cheng, Lee Rollins, Richard Edwards</b><br/>Native to the Palearctic, the common starling (Stu..."
-videoID: https://cloudstor.aarnet.edu.au/plus/s/tEMjXp5hTYzHzHT/download
-optimized_image: https://cloudstor.aarnet.edu.au/plus/s/fIk9pEcxWB73vWj/download
+videoID: https://cloudstor.aarnet.edu.au/plus/s/RSnJeMzBBxaaGJC/download
+optimized_image: https://cloudstor.aarnet.edu.au/plus/s/8TBHnGpSpLlcL77/download
 session_talk: 1
 tags:
  - genome assembly

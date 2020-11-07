@@ -4,8 +4,8 @@ title:  "Benchmarking single cell transcriptomes with bulk transcriptional atlas
 comments: true
 category: single_cell
 description: "<b>Yidi Deng, Kim-Anh Lê Cao, Choi Jarny, Christine Wells</b><br/><br/>Single cell RNA sequencing (scRNA-seq) allows..."
-videoID: https://cloudstor.aarnet.edu.au/plus/s/88BUf5lM0705EvO/download
-optimized_image: https://cloudstor.aarnet.edu.au/plus/s/uYsdoErLVXepQCv/download
+videoID: https://cloudstor.aarnet.edu.au/plus/s/wjWjTmVKT8kLM6p/download
+optimized_image: https://cloudstor.aarnet.edu.au/plus/s/xNDar4TOWQKZnqd/download
 tags:
  - single cell
  - transcriptomics

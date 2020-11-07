@@ -4,8 +4,8 @@ title:  "Best practices for single-cell expression Quantitative Trait Locus (sc-
 comments: true
 category: single_cell
 description: "<b>Christina Azodi, Davis McCarthy</b><br/>Advances in single-cell (sc) technologies have mad..."
-videoID: https://cloudstor.aarnet.edu.au/plus/s/8X6E4BaG4t6bA0r/download
-optimized_image: https://cloudstor.aarnet.edu.au/plus/s/Kqlck2Sg8mBM39K/download
+videoID: https://cloudstor.aarnet.edu.au/plus/s/0s2t0H2HvX9aa17/download
+optimized_image: https://cloudstor.aarnet.edu.au/plus/s/xLboJolWbLCc7Lr/download
 tags:
  - single cell
  - benchmarking

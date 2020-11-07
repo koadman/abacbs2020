@@ -4,8 +4,8 @@ title:  "Fate specification and variability in cell lineage trees"
 comments: true
 category: single_cell
 description: "<b>Caleb Lau, Terry Speed, Sarah Russell, Damien Hicks</b><br/>Cell lineage trees provide a blueprint for underst..."
-videoID: https://cloudstor.aarnet.edu.au/plus/s/XOEbUhK7jxwCFNX/download
-optimized_image: https://cloudstor.aarnet.edu.au/plus/s/yQ4VNNBcUUuueEU/download
+videoID: https://cloudstor.aarnet.edu.au/plus/s/uD7hmuVVldVbFnS/download
+optimized_image: https://cloudstor.aarnet.edu.au/plus/s/wITnIPQOgM3IzO0/download
 tags:
  - single cell
  - methods

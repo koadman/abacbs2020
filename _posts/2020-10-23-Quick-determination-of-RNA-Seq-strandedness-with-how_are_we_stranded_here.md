@@ -4,8 +4,8 @@ title:  "Quick determination of RNA-Seq strandedness with how_are_we_stranded_he
 comments: true
 category: transcriptomics
 description: "<b>Beth Signal, Tim Kahlke</b><br/>RNA-Seq is a commonly performed method to analyse ..."
-videoID: https://cloudstor.aarnet.edu.au/plus/s/PGFwHfKZ2IXnr8L/download
-optimized_image: https://cloudstor.aarnet.edu.au/plus/s/gjCxAFENW2yhW3D/download
+videoID: https://cloudstor.aarnet.edu.au/plus/s/aWKPxM1rc67EIz0/download
+optimized_image: https://cloudstor.aarnet.edu.au/plus/s/v5IGQgNKgxGOSII/download
 tags:
  - transcriptomics
  - methods
