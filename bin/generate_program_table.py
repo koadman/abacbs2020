@@ -5,7 +5,11 @@ import sys
 
 track1_zoom_url = 'https://zoom.us'
 track2_zoom_url = 'https://zoom.us'
-remo_url = 'https://remo.co'
+remo_url_day_1 = 'https://live.remo.co/e/abacbs2020-day-1/register'
+remo_url_day_2 = 'https://live.remo.co/e/abacbs2020-day-2/register'
+remo_url_day_3 = 'https://live.remo.co/e/abacbs2020-day-3/register'
+remo_url_social_night = 'https://remo.co'
+
 
 def get_entry(entry, json_data):
     if entry == 'nan': return ''
@@ -33,7 +37,7 @@ def get_entry(entry, json_data):
     new_entry += '('+link+')'
     return new_entry
 
-def print_schedule(df,base_col,json_data):
+def print_schedule(df,base_col,json_data, remo_url, remo_text):
     in_break = 0
     for index, row in df.iterrows():
         if str(row[base_col]) != 'nan':
@@ -51,7 +55,7 @@ def print_schedule(df,base_col,json_data):
         if entry_1 == 'break':
             print('| '+str(row[0])+' | '+entry_1+' | '+entry_2+' |')
             print("|--+----------------+--------------|\n\n")
-            print("\n [Asynchronous talk session in Remo]("+remo_url+")\n\n")
+            print("\n ["+remo_text+"]("+remo_url+")\n\n")
             in_break = 1
         elif entry_1 == entry_2 and entry_1 == 'nan' and int(row[0][0:2]) >=16:
             continue
@@ -85,9 +89,11 @@ Jump to [Tuesday](#tuesday-november-24th) \| [Wednesday](#wednesday-november-25t
 """
 print(md_string)
 print("\n## Tuesday November 24th\n\n")
-print_schedule(df,1,json_data)
+print_schedule(df,1,json_data,remo_url_day_1, 'Networking session (invited speakers of the day, odd-numbered abstracts, sponsors)')
 print("\n## Wednesday November 25th\n\n")
-print_schedule(df,5,json_data)
+print_schedule(df,5,json_data,remo_url_day_2, 'Networking session (invited speakers of the day, even-numbered abstracts, sponsors)')
+print("\n\n19:00-20:00 Social event in Remo ([Bioinformatics Quiz Night, click here to join]("+remo_url_social_night+"))\n")
+
 print("\n## Thursday November 26th\n\n")
-print_schedule(df,9,json_data)
+print_schedule(df,9,json_data,remo_url_day_3, 'Networking session (invited speakers of the day, topic tables, sponsors)')
 print("\n\nJump to [Tuesday](#tuesday-november-24th) \| [Wednesday](#wednesday-november-25th) \| [Thursday](#thursday-november-26th)")
