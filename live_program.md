@@ -29,7 +29,7 @@ Jump to [Tuesday](#tuesday-november-24th) \| [Wednesday](#wednesday-november-25t
 
 
 
- [Asynchronous talk session in Remo](https://remo.co)
+ [Networking session (invited speakers of the day, odd-numbered abstracts, sponsors)](https://live.remo.co/e/abacbs2020-day-1/register)
 
 
 |--+----------------+--------------|
@@ -63,25 +63,27 @@ Jump to [Tuesday](#tuesday-november-24th) \| [Wednesday](#wednesday-november-25t
 
 
 
- [Asynchronous talk session in Remo](https://remo.co)
+ [Networking session (invited speakers of the day, even-numbered abstracts, sponsors)](https://live.remo.co/e/abacbs2020-day-2/register)
 
 
 |--+----------------+--------------|
 |  | Methods and new technologies - [Join live session](https://zoom.us) | Transcriptomics / RNA - [Join live session](https://zoom.us) |
 |--+----------------+--------------|
-| 14:30 | Invited talk: **Yu Lin**<br/>[Binning Metagenomic Sequences](/Binning-Metagenomic-Sequences/) |  |
-| 14:40 |  |  |
-| 14:50 | Yingxin Lin<br/>[Transfer learning for data integration of single-c...](/Transfer-learning-for-data-integration-of-single-cell-RNA-seq-and-ATAC-seq/) | Invited talk: **Yue Wan**<br/>[Direct RNA sequencing identifies isoform specific ...](/Direct-RNA-sequencing-identifies-isoform-specific-structures/) |
-| 15:00 | Simon Sadedin<br/>[Exploring Neural Network models for CNV detection ...](/Exploring-Neural-Network-models-for-CNV-detection-from-Exome-Data/) |  |
-| 15:10 | Ebony Watson<br/>[Image-based Predictive Modelling for the Character...](/Image-based-Predictive-Modelling-for-the-Characterisation-of-Cellular-Senescence/) | Oak Hatzimanolis<br/>[Implementing an integrated analysis to identify an...](/Implementing-an-integrated-analysis-to-identify-and-validate-circular-RNAs-using-patient-derived-neuronal-stem-cells/) |
-| 15:20 | Al J Abadi<br/>[Integrating multi-modal single-cell studies with a...](/Integrating-multi-modal-single-cell-studies-with-a-latent-component-based-approach/) | Vincent Corbin<br/>[Moving beyond RNA sequence: uncovering the functio...](/Moving-beyond-RNA-sequence-uncovering-the-functional-role-of-RNA-structure/) |
-| 15:30 | Legana Fingerhut<br/>[ampir: an R package for fast genome-wide predictio...](/ampir-an-R-package-for-fast-genome-wide-prediction-of-antimicrobial-peptides/) | Sasdekumar Loganathan<br/>[Application of mixture model to RNA-seq data to di...](/Application-of-mixture-model-to-RNA-seq-data-to-discover-ageing-regulators/) |
-| 15:40 | Thomas Quinn<br/>[Learning Distance-Dependent Motif Interactions: An...](/Learning-Distance-Dependent-Motif-Interactions-An-Interpretable-CNN-Model-of-Genomic-Events/) | Angel Liang<br/>[RNA splicing is a hierarchical supernetwork that c...](/RNA-splicing-is-a-hierarchical-supernetwork-that-co-operates-to-drive-osteoblast-differentiation/) |
-| 15:50 | Invited talk: **Kim-Anh Lê Cao**<br/>[Navigating through ‘omics data: a multivariate per...](/Navigating-through-omics-data-a-multivariate-perspective/) | Ruebena Dawes<br/>[Features that determine 5’ cryptic splice site sel...](/Features-that-determine-5-cryptic-splice-site-selection-in-genetic-disorders/) |
-| 16:00 |  | Ke Ding<br/>[Long short-term memory RNN for mirtron identificat...](/Long-short-term-memory-RNN-for-mirtron-identification/) |
+| 14:50 | Invited talk: **Kim-Anh Lê Cao**<br/>[Navigating through ‘omics data: a multivariate per...](/Navigating-through-omics-data-a-multivariate-perspective/) | Invited talk: **Yue Wan**<br/>[Direct RNA sequencing identifies isoform specific ...](/Direct-RNA-sequencing-identifies-isoform-specific-structures/) |
+| 15:00 |  |  |
+| 15:10 | Yingxin Lin<br/>[Transfer learning for data integration of single-c...](/Transfer-learning-for-data-integration-of-single-cell-RNA-seq-and-ATAC-seq/) | Oak Hatzimanolis<br/>[Implementing an integrated analysis to identify an...](/Implementing-an-integrated-analysis-to-identify-and-validate-circular-RNAs-using-patient-derived-neuronal-stem-cells/) |
+| 15:20 | Simon Sadedin<br/>[Exploring Neural Network models for CNV detection ...](/Exploring-Neural-Network-models-for-CNV-detection-from-Exome-Data/) | Vincent Corbin<br/>[Moving beyond RNA sequence: uncovering the functio...](/Moving-beyond-RNA-sequence-uncovering-the-functional-role-of-RNA-structure/) |
+| 15:30 | Ebony Watson<br/>[Image-based Predictive Modelling for the Character...](/Image-based-Predictive-Modelling-for-the-Characterisation-of-Cellular-Senescence/) | Sasdekumar Loganathan<br/>[Application of mixture model to RNA-seq data to di...](/Application-of-mixture-model-to-RNA-seq-data-to-discover-ageing-regulators/) |
+| 15:40 | Al J Abadi<br/>[Integrating multi-modal single-cell studies with a...](/Integrating-multi-modal-single-cell-studies-with-a-latent-component-based-approach/) | Angel Liang<br/>[RNA splicing is a hierarchical supernetwork that c...](/RNA-splicing-is-a-hierarchical-supernetwork-that-co-operates-to-drive-osteoblast-differentiation/) |
+| 15:50 | Legana Fingerhut<br/>[ampir: an R package for fast genome-wide predictio...](/ampir-an-R-package-for-fast-genome-wide-prediction-of-antimicrobial-peptides/) | Ruebena Dawes<br/>[Features that determine 5’ cryptic splice site sel...](/Features-that-determine-5-cryptic-splice-site-selection-in-genetic-disorders/) |
+| 16:00 | Thomas Quinn<br/>[Learning Distance-Dependent Motif Interactions: An...](/Learning-Distance-Dependent-Motif-Interactions-An-Interpretable-CNN-Model-of-Genomic-Events/) | Ke Ding<br/>[Long short-term memory RNN for mirtron identificat...](/Long-short-term-memory-RNN-for-mirtron-identification/) |
 | 16:10 | short break | short break |
 | 16:40 | Society Awards |  |
 | 17:30 | End | End |
+
+
+19:00-20:00 Social event in Remo ([Bioinformatics Quiz Night, click here to join](https://remo.co))
+
 
 ## Thursday November 26th
 
@@ -100,26 +102,25 @@ Jump to [Tuesday](#tuesday-november-24th) \| [Wednesday](#wednesday-november-25t
 
 
 
- [Asynchronous talk session in Remo](https://remo.co)
+ [Networking session (invited speakers of the day, topic tables, sponsors)](https://live.remo.co/e/abacbs2020-day-3/register)
 
 
 |--+----------------+--------------|
 |  | Genomics - [Join live session](https://zoom.us) | Single cell - [Join live session](https://zoom.us) |
 |--+----------------+--------------|
-| 14:30 |  | Invited talk: **Sara Ballouz**<br/>[Sex-specific co-expression: a baseline to explore ...](/Sex-specific-co-expression-a-baseline-to-explore-disease/) |
+| 14:30 | Invited talk: **Yu Lin**<br/>[Binning Metagenomic Sequences](/Binning-Metagenomic-Sequences/) | Invited talk: **Sara Ballouz**<br/>[Sex-specific co-expression: a baseline to explore ...](/Sex-specific-co-expression-a-baseline-to-explore-disease/) |
 | 14:40 |  |  |
-| 14:50 | Invited talk: **Phillippa Taberlay**<br/>[Recapitulation of a juvenile-like histone landscap...](/Recapitulation-of-a-juvenile-like-histone-landscape-in-aged-neurons/) | Adam Chan<br/>[An automated framework for elucidating hierarchica...](/An-automated-framework-for-elucidating-hierarchical-relationships-in-high-dimensional-cytometry-data/) |
-| 15:00 |  | Elisabeth Roesch<br/>[How does gene expression entropy change along deve...](/How-does-gene-expression-entropy-change-along-developmental-trajectories?/) |
-| 15:10 | Daniel Cameron<br/>[VIRUSBreakend: Viral Integration Recognition Using...](/VIRUSBreakend-Viral-Integration-Recognition-Using-Single-Breakends/) | Yue Cao<br/>[Benchmarking single cell RNA-sequencing simulation...](/Benchmarking-single-cell-RNA-sequencing-simulation-methods/) |
-| 15:20 | Tingting Gong<br/>[Structural variation signatures in primary prostat...](/Structural-variation-signatures-in-primary-prostate-cancer/) | Belinda Phipson<br/>[propeller: finding statistically significant diffe...](/propeller-finding-statistically-significant-differences-in-cell-type-proportions-in-single-cell-RNA-seq-experiments/) |
-| 15:30 | Jacob Bradford<br/>[CRISPR, faster, better - The Crackling method for ...](/CRISPR,-faster,-better-The-Crackling-method-for-whole-genome-target-detection/) | Marie Trussart<br/>[Removing unwanted variation with CytofRUV to integ...](/Removing-unwanted-variation-with-CytofRUV-to-integrate-multiple-CyTOF-datasets/) |
-| 15:40 | #98  | Anna Trigos<br/>[The next generation of biomarkers in cancer: singl...](/The-next-generation-of-biomarkers-in-cancer-single-cell-spatial-analysis-of-tumour-and-microenvironment-cells/) |
-| 15:50 | Varuni Sarwal<br/>[A comprehensive benchmarking of WGS-based structur...](/A-comprehensive-benchmarking-of-WGS-based-structural-variant-callers/) | Invited talk: **Fabio Zanini**<br/>[Hypothesis generation in the age of cell atlases](/Hypothesis-generation-in-the-age-of-cell-atlases/) |
-| 16:00 | Loic Thibaut<br/>[powerSFS: quantifying the intolerance of genes to ...](/powerSFS-quantifying-the-intolerance-of-genes-to-mutation-with-a-statistical-model-of-the-site-frequency-spectrum/) |  |
+| 14:50 | Daniel Cameron<br/>[VIRUSBreakend: Viral Integration Recognition Using...](/VIRUSBreakend-Viral-Integration-Recognition-Using-Single-Breakends/) | Adam Chan<br/>[An automated framework for elucidating hierarchica...](/An-automated-framework-for-elucidating-hierarchical-relationships-in-high-dimensional-cytometry-data/) |
+| 15:00 | Tingting Gong<br/>[Structural variation signatures in primary prostat...](/Structural-variation-signatures-in-primary-prostate-cancer/) | Elisabeth Roesch<br/>[How does gene expression entropy change along deve...](/How-does-gene-expression-entropy-change-along-developmental-trajectories?/) |
+| 15:10 | Jacob Bradford<br/>[CRISPR, faster, better - The Crackling method for ...](/CRISPR,-faster,-better-The-Crackling-method-for-whole-genome-target-detection/) | Yue Cao<br/>[Benchmarking single cell RNA-sequencing simulation...](/Benchmarking-single-cell-RNA-sequencing-simulation-methods/) |
+| 15:20 | #98  | Belinda Phipson<br/>[propeller: finding statistically significant diffe...](/propeller-finding-statistically-significant-differences-in-cell-type-proportions-in-single-cell-RNA-seq-experiments/) |
+| 15:30 | Varuni Sarwal<br/>[A comprehensive benchmarking of WGS-based structur...](/A-comprehensive-benchmarking-of-WGS-based-structural-variant-callers/) | Marie Trussart<br/>[Removing unwanted variation with CytofRUV to integ...](/Removing-unwanted-variation-with-CytofRUV-to-integrate-multiple-CyTOF-datasets/) |
+| 15:40 | Loic Thibaut<br/>[powerSFS: quantifying the intolerance of genes to ...](/powerSFS-quantifying-the-intolerance-of-genes-to-mutation-with-a-statistical-model-of-the-site-frequency-spectrum/) | Anna Trigos<br/>[The next generation of biomarkers in cancer: singl...](/The-next-generation-of-biomarkers-in-cancer-single-cell-spatial-analysis-of-tumour-and-microenvironment-cells/) |
+| 15:50 | Invited talk: **Phillippa Taberlay**<br/>[Recapitulation of a juvenile-like histone landscap...](/Recapitulation-of-a-juvenile-like-histone-landscape-in-aged-neurons/) | Invited talk: **Fabio Zanini**<br/>[Hypothesis generation in the age of cell atlases](/Hypothesis-generation-in-the-age-of-cell-atlases/) |
 | 16:10 | short break | short break |
 | 16:40 | COMBINE best talk |  |
 | 16:50 | Best poster award |  |
-| 17:00 | Remo Social event (Bioinformatics Quiz Night) |  |
+| 17:00 | Conference close |  |
 
 
 Jump to [Tuesday](#tuesday-november-24th) \| [Wednesday](#wednesday-november-25th) \| [Thursday](#thursday-november-26th)
