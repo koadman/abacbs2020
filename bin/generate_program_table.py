@@ -3,13 +3,13 @@ import pandas as pd
 import json
 import sys
 
-track1_zoom_url = 'https://zoom.us'
-track2_zoom_url = 'https://zoom.us'
+track1_zoom_url = 'https://zoom.us/j/96073342140?pwd=dnBwTHRHWjFvL2FieSs4QUV3S2Jjdz09'
+track2_zoom_url = 'https://zoom.us/j/99215144759?pwd=STIrQ2lJQ0ZDTFo1enVrQWZUUHQ3Zz09'
 remo_url_day_1 = 'https://live.remo.co/e/abacbs2020-day-1/register'
 remo_url_day_2 = 'https://live.remo.co/e/abacbs2020-day-2/register'
 remo_url_day_3 = 'https://live.remo.co/e/abacbs2020-day-3/register'
-remo_url_social_night = 'https://remo.co'
-
+remo_url_social_night = 'https://live.remo.co/e/trivia-night-21/register'
+slack_url = 'https://join.slack.com/t/abacbs2020/shared_invite/zt-iws0iser-KTjl~iJ1pLhWgZguqAEgOg'
 
 def get_entry(entry, json_data):
     if entry == 'nan': return ''
@@ -42,8 +42,8 @@ def print_schedule(df,base_col,json_data, remo_url, remo_text):
     for index, row in df.iterrows():
         if str(row[base_col]) != 'nan':
             session_titles = "|  | " + str(row[base_col]) + \
-            " - [Join live session]("+track1_zoom_url+") | " + str(row[base_col+2]) + \
-            " - [Join live session]("+track2_zoom_url+") |"
+            " - [Join live session A]("+track1_zoom_url+") | " + str(row[base_col+2]) + \
+            " - [Join live session B]("+track2_zoom_url+") |"
             print("|--+----------------+--------------|")
             print(session_titles)
             print("|--+----------------+--------------|")
@@ -92,7 +92,7 @@ print("\n## Tuesday November 24th\n\n")
 print_schedule(df,1,json_data,remo_url_day_1, 'Networking session (invited speakers of the day, odd-numbered abstracts, sponsors)')
 print("\n## Wednesday November 25th\n\n")
 print_schedule(df,5,json_data,remo_url_day_2, 'Networking session (invited speakers of the day, even-numbered abstracts, sponsors)')
-print("\n\n19:00-20:00 Social event in Remo ([Bioinformatics Quiz Night, click here to join]("+remo_url_social_night+"))\n")
+print("\n\n19:00-20:30 Social event in Remo ([Bioinformatics Quiz Night, click here to join]("+remo_url_social_night+"))\n")
 
 print("\n## Thursday November 26th\n\n")
 print_schedule(df,9,json_data,remo_url_day_3, 'Networking session (invited speakers of the day, topic tables, sponsors)')
