@@ -17,7 +17,7 @@ tags:
 \(1\) Mary MacKillop Institute for Health Research, Australian Catholic University<br/>
 \(2\) University of Sydney
 
-Find me during our live conference, [in Remo, table 75](https://remo.co)
+Find me on Tues Nov 24th, 1:40-3pm AEDT [in Remo, table 75](https://live.remo.co/e/abacbs2020-day-1/register)
 
 <b>Abstract</b><br/>
 Mass spectrometry \(MS\)-based phosphoproteomics has revolutionised our ability to profile phosphorylation-based signalling in cells and tissues on a global scale. To infer the action of kinases and signalling pathways in phosphoproteomic experiments, we present PhosR, a set of tools and methodologies implemented in a suite of R packages facilitating comprehensive analysis of phosphoproteomic data. By applying PhosR to both published and new phosphoproteomic datasets, we demonstrate capabilities in data imputation and normalisation using a novel set of ‘stably phosphorylated sites’, and in functional analysis for inferring active kinases and signalling pathways. In particular, we introduce a ‘signalome’ construction method for identifying a collection of signalling modules to summarise and visualise the interaction of kinases and their collective actions on signal transduction. Together, our data and findings demonstrate the utility of PhosR in processing and generating novel biological knowledge from MS-based phosphoproteomic data.

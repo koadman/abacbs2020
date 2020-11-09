@@ -19,7 +19,7 @@ tags:
 \(3\) Nanyang Technological University<br/>
 \(4\) University of Tubingen
 
-Find me during our live conference, [in Remo, table 135](https://remo.co)
+Find me on Tues Nov 24th, 1:40-3pm AEDT [in Remo, table 135](https://live.remo.co/e/abacbs2020-day-1/register)
 
 <b>Abstract</b><br/>
 New long read sequencing technologies offer huge potential for effective recovery of complete, closed genomes from complex microbial communities. Using long read data \(ONT MinION\) obtained from an ensemble of activated sludge enrichment bioreactors, we 1\) describe new methods for validating long read assembled genomes using their counterpart short read metagenome assembled genomes; 2\) assess the influence of different correction procedures on genome quality and predicted gene quality and 3\) contribute 21 closed or complete genomes of community members, including several species known to play key functional roles in wastewater bioprocesses: specifically microbes known to exhibit the polyphosphate-- and glycogen--accumulating organism phenotypes \(namely Accumulibacter and Dechloromonas, and Micropruina and Defluviicoccus, respectively\), and filamentous bacteria \(Thiothrix\) associated with the formation and stability of activated sludge flocs, and 4\) demonstrate the recovery of close to 100 non--chromosomal replicons and a small microbial genome from order Saccharimonadales, that are present in these communities. Our findings further establish the feasibility of long read metagenome--assembled genome recovery, and demonstrate the utility of parallel sampling of moderately complex enrichment communities for recovery of genomes of key functional species relevant for the study of complex wastewater treatment bioprocesses.

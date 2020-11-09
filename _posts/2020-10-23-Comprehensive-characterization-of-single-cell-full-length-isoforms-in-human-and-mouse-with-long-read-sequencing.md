@@ -18,7 +18,7 @@ tags:
 \(0\) Walter and Eliza Hall Institute of Medical Research<br/>
 \(1\) AGRF
 
-Find me during our live conference, [in Remo, table 4](https://remo.co)
+Find me on Wed Nov 25th, 1:30-2:50pm AEDT [in Remo, table 4](https://live.remo.co/e/abacbs2020-day-2/register)
 
 <b>Abstract</b><br/>
 Alternative splicing shapes the phenotype of cells in development and disease. Longread RNA-sequencing recovers full-length transcripts but has limited throughput at the single-cell level. Here we developed single-cell full-length transcript sequencing by sampling \(FLT-seq\), together with the computational pipeline FLAMES to overcome these issues and perform isoform discovery and quantification for single cells. With FLT-seq and FLAMES, we performed the first comprehensive characterization of the full-length isoform landscape in single cells of different cell types and species, identified thousands of unannotated isoforms. We found conserved functional modules that were enriched for alternative transcript usage in different cell populations, including ribosome biogenesis and mRNA splicing. Analysis at the transcript-level allowed data integration with scATAC-seq on individual promoters, improved correlation with protein expression data and linked mutations known to confer drug resistance to transcriptome heterogeneity. Our methods reveal previously unseen isoform complexity and provide a better framework for multi-omics data integration.
