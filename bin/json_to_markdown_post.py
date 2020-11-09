@@ -29,7 +29,10 @@ optimized_image: {video_stillframe}
 
     remo_string = ""
     if json_data['talk_type'] != 'invited':
-        remo_string = "\nFind me during our live conference, [in Remo, table "+str(json_data['number'])+"](https://remo.co)"
+        if int(json_data['number']) % 2 == 1:
+            remo_string = "\nFind me on Tues Nov 24th, 1:40-3pm AEDT [in Remo, table "+json_data['number']+"](https://live.remo.co/e/abacbs2020-day-1/register)"
+        else:
+            remo_string = "\nFind me on Wed Nov 25th, 1:30-2:50pm AEDT [in Remo, table "+json_data['number']+"](https://live.remo.co/e/abacbs2020-day-2/register)"
     md_string += """---
 {cloudstor_include}
 {author_list_hyperlinked}<br/>
@@ -46,6 +49,8 @@ optimized_image: {video_stillframe}
 
     output_fname = json_data['title']
     output_fname = output_fname.replace(' ', '-') # replace spaces with dashes in filename
+    if output_fname[-1] == '.':
+        output_fname = output_fname[0:-1] # remove trailing . -- breaks jekyll
     output_fname = "2020-10-23-"+output_fname+".md";
 
     post_file = open(posts_dir+"/"+output_fname, 'w')
