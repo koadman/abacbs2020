@@ -4,8 +4,8 @@ title:  "Challenges In Aboriginal health in the genomics era"
 comments: true
 category: indigenous_genomics
 description: "<b>Alex Brown</b><br/>Engagement in the genomic era poses significant co..."
-videoID: 
-optimized_image: 
+videoID: https://cloudstor.aarnet.edu.au/plus/s/gH0guZyNVfuaEWk/download
+optimized_image: https://cloudstor.aarnet.edu.au/plus/s/YPHzUSlkfmZdsi1/download
 invited_talk: 1
 tags:
  - genomics

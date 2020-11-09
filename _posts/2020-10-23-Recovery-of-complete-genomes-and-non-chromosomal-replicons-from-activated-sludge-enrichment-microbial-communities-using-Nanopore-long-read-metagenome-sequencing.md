@@ -4,8 +4,8 @@ title:  "Recovery of complete genomes and non-chromosomal replicons from activat
 comments: true
 category: metagenomics
 description: "<b>Rohan Williams, Krithika Arumugam, Irina Bessarab, Mindia Haryono, Xianghui Liu, Rogelio Montanez, Samarpita Roy, Guanglei Qiu, Daniela Drautz-Moses, Yingyu Law, Stefan Wuertz, Federico Lauro, Daniel Huson</b><br/>New long read sequencing technologies offer huge p..."
-videoID: 
-optimized_image: 
+videoID: https://cloudstor.aarnet.edu.au/plus/s/PknLhz3QCspOZmc/download
+optimized_image: https://cloudstor.aarnet.edu.au/plus/s/N1iSueFmRNOEehl/download
 tags:
  - long reads
  - metagenomics

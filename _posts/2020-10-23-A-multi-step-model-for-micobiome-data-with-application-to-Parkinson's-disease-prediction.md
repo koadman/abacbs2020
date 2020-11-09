@@ -4,8 +4,8 @@ title:  "A multi-step model for micobiome data with application to Parkinson's d
 comments: true
 category: metagenomics
 description: "<b>Xiangnan Xu, Samuel Mueller, Jean Yang, Michal Lubomski, Ryan Davis, Andrew Holmes, Carolyn Sue</b><br/>Parkinson's disease (PD) is one of the most common..."
-videoID: 
-optimized_image: 
+videoID: https://cloudstor.aarnet.edu.au/plus/s/hBw6liqLSWTJ8x2/download
+optimized_image: https://cloudstor.aarnet.edu.au/plus/s/cdlbhl039TY2epN/download
 tags:
  - metagenomics
  - microbiome

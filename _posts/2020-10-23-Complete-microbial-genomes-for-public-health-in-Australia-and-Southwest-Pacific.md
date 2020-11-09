@@ -4,8 +4,8 @@ title:  "Complete microbial genomes for public health in Australia and Southwest
 comments: true
 category: phylodynamics_COVID
 description: "<b>Torsten Seemann</b><br/>Complete genomes of microbial pathogens are essent..."
-videoID: 
-optimized_image: 
+videoID: https://cloudstor.aarnet.edu.au/plus/s/QTVDARJuF5vQ8xF/download
+optimized_image: https://cloudstor.aarnet.edu.au/plus/s/AKJ7cLLDnrUMwok/download
 invited_talk: 1
 tags:
  - COVID-19

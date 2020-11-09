@@ -4,8 +4,8 @@ title:  "Making sense of heterogeneity in gene expression data"
 comments: true
 category: biomed_informatics
 description: "<b>Jessica Mar</b><br/>Any model that we apply makes assumptions. But how..."
-videoID: 
-optimized_image: 
+videoID: https://cloudstor.aarnet.edu.au/plus/s/Lh2KVS5Elh0Jtge/download
+optimized_image: https://cloudstor.aarnet.edu.au/plus/s/111zmjhq313EU3q/download
 invited_talk: 1
 tags:
  - cancer

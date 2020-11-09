@@ -4,8 +4,8 @@ title:  "Integrated transcriptional and chromatin accessibility profiling uncove
 comments: true
 category: regulation
 description: "<b>David Chisanga, Ajith Vasanthakumar, Wei Shi, Axel Kallies</b><br/>Integrated transcriptional and chromatin accessibi..."
-videoID: 
-optimized_image: 
+videoID: https://cloudstor.aarnet.edu.au/plus/s/CDEVIJmvODVv3JF/download
+optimized_image: https://cloudstor.aarnet.edu.au/plus/s/DjiCxDEn9TXerTI/download
 tags:
  - transcriptomics
  - chromatin

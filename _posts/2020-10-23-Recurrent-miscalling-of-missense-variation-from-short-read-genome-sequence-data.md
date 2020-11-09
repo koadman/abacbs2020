@@ -4,8 +4,8 @@ title:  "Recurrent miscalling of missense variation from short-read genome seque
 comments: true
 category: genomics
 description: "<b>Matt Field, Dan Andrews</b><br/>Short-read resequencing of genomes produces abunda..."
-videoID: 
-optimized_image: 
+videoID: https://cloudstor.aarnet.edu.au/plus/s/drLr4cXQTQqK81I/download
+optimized_image: https://cloudstor.aarnet.edu.au/plus/s/0mfXnqGmYePd8ro/download
 tags:
  - biomedical informatics
  - DNA sequencing

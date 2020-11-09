@@ -4,8 +4,8 @@ title:  "Understanding Polygenic Disease with BitEpi and EpiExplorer"
 comments: true
 category: genomics
 description: "<b>Arash Bayat, Brendan Hosking, Yatish Jain, Cameron Hosking, Milindi Kodikara, Daniel Reti, Natalie Twine, Denis Bauer</b><br/>Polygenic diseases are driven by a large number of..."
-videoID: https://cloudstor.aarnet.edu.au/plus/s/beWoyYJ3NdbJdcd/download
-optimized_image: https://cloudstor.aarnet.edu.au/plus/s/JpdrvnnT41UIXVC/download
+videoID: https://cloudstor.aarnet.edu.au/plus/s/C1M1WFwOy22Ch3B/download
+optimized_image: https://cloudstor.aarnet.edu.au/plus/s/kif9yDEQljs2bPA/download
 tags:
  - genomics
  - biomedical informatics

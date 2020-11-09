@@ -5,7 +5,7 @@ comments: true
 category: transcriptomics
 description: "<b>Yue Wan</b><br/>The ability to correctly assign structure informat..."
 videoID: https://cloudstor.aarnet.edu.au/plus/s/Q9V5CGfADtLWXZS/download
-optimized_image: https://cloudstor.aarnet.edu.au/plus/s/dPCb6pTmJtfBp2v/download
+optimized_image: 
 invited_talk: 1
 tags:
  - RNA structure
