@@ -15,7 +15,7 @@ Jump to [Tuesday](#tuesday-november-24th) \| [Wednesday](#wednesday-november-25t
 
 
 |--+----------------+--------------|
-|  | Plant Genomics - [Join live session](https://zoom.us) | Metagenomics - [Join live session](https://zoom.us) |
+|  | Plant Genomics - [Join live session A](https://zoom.us/j/96073342140?pwd=dnBwTHRHWjFvL2FieSs4QUV3S2Jjdz09) | Metagenomics - [Join live session B](https://zoom.us/j/99215144759?pwd=STIrQ2lJQ0ZDTFo1enVrQWZUUHQ3Zz09) |
 |--+----------------+--------------|
 | 12:30 | Invited talk: **Seung Rhee**<br/>[Challenges and Opportunities for Bioinformatics an...](/Challenges-and-Opportunities-for-Bioinformatics-and-Computational-Biology-in-Plant-Science/) | Invited talk: **Ami Bhatt**<br/>[Microproteins, Mobile Genetic elements and Strain-...](/Microproteins,-Mobile-Genetic-elements-and-Strain-level-resolution-in-the-microbiome-a-path-to-precision-medicine/) |
 | 12:40 |  |  |
@@ -33,7 +33,7 @@ Jump to [Tuesday](#tuesday-november-24th) \| [Wednesday](#wednesday-november-25t
 
 
 |--+----------------+--------------|
-|  | Regulation - [Join live session](https://zoom.us) | Biomed - [Join live session](https://zoom.us) |
+|  | Regulation - [Join live session A](https://zoom.us/j/96073342140?pwd=dnBwTHRHWjFvL2FieSs4QUV3S2Jjdz09) | Biomed - [Join live session B](https://zoom.us/j/99215144759?pwd=STIrQ2lJQ0ZDTFo1enVrQWZUUHQ3Zz09) |
 |--+----------------+--------------|
 | 15:00 | Invited talk: **Paul Gardner**<br/>[Features of functional human genes](/Features-of-functional-human-genes/) | Invited talk: **Jessica Mar**<br/>[Making sense of heterogeneity in gene expression d...](/Making-sense-of-heterogeneity-in-gene-expression-data/) |
 | 15:10 |  |  |
@@ -50,7 +50,7 @@ Jump to [Tuesday](#tuesday-november-24th) \| [Wednesday](#wednesday-november-25t
 
 
 |--+----------------+--------------|
-|  | Phylodynamics & COVID19 - [Join live session](https://zoom.us) | Non-model - [Join live session](https://zoom.us) |
+|  | Phylodynamics & COVID19 - [Join live session A](https://zoom.us/j/96073342140?pwd=dnBwTHRHWjFvL2FieSs4QUV3S2Jjdz09) | Non-model - [Join live session B](https://zoom.us/j/99215144759?pwd=STIrQ2lJQ0ZDTFo1enVrQWZUUHQ3Zz09) |
 |--+----------------+--------------|
 | 12:30 | Invited talk: **Torsten Seemann**<br/>[Complete microbial genomes for public health in Au...](/Complete-microbial-genomes-for-public-health-in-Australia-and-Southwest-Pacific/) | Invited talk: **Karine Le Roch**<br/>[Comparative 3D Genome Organization in Apicomplexan...](/Comparative-3D-Genome-Organization-in-Apicomplexan-Parasites/) |
 | 12:40 |  |  |
@@ -67,7 +67,7 @@ Jump to [Tuesday](#tuesday-november-24th) \| [Wednesday](#wednesday-november-25t
 
 
 |--+----------------+--------------|
-|  | Methods and new technologies - [Join live session](https://zoom.us) | Transcriptomics / RNA - [Join live session](https://zoom.us) |
+|  | Methods and new technologies - [Join live session A](https://zoom.us/j/96073342140?pwd=dnBwTHRHWjFvL2FieSs4QUV3S2Jjdz09) | Transcriptomics / RNA - [Join live session B](https://zoom.us/j/99215144759?pwd=STIrQ2lJQ0ZDTFo1enVrQWZUUHQ3Zz09) |
 |--+----------------+--------------|
 | 14:50 | Invited talk: **Kim-Anh Lê Cao**<br/>[Navigating through ‘omics data: a multivariate per...](/Navigating-through-omics-data-a-multivariate-perspective/) | Invited talk: **Yue Wan**<br/>[Direct RNA sequencing identifies isoform specific ...](/Direct-RNA-sequencing-identifies-isoform-specific-structures/) |
 | 15:00 |  |  |
@@ -82,14 +82,14 @@ Jump to [Tuesday](#tuesday-november-24th) \| [Wednesday](#wednesday-november-25t
 | 17:30 | End | End |
 
 
-19:00-20:00 Social event in Remo ([Bioinformatics Quiz Night, click here to join](https://remo.co))
+19:00-20:30 Social event in Remo ([Bioinformatics Quiz Night, click here to join](https://live.remo.co/e/trivia-night-21/register))
 
 
 ## Thursday November 26th
 
 
 |--+----------------+--------------|
-|  | Indigenous Genomics - [Join live session](https://zoom.us) | Long reads - [Join live session](https://zoom.us) |
+|  | Indigenous Genomics - [Join live session A](https://zoom.us/j/96073342140?pwd=dnBwTHRHWjFvL2FieSs4QUV3S2Jjdz09) | Long reads - [Join live session B](https://zoom.us/j/99215144759?pwd=STIrQ2lJQ0ZDTFo1enVrQWZUUHQ3Zz09) |
 |--+----------------+--------------|
 | 12:30 | Invited talk: **Keolu Fox**<br/>[Creating accountability in human population geneti...](/Creating-accountability-in-human-population-genetics-using-base-editing-tools/) | Invited talk: **Karen Miga**<br/>[Telomere-to-Telomere Chromosome Assemblies: New In...](/Telomere-to-Telomere-Chromosome-Assemblies-New-Insights-Into-Genome-Biology-and-Structure/) |
 | 12:40 |  |  |
@@ -106,14 +106,14 @@ Jump to [Tuesday](#tuesday-november-24th) \| [Wednesday](#wednesday-november-25t
 
 
 |--+----------------+--------------|
-|  | Genomics - [Join live session](https://zoom.us) | Single cell - [Join live session](https://zoom.us) |
+|  | Genomics - [Join live session A](https://zoom.us/j/96073342140?pwd=dnBwTHRHWjFvL2FieSs4QUV3S2Jjdz09) | Single cell - [Join live session B](https://zoom.us/j/99215144759?pwd=STIrQ2lJQ0ZDTFo1enVrQWZUUHQ3Zz09) |
 |--+----------------+--------------|
 | 14:30 | Invited talk: **Yu Lin**<br/>[Binning Metagenomic Sequences](/Binning-Metagenomic-Sequences/) | Invited talk: **Sara Ballouz**<br/>[Sex-specific co-expression: a baseline to explore ...](/Sex-specific-co-expression-a-baseline-to-explore-disease/) |
 | 14:40 |  |  |
 | 14:50 | Daniel Cameron<br/>[VIRUSBreakend: Viral Integration Recognition Using...](/VIRUSBreakend-Viral-Integration-Recognition-Using-Single-Breakends/) | Adam Chan<br/>[An automated framework for elucidating hierarchica...](/An-automated-framework-for-elucidating-hierarchical-relationships-in-high-dimensional-cytometry-data/) |
 | 15:00 | Tingting Gong<br/>[Structural variation signatures in primary prostat...](/Structural-variation-signatures-in-primary-prostate-cancer/) | Elisabeth Roesch<br/>[How does gene expression entropy change along deve...](/How-does-gene-expression-entropy-change-along-developmental-trajectories?/) |
 | 15:10 | Jacob Bradford<br/>[CRISPR, faster, better - The Crackling method for ...](/CRISPR,-faster,-better-The-Crackling-method-for-whole-genome-target-detection/) | Yue Cao<br/>[Benchmarking single cell RNA-sequencing simulation...](/Benchmarking-single-cell-RNA-sequencing-simulation-methods/) |
-| 15:20 | #98  | Belinda Phipson<br/>[propeller: finding statistically significant diffe...](/propeller-finding-statistically-significant-differences-in-cell-type-proportions-in-single-cell-RNA-seq-experiments/) |
+| 15:20 | Anushi Shah<br/>[Investigation of de novo mutations in human genome...](/Investigation-of-de-novo-mutations-in-human-genomes-using-whole-genome-sequencing-datasets/) | Belinda Phipson<br/>[propeller: finding statistically significant diffe...](/propeller-finding-statistically-significant-differences-in-cell-type-proportions-in-single-cell-RNA-seq-experiments/) |
 | 15:30 | Varuni Sarwal<br/>[A comprehensive benchmarking of WGS-based structur...](/A-comprehensive-benchmarking-of-WGS-based-structural-variant-callers/) | Marie Trussart<br/>[Removing unwanted variation with CytofRUV to integ...](/Removing-unwanted-variation-with-CytofRUV-to-integrate-multiple-CyTOF-datasets/) |
 | 15:40 | Loic Thibaut<br/>[powerSFS: quantifying the intolerance of genes to ...](/powerSFS-quantifying-the-intolerance-of-genes-to-mutation-with-a-statistical-model-of-the-site-frequency-spectrum/) | Anna Trigos<br/>[The next generation of biomarkers in cancer: singl...](/The-next-generation-of-biomarkers-in-cancer-single-cell-spatial-analysis-of-tumour-and-microenvironment-cells/) |
 | 15:50 | Invited talk: **Phillippa Taberlay**<br/>[Recapitulation of a juvenile-like histone landscap...](/Recapitulation-of-a-juvenile-like-histone-landscape-in-aged-neurons/) | Invited talk: **Fabio Zanini**<br/>[Hypothesis generation in the age of cell atlases](/Hypothesis-generation-in-the-age-of-cell-atlases/) |
