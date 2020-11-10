@@ -4,8 +4,8 @@ title:  "Microproteins, Mobile Genetic elements and Strain-level resolution in t
 comments: true
 category: metagenomics
 description: "<b>Ami Bhatt</b><br/> From climate change to agriculture, and human hea..."
-videoID: 
-optimized_image: 
+videoID: https://cloudstor.aarnet.edu.au/plus/s/UmwnrJHg1qz6nGj/download
+optimized_image: https://cloudstor.aarnet.edu.au/plus/s/hGhWuzA2YlYtcBP/download
 invited_talk: 1
 tags:
  - long reads
