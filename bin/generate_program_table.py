@@ -31,8 +31,10 @@ def get_entry(entry, json_data):
     new_entry += '['+json_data[num]['title'][0:50]+dots+']'
     link = json_data[num]['title'].rstrip()
     link = link.replace(' - ',' ')
-    link = link.replace(':','').replace('–','').replace('.','').replace('’',' ').replace('‘',' ')
+    link = link.replace(':','').replace('–','').replace('’',' ').replace('‘',' ')
     link = link.replace('  ', ' ').replace(' ', '-') # replace spaces with dashes in filename
+    if link[-1] == '.':
+        link = link[0:-1]
     link = "/"+link+"/"
     new_entry += '('+link+')'
     return new_entry
