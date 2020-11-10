@@ -4,6 +4,7 @@ import sys
 import pandas as pd
 from hashlib import blake2b
 import re
+import os
 
 send_mails = True
 
