@@ -4,8 +4,8 @@ title:  "Challenges and Opportunities for Bioinformatics and Computational Biolo
 comments: true
 category: plants_fungi
 description: "<b>Seung Rhee</b><br/>Plants make up the biggest biotic component of the..."
-videoID: 
-optimized_image: 
+videoID: https://cloudstor.aarnet.edu.au/plus/s/rNrh1S5dLQVZapd/download
+optimized_image: https://cloudstor.aarnet.edu.au/plus/s/SgYEnDpgoQdHyMd/download
 invited_talk: 1
 tags:
  - gene function

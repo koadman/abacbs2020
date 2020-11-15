@@ -4,8 +4,8 @@ title:  "Phage genome bioinformatics"
 comments: true
 category: metagenomics
 description: "<b>Robert Edwards</b><br/>Phages, viruses that infect bacteria, experience u..."
-videoID: 
-optimized_image: 
+videoID: https://cloudstor.aarnet.edu.au/plus/s/ZatkJEgzdmjZk3A/download
+optimized_image: https://cloudstor.aarnet.edu.au/plus/s/gO4Osojaacjab1x/download
 invited_talk: 1
 tags:
  - phages
