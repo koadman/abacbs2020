@@ -13,9 +13,11 @@ Jump to [Tuesday](#tuesday-november-24th) \| [Wednesday](#wednesday-november-25t
 
 ## Tuesday November 24th
 
+10:30-12:30 - [Pre-conference networking in Remo "Canberra Cafe](https://live.remo.co/e/canberra-cafe/register)
+
 
 |--+----------------+--------------|
-|  | Plant Genomics - [Join live session A](https://zoom.us/j/96073342140?pwd=dnBwTHRHWjFvL2FieSs4QUV3S2Jjdz09) | Metagenomics - [Join live session B](https://zoom.us/j/99215144759?pwd=STIrQ2lJQ0ZDTFo1enVrQWZUUHQ3Zz09) |
+|  | Plant Genomics - [Join live session A](https://zoom.us/j/96073342140?pwd=dnBwTHRHWjFvL2FieSs4QUV3S2Jjdz09)<br/>Chair:  Jen Taylor | Metagenomics - [Join live session B](https://zoom.us/j/99215144759?pwd=STIrQ2lJQ0ZDTFo1enVrQWZUUHQ3Zz09)<br/>Chair: Aaron Darling |
 |--+----------------+--------------|
 | 12:30 | Invited talk: **Seung Rhee**<br/>[Challenges and Opportunities for Bioinformatics an...](/Challenges-and-Opportunities-for-Bioinformatics-and-Computational-Biology-in-Plant-Science/) | Invited talk: **Ami Bhatt**<br/>[Microproteins, Mobile Genetic elements and Strain-...](/Microproteins,-Mobile-Genetic-elements-and-Strain-level-resolution-in-the-microbiome-a-path-to-precision-medicine/) |
 | 12:40 |  |  |
@@ -33,7 +35,7 @@ Jump to [Tuesday](#tuesday-november-24th) \| [Wednesday](#wednesday-november-25t
 
 
 |--+----------------+--------------|
-|  | Regulation - [Join live session A](https://zoom.us/j/96073342140?pwd=dnBwTHRHWjFvL2FieSs4QUV3S2Jjdz09) | Biomed - [Join live session B](https://zoom.us/j/99215144759?pwd=STIrQ2lJQ0ZDTFo1enVrQWZUUHQ3Zz09) |
+|  | Regulation - [Join live session A](https://zoom.us/j/96073342140?pwd=dnBwTHRHWjFvL2FieSs4QUV3S2Jjdz09)<br/>Chair:  Sonika Tyagi | Biomed - [Join live session B](https://zoom.us/j/99215144759?pwd=STIrQ2lJQ0ZDTFo1enVrQWZUUHQ3Zz09)<br/>Chair: Jimmy Breen |
 |--+----------------+--------------|
 | 15:00 | Invited talk: **Paul Gardner**<br/>[Features of functional human genes](/Features-of-functional-human-genes/) | Invited talk: **Jessica Mar**<br/>[Making sense of heterogeneity in gene expression d...](/Making-sense-of-heterogeneity-in-gene-expression-data/) |
 | 15:10 |  |  |
@@ -49,8 +51,11 @@ Jump to [Tuesday](#tuesday-november-24th) \| [Wednesday](#wednesday-november-25t
 ## Wednesday November 25th
 
 
+10:30-12:30 - [Pre-conference networking in Remo "Canberra Cafe](https://live.remo.co/e/canberra-cafe-day-2-1/register)
+
+
 |--+----------------+--------------|
-|  | Phylodynamics & COVID19 - [Join live session A](https://zoom.us/j/96073342140?pwd=dnBwTHRHWjFvL2FieSs4QUV3S2Jjdz09) | Non-model - [Join live session B](https://zoom.us/j/99215144759?pwd=STIrQ2lJQ0ZDTFo1enVrQWZUUHQ3Zz09) |
+|  | Phylodynamics & COVID19 - [Join live session A](https://zoom.us/j/96073342140?pwd=dnBwTHRHWjFvL2FieSs4QUV3S2Jjdz09)<br/>Chair:  Fabio Zanini | Non-model - [Join live session B](https://zoom.us/j/99215144759?pwd=STIrQ2lJQ0ZDTFo1enVrQWZUUHQ3Zz09)<br/>Chair: Alexie Papanicolaou |
 |--+----------------+--------------|
 | 12:30 | Invited talk: **Torsten Seemann**<br/>[How bioinformatics and genomics helped Australia’s...](/How-bioinformatics-and-genomics-helped-Australia-s-COVID-response/) | Invited talk: **Karine Le Roch**<br/>[Comparative 3D Genome Organization in Apicomplexan...](/Comparative-3D-Genome-Organization-in-Apicomplexan-Parasites/) |
 | 12:40 |  |  |
@@ -67,7 +72,7 @@ Jump to [Tuesday](#tuesday-november-24th) \| [Wednesday](#wednesday-november-25t
 
 
 |--+----------------+--------------|
-|  | Methods and new technologies - [Join live session A](https://zoom.us/j/96073342140?pwd=dnBwTHRHWjFvL2FieSs4QUV3S2Jjdz09) | Transcriptomics / RNA - [Join live session B](https://zoom.us/j/99215144759?pwd=STIrQ2lJQ0ZDTFo1enVrQWZUUHQ3Zz09) |
+|  | Methods and new technologies - [Join live session A](https://zoom.us/j/96073342140?pwd=dnBwTHRHWjFvL2FieSs4QUV3S2Jjdz09)<br/>Chair:  Jean Yang | Transcriptomics / RNA - [Join live session B](https://zoom.us/j/99215144759?pwd=STIrQ2lJQ0ZDTFo1enVrQWZUUHQ3Zz09)<br/>Chair: Jean Wen |
 |--+----------------+--------------|
 | 14:50 | Invited talk: **Kim-Anh Lê Cao**<br/>[Navigating through ‘omics data: a multivariate per...](/Navigating-through-omics-data-a-multivariate-perspective/) | Invited talk: **Yue Wan**<br/>[Direct RNA sequencing identifies isoform specific ...](/Direct-RNA-sequencing-identifies-isoform-specific-structures/) |
 | 15:00 |  |  |
@@ -88,8 +93,11 @@ Jump to [Tuesday](#tuesday-november-24th) \| [Wednesday](#wednesday-november-25t
 ## Thursday November 26th
 
 
+10:30-12:30 - [Pre-conference networking in Remo "Canberra Cafe](https://live.remo.co/e/canberra-cafe-day-3-1/register)
+
+
 |--+----------------+--------------|
-|  | Indigenous Genomics - [Join live session A](https://zoom.us/j/96073342140?pwd=dnBwTHRHWjFvL2FieSs4QUV3S2Jjdz09) | Long reads - [Join live session B](https://zoom.us/j/99215144759?pwd=STIrQ2lJQ0ZDTFo1enVrQWZUUHQ3Zz09) |
+|  | Indigenous Genomics - [Join live session A](https://zoom.us/j/96073342140?pwd=dnBwTHRHWjFvL2FieSs4QUV3S2Jjdz09)<br/>Chair:  Bastien Llamas | Long reads - [Join live session B](https://zoom.us/j/99215144759?pwd=STIrQ2lJQ0ZDTFo1enVrQWZUUHQ3Zz09)<br/>Chair: Lachlan Coin |
 |--+----------------+--------------|
 | 12:30 | Invited talk: **Keolu Fox**<br/>[Creating accountability in human population geneti...](/Creating-accountability-in-human-population-genetics-using-base-editing-tools/) | Invited talk: **Karen Miga**<br/>[Telomere-to-Telomere Chromosome Assemblies: New In...](/Telomere-to-Telomere-Chromosome-Assemblies-New-Insights-Into-Genome-Biology-and-Structure/) |
 | 12:40 |  |  |
@@ -106,7 +114,7 @@ Jump to [Tuesday](#tuesday-november-24th) \| [Wednesday](#wednesday-november-25t
 
 
 |--+----------------+--------------|
-|  | Genomics - [Join live session A](https://zoom.us/j/96073342140?pwd=dnBwTHRHWjFvL2FieSs4QUV3S2Jjdz09) | Single cell - [Join live session B](https://zoom.us/j/99215144759?pwd=STIrQ2lJQ0ZDTFo1enVrQWZUUHQ3Zz09) |
+|  | Genomics - [Join live session A](https://zoom.us/j/96073342140?pwd=dnBwTHRHWjFvL2FieSs4QUV3S2Jjdz09)<br/>Chair:  Sarah Kummerfeld | Single cell - [Join live session B](https://zoom.us/j/99215144759?pwd=STIrQ2lJQ0ZDTFo1enVrQWZUUHQ3Zz09)<br/>Chair: Ellis Patrick |
 |--+----------------+--------------|
 | 14:30 | Invited talk: **Yu Lin**<br/>[Binning Metagenomic Sequences](/Binning-Metagenomic-Sequences/) | Invited talk: **Sara Ballouz**<br/>[Sex-specific co-expression: a baseline to explore ...](/Sex-specific-co-expression-a-baseline-to-explore-disease/) |
 | 14:40 |  |  |
@@ -119,7 +127,7 @@ Jump to [Tuesday](#tuesday-november-24th) \| [Wednesday](#wednesday-november-25t
 | 15:50 | Invited talk: **Phillippa Taberlay**<br/>[Recapitulation of a juvenile-like histone landscap...](/Recapitulation-of-a-juvenile-like-histone-landscape-in-aged-neurons/) | Invited talk: **Fabio Zanini**<br/>[Hypothesis generation in the age of cell atlases](/Hypothesis-generation-in-the-age-of-cell-atlases/) |
 | 16:10 | short break | short break |
 | 16:40 | COMBINE best talk |  |
-| 16:50 | Best poster award |  |
+| 16:50 | Best async talk award |  |
 | 17:00 | Conference close |  |
 
 
