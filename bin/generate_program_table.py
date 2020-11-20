@@ -97,14 +97,14 @@ Jump to [Tuesday](#tuesday-november-24th) \| [Wednesday](#wednesday-november-25t
 """
 print(md_string)
 print("\n## Tuesday November 24th\n")
-print('10:30-12:30 - [Pre-conference networking in Remo "Canberra Cafe]('+remo_pre_url_1+')\n\n')
+print('10:30-12:30 - [Pre-conference networking in Remo "Canberra Cafe"]('+remo_pre_url_1+')\n\n')
 print_schedule(df,1,json_data,remo_url_day_1, 'Networking session (invited speakers of the day, odd-numbered abstracts, sponsors)')
 print("\n## Wednesday November 25th\n\n")
-print('10:30-12:30 - [Pre-conference networking in Remo "Canberra Cafe]('+remo_pre_url_2+')\n\n')
+print('10:30-12:30 - [Pre-conference networking in Remo "Canberra Cafe"]('+remo_pre_url_2+')\n\n')
 print_schedule(df,5,json_data,remo_url_day_2, 'Networking session (invited speakers of the day, even-numbered abstracts, sponsors)')
 print("\n\n19:00-20:30 Social event in Remo ([Bioinformatics Quiz Night, click here to join]("+remo_url_social_night+"))\n")
 
 print("\n## Thursday November 26th\n\n")
-print('10:30-12:30 - [Pre-conference networking in Remo "Canberra Cafe]('+remo_pre_url_3+')\n\n')
+print('10:30-12:30 - [Pre-conference networking in Remo "Canberra Cafe"]('+remo_pre_url_3+')\n\n')
 print_schedule(df,9,json_data,remo_url_day_3, 'Networking session (invited speakers of the day, topic tables, sponsors)')
 print("\n\nJump to [Tuesday](#tuesday-november-24th) \| [Wednesday](#wednesday-november-25th) \| [Thursday](#thursday-november-26th)")

@@ -13,7 +13,7 @@ Jump to [Tuesday](#tuesday-november-24th) \| [Wednesday](#wednesday-november-25t
 
 ## Tuesday November 24th
 
-10:30-12:30 - [Pre-conference networking in Remo "Canberra Cafe](https://live.remo.co/e/canberra-cafe/register)
+10:30-12:30 - [Pre-conference networking in Remo "Canberra Cafe"](https://live.remo.co/e/canberra-cafe/register)
 
 
 |--+----------------+--------------|
@@ -51,7 +51,7 @@ Jump to [Tuesday](#tuesday-november-24th) \| [Wednesday](#wednesday-november-25t
 ## Wednesday November 25th
 
 
-10:30-12:30 - [Pre-conference networking in Remo "Canberra Cafe](https://live.remo.co/e/canberra-cafe-day-2-1/register)
+10:30-12:30 - [Pre-conference networking in Remo "Canberra Cafe"](https://live.remo.co/e/canberra-cafe-day-2-1/register)
 
 
 |--+----------------+--------------|
@@ -93,7 +93,7 @@ Jump to [Tuesday](#tuesday-november-24th) \| [Wednesday](#wednesday-november-25t
 ## Thursday November 26th
 
 
-10:30-12:30 - [Pre-conference networking in Remo "Canberra Cafe](https://live.remo.co/e/canberra-cafe-day-3-1/register)
+10:30-12:30 - [Pre-conference networking in Remo "Canberra Cafe"](https://live.remo.co/e/canberra-cafe-day-3-1/register)
 
 
 |--+----------------+--------------|
