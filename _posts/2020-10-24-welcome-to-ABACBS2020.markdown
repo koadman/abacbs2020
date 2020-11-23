@@ -17,4 +17,7 @@ tags:
 
 Welcome to the ABACBS2020 virtual conference site. This video introduces our conference format, and explains how you can use the web site features to have a valuable and interactive conference experience.
 
+In addition to the talk videos and zoom for live sessions, we have set up a conference slack for discussion.
+[Click here to join the conference slack.](https://join.slack.com/t/abacbs2020/shared_invite/zt-iws0iser-KTjl~iJ1pLhWgZguqAEgOg)
+
 Canberra title splash image courtesy Petaholmes, CC BY-SA 3.0 <http://creativecommons.org/licenses/by-sa/3.0/>, via Wikimedia Commons
