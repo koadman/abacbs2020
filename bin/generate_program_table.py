@@ -14,6 +14,21 @@ remo_pre_url_1 = 'https://live.remo.co/e/canberra-cafe/register'
 remo_pre_url_2 = 'https://live.remo.co/e/canberra-cafe-day-2-1/register'
 remo_pre_url_3 = 'https://live.remo.co/e/canberra-cafe-day-3-1/register'
 
+session_slacks = {
+'Plant Genomics':'https://app.slack.com/client/T01EVFXGBCY/C01DYVAQJ5C',
+'Metagenomics':'https://app.slack.com/client/T01EVFXGBCY/C01EVGM5U56',
+'Regulation':'https://app.slack.com/client/T01EVFXGBCY/C01EBS0DTEY',
+'Biomed':'https://app.slack.com/client/T01EVFXGBCY/C01EBS3AXT6',
+'Phylodynamics & COVID19':'https://app.slack.com/client/T01EVFXGBCY/C01DYV9TQ22',
+'Non-model':'https://app.slack.com/client/T01EVFXGBCY/C01EJAFQDT3',
+'Methods and new technologies':'https://app.slack.com/client/T01EVFXGBCY/C01DQUY1K39',
+'Transcriptomics / RNA':'https://app.slack.com/client/T01EVFXGBCY/C01E5T5E9NF',
+'Indigenous Genomics':'https://app.slack.com/client/T01EVFXGBCY/C01DYV71T8E',
+'Long reads':'https://app.slack.com/client/T01EVFXGBCY/C01EJA4NJC9',
+'Genomics':'https://app.slack.com/client/T01EVFXGBCY/C01E2JM6ZPF',
+'Single cell':'https://app.slack.com/client/T01EVFXGBCY/C01EBS1KUBE'
+}
+
 def get_entry(entry, json_data):
     if entry == 'nan': return ''
     num = entry[1:]
@@ -50,8 +65,10 @@ def print_schedule(df,base_col,json_data, remo_url, remo_text):
             title_2 = str(row[base_col+2]).split(',')
             session_titles = "|  | " + title_1[0] + \
             " - [Join live session A]("+track1_zoom_url+")<br/>Chair: "+title_1[1]+ \
+            " - [Session slack channel]("+session_slacks[title_1[0]]+")" + \
             " | " + title_2[0] + \
-            " - [Join live session B]("+track2_zoom_url+")<br/>Chair:"+title_2[1]+" |"
+            " - [Join live session B]("+track2_zoom_url+")<br/>Chair:"+title_2[1] + \
+            " - [Session slack channel]("+session_slacks[title_2[0]]+") |"
             print("|--+----------------+--------------|")
             print(session_titles)
             print("|--+----------------+--------------|")
