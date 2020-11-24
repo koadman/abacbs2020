@@ -4,8 +4,8 @@ title:  "The African Orphan Crops Consortium, alleviating stunting due to malnut
 comments: true
 category: plants_fungi
 description: "<b>Bernice Waweru</b><br/>The African Orphan Crops Consortium (AOCC) is a gl..."
-videoID: 
-optimized_image: 
+videoID: https://cloudstor.aarnet.edu.au/plus/s/8RXaXckD0ParZK3/download
+optimized_image: https://cloudstor.aarnet.edu.au/plus/s/dHqWc69zINbIBnM/download
 invited_talk: 1
 tags:
  - long reads
