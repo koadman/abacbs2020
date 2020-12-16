@@ -55,7 +55,7 @@ while(my $line=<STDIN>){
   $abstract{'talk_type'} = "session" if $line =~ /Decision:\<\/td\>.+?ACCEPT\<\/b\>\<\/td\>\<\/tr\>/;
   $abstract{'talk_type'} = "invited" if $line =~ /Decision:\<\/td\>.+?Invited Speaker\<\/b\>\<\/td\>\<\/tr\>/;
   $abstract{'talk_type'} = "async" if $line =~ /Decision:\<\/td\>.+?async\<\/td\>\<\/tr\>/;
-
+  $abstract{'public_archive'} = $1 if $line =~ /archive of the website\<\/td\>\<td class\=\"value\"\>(.+?)\<\/td\>/;
   if($line =~ /\<b\>Authors\<\/b\>\<\/td\>\<\/tr\>(.+?)\<\/tbody\>\<\/table\>\<\/div\>/){
     my $authors_block = $1;
     my @author_rows = split(/\<\/td\>\<\/tr\>/, $authors_block);
