@@ -3,30 +3,30 @@ import pandas as pd
 import json
 import sys
 
-track1_zoom_url = 'https://zoom.us/j/96073342140?pwd=dnBwTHRHWjFvL2FieSs4QUV3S2Jjdz09'
-track2_zoom_url = 'https://zoom.us/j/99215144759?pwd=STIrQ2lJQ0ZDTFo1enVrQWZUUHQ3Zz09'
-remo_url_day_1 = 'https://live.remo.co/e/abacbs2020-day-1/register'
-remo_url_day_2 = 'https://live.remo.co/e/abacbs2020-day-2/register'
-remo_url_day_3 = 'https://live.remo.co/e/abacbs2020-day-3/register'
-remo_url_social_night = 'https://live.remo.co/e/trivia-night-21/register'
-slack_url = 'https://join.slack.com/t/abacbs2020/shared_invite/zt-iws0iser-KTjl~iJ1pLhWgZguqAEgOg'
-remo_pre_url_1 = 'https://live.remo.co/e/canberra-cafe/register'
-remo_pre_url_2 = 'https://live.remo.co/e/canberra-cafe-day-2-1/register'
-remo_pre_url_3 = 'https://live.remo.co/e/canberra-cafe-day-3-1/register'
+track1_zoom_url = ''
+track2_zoom_url = ''
+remo_url_day_1 = ''
+remo_url_day_2 = ''
+remo_url_day_3 = ''
+remo_url_social_night = ''
+slack_url = ''
+remo_pre_url_1 = ''
+remo_pre_url_2 = ''
+remo_pre_url_3 = ''
 
 session_slacks = {
-'Plant Genomics':'https://app.slack.com/client/T01EVFXGBCY/C01DYVAQJ5C',
-'Metagenomics':'https://app.slack.com/client/T01EVFXGBCY/C01EVGM5U56',
-'Regulation':'https://app.slack.com/client/T01EVFXGBCY/C01EBS0DTEY',
-'Biomed':'https://app.slack.com/client/T01EVFXGBCY/C01EBS3AXT6',
-'Phylodynamics & COVID19':'https://app.slack.com/client/T01EVFXGBCY/C01DYV9TQ22',
-'Non-model':'https://app.slack.com/client/T01EVFXGBCY/C01EJAFQDT3',
-'Methods and new technologies':'https://app.slack.com/client/T01EVFXGBCY/C01DQUY1K39',
-'Transcriptomics / RNA':'https://app.slack.com/client/T01EVFXGBCY/C01E5T5E9NF',
-'Indigenous Genomics':'https://app.slack.com/client/T01EVFXGBCY/C01DYV71T8E',
-'Long reads':'https://app.slack.com/client/T01EVFXGBCY/C01EJA4NJC9',
-'Genomics':'https://app.slack.com/client/T01EVFXGBCY/C01E2JM6ZPF',
-'Single cell':'https://app.slack.com/client/T01EVFXGBCY/C01EBS1KUBE'
+'Plant Genomics':'',
+'Metagenomics':'',
+'Regulation':'',
+'Biomed':'',
+'Phylodynamics & COVID19':'',
+'Non-model':'',
+'Methods and new technologies':'',
+'Transcriptomics / RNA':'',
+'Indigenous Genomics':'',
+'Long reads':'',
+'Genomics':'',
+'Single cell':''
 }
 
 def get_entry(entry, json_data):

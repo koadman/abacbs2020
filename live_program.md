@@ -13,11 +13,11 @@ Jump to [Tuesday](#tuesday-november-24th) \| [Wednesday](#wednesday-november-25t
 
 ## Tuesday November 24th
 
-10:30-12:30 - [Pre-conference networking in Remo "Canberra Cafe"](https://live.remo.co/e/canberra-cafe/register)
+10:30-12:30 - [Pre-conference networking in Remo "Canberra Cafe"]()
 
 
 |--+----------------+--------------|
-|  | Plant Genomics - [Join live session A](https://zoom.us/j/96073342140?pwd=dnBwTHRHWjFvL2FieSs4QUV3S2Jjdz09)<br/>Chair:  Jen Taylor - [Session slack channel](https://app.slack.com/client/T01EVFXGBCY/C01DYVAQJ5C) | Metagenomics - [Join live session B](https://zoom.us/j/99215144759?pwd=STIrQ2lJQ0ZDTFo1enVrQWZUUHQ3Zz09)<br/>Chair: Aaron Darling - [Session slack channel](https://app.slack.com/client/T01EVFXGBCY/C01EVGM5U56) |
+|  | Plant Genomics - [Join live session A]()<br/>Chair:  Jen Taylor - [Session slack channel]() | Metagenomics - [Join live session B]()<br/>Chair: Aaron Darling - [Session slack channel]() |
 |--+----------------+--------------|
 | 12:30 | Invited talk: **Seung Rhee**<br/>[Challenges and Opportunities for Bioinformatics an...](/Challenges-and-Opportunities-for-Bioinformatics-and-Computational-Biology-in-Plant-Science/) | Invited talk: **Ami Bhatt**<br/>[Microproteins, Mobile Genetic elements and Strain-...](/Microproteins,-Mobile-Genetic-elements-and-Strain-level-resolution-in-the-microbiome-a-path-to-precision-medicine/) |
 | 12:40 |  |  |
@@ -31,11 +31,11 @@ Jump to [Tuesday](#tuesday-november-24th) \| [Wednesday](#wednesday-november-25t
 
 
 
- [Networking session (invited speakers of the day, odd-numbered abstracts, sponsors)](https://live.remo.co/e/abacbs2020-day-1/register)
+ [Networking session (invited speakers of the day, odd-numbered abstracts, sponsors)]()
 
 
 |--+----------------+--------------|
-|  | Regulation - [Join live session A](https://zoom.us/j/96073342140?pwd=dnBwTHRHWjFvL2FieSs4QUV3S2Jjdz09)<br/>Chair:  Sonika Tyagi - [Session slack channel](https://app.slack.com/client/T01EVFXGBCY/C01EBS0DTEY) | Biomed - [Join live session B](https://zoom.us/j/99215144759?pwd=STIrQ2lJQ0ZDTFo1enVrQWZUUHQ3Zz09)<br/>Chair: Jimmy Breen - [Session slack channel](https://app.slack.com/client/T01EVFXGBCY/C01EBS3AXT6) |
+|  | Regulation - [Join live session A]()<br/>Chair:  Sonika Tyagi - [Session slack channel]() | Biomed - [Join live session B]()<br/>Chair: Jimmy Breen - [Session slack channel]() |
 |--+----------------+--------------|
 | 15:00 | Invited talk: **Paul Gardner**<br/>[Features of functional human genes](/Features-of-functional-human-genes/) | Invited talk: **Jessica Mar**<br/>[Making sense of heterogeneity in gene expression d...](/Making-sense-of-heterogeneity-in-gene-expression-data/) |
 | 15:10 |  |  |
@@ -51,13 +51,13 @@ Jump to [Tuesday](#tuesday-november-24th) \| [Wednesday](#wednesday-november-25t
 ## Wednesday November 25th
 
 
-10:30-12:30 - [Pre-conference networking in Remo "Canberra Cafe"](https://live.remo.co/e/canberra-cafe-day-2-1/register)
+10:30-12:30 - [Pre-conference networking in Remo "Canberra Cafe"]()
 
 
 |--+----------------+--------------|
-|  | Phylodynamics & COVID19 - [Join live session A](https://zoom.us/j/96073342140?pwd=dnBwTHRHWjFvL2FieSs4QUV3S2Jjdz09)<br/>Chair:  Fabio Zanini - [Session slack channel](https://app.slack.com/client/T01EVFXGBCY/C01DYV9TQ22) | Non-model - [Join live session B](https://zoom.us/j/99215144759?pwd=STIrQ2lJQ0ZDTFo1enVrQWZUUHQ3Zz09)<br/>Chair: Alexie Papanicolaou - [Session slack channel](https://app.slack.com/client/T01EVFXGBCY/C01EJAFQDT3) |
+|  | Phylodynamics & COVID19 - [Join live session A]()<br/>Chair:  Fabio Zanini - [Session slack channel]() | Non-model - [Join live session B]()<br/>Chair: Alexie Papanicolaou - [Session slack channel]() |
 |--+----------------+--------------|
-| 12:30 | Invited talk: **Torsten Seemann**<br/>[How bioinformatics and genomics helped Australia’s...](/How-bioinformatics-and-genomics-helped-Australia-s-COVID-response/) | Invited talk: **Karine Le Roch**<br/>[Comparative 3D Genome Organization in Apicomplexan...](/Comparative-3D-Genome-Organization-in-Apicomplexan-Parasites/) |
+| 12:30 | Invited talk: **Torsten Seemann**<br/>[Complete microbial genomes for public health in Au...](/Complete-microbial-genomes-for-public-health-in-Australia-and-Southwest-Pacific/) | Invited talk: **Karine Le Roch**<br/>[Comparative 3D Genome Organization in Apicomplexan...](/Comparative-3D-Genome-Organization-in-Apicomplexan-Parasites/) |
 | 12:40 |  |  |
 | 12:50 | Clare Sloggett<br/>[AusTrakka – Working towards integrated pathogen ge...](/AusTrakka-Working-towards-integrated-pathogen-genomics-for-SARS-CoV-2/) | Aidan Tay<br/>[Developing a computational safeguard to detect gen...](/Developing-a-computational-safeguard-to-detect-gene-drive-systems-in-wild-populations/) |
 | 13:00 | Harman Singh<br/>[eMST, a scalable and interpretable method for Phyl...](/eMST,-a-scalable-and-interpretable-method-for-Phylogenetic-analysis-of-hundreds-and-thousands-of-SARS-CoV-2-genomes/) | Katarina Stuart<br/>[Whole transcripts in genome assembly, annotation, ...](/Whole-transcripts-in-genome-assembly,-annotation,-and-assessment-the-draft-genome-assembly-of-the-globally-invasive-common-starling,-Sturnus-vulgaris/) |
@@ -68,11 +68,11 @@ Jump to [Tuesday](#tuesday-november-24th) \| [Wednesday](#wednesday-november-25t
 
 
 
- [Networking session (invited speakers of the day, even-numbered abstracts, sponsors)](https://live.remo.co/e/abacbs2020-day-2/register)
+ [Networking session (invited speakers of the day, even-numbered abstracts, sponsors)]()
 
 
 |--+----------------+--------------|
-|  | Methods and new technologies - [Join live session A](https://zoom.us/j/96073342140?pwd=dnBwTHRHWjFvL2FieSs4QUV3S2Jjdz09)<br/>Chair:  Jean Yang - [Session slack channel](https://app.slack.com/client/T01EVFXGBCY/C01DQUY1K39) | Transcriptomics / RNA - [Join live session B](https://zoom.us/j/99215144759?pwd=STIrQ2lJQ0ZDTFo1enVrQWZUUHQ3Zz09)<br/>Chair: Jean Wen - [Session slack channel](https://app.slack.com/client/T01EVFXGBCY/C01E5T5E9NF) |
+|  | Methods and new technologies - [Join live session A]()<br/>Chair:  Jean Yang - [Session slack channel]() | Transcriptomics / RNA - [Join live session B]()<br/>Chair: Jean Wen - [Session slack channel]() |
 |--+----------------+--------------|
 | 14:50 | Invited talk: **Kim-Anh Lê Cao**<br/>[Navigating through ‘omics data: a multivariate per...](/Navigating-through-omics-data-a-multivariate-perspective/) | Invited talk: **Yue Wan**<br/>[Direct RNA sequencing identifies isoform specific ...](/Direct-RNA-sequencing-identifies-isoform-specific-structures/) |
 | 15:00 |  |  |
@@ -87,17 +87,17 @@ Jump to [Tuesday](#tuesday-november-24th) \| [Wednesday](#wednesday-november-25t
 | 17:30 | End | End |
 
 
-19:00-20:30 Social event in Remo ([Bioinformatics Quiz Night, click here to join](https://live.remo.co/e/trivia-night-21/register))
+19:00-20:30 Social event in Remo ([Bioinformatics Quiz Night, click here to join]())
 
 
 ## Thursday November 26th
 
 
-10:30-12:30 - [Pre-conference networking in Remo "Canberra Cafe"](https://live.remo.co/e/canberra-cafe-day-3-1/register)
+10:30-12:30 - [Pre-conference networking in Remo "Canberra Cafe"]()
 
 
 |--+----------------+--------------|
-|  | Indigenous Genomics - [Join live session A](https://zoom.us/j/96073342140?pwd=dnBwTHRHWjFvL2FieSs4QUV3S2Jjdz09)<br/>Chair:  Bastien Llamas - [Session slack channel](https://app.slack.com/client/T01EVFXGBCY/C01DYV71T8E) | Long reads - [Join live session B](https://zoom.us/j/99215144759?pwd=STIrQ2lJQ0ZDTFo1enVrQWZUUHQ3Zz09)<br/>Chair: Lachlan Coin - [Session slack channel](https://app.slack.com/client/T01EVFXGBCY/C01EJA4NJC9) |
+|  | Indigenous Genomics - [Join live session A]()<br/>Chair:  Bastien Llamas - [Session slack channel]() | Long reads - [Join live session B]()<br/>Chair: Lachlan Coin - [Session slack channel]() |
 |--+----------------+--------------|
 | 12:30 | Invited talk: **Keolu Fox**<br/>[Creating accountability in human population geneti...](/Creating-accountability-in-human-population-genetics-using-base-editing-tools/) | Invited talk: **Karen Miga**<br/>[Telomere-to-Telomere Chromosome Assemblies: New In...](/Telomere-to-Telomere-Chromosome-Assemblies-New-Insights-Into-Genome-Biology-and-Structure/) |
 | 12:40 |  |  |
@@ -110,11 +110,11 @@ Jump to [Tuesday](#tuesday-november-24th) \| [Wednesday](#wednesday-november-25t
 
 
 
- [Networking session (invited speakers of the day, topic tables, sponsors)](https://live.remo.co/e/abacbs2020-day-3/register)
+ [Networking session (invited speakers of the day, topic tables, sponsors)]()
 
 
 |--+----------------+--------------|
-|  | Genomics - [Join live session A](https://zoom.us/j/96073342140?pwd=dnBwTHRHWjFvL2FieSs4QUV3S2Jjdz09)<br/>Chair:  Sarah Kummerfeld - [Session slack channel](https://app.slack.com/client/T01EVFXGBCY/C01E2JM6ZPF) | Single cell - [Join live session B](https://zoom.us/j/99215144759?pwd=STIrQ2lJQ0ZDTFo1enVrQWZUUHQ3Zz09)<br/>Chair: Ellis Patrick - [Session slack channel](https://app.slack.com/client/T01EVFXGBCY/C01EBS1KUBE) |
+|  | Genomics - [Join live session A]()<br/>Chair:  Sarah Kummerfeld - [Session slack channel]() | Single cell - [Join live session B]()<br/>Chair: Ellis Patrick - [Session slack channel]() |
 |--+----------------+--------------|
 | 14:30 | Invited talk: **Yu Lin**<br/>[Binning Metagenomic Sequences](/Binning-Metagenomic-Sequences/) | Invited talk: **Sara Ballouz**<br/>[Sex-specific co-expression: a baseline to explore ...](/Sex-specific-co-expression-a-baseline-to-explore-disease/) |
 | 14:40 |  |  |
