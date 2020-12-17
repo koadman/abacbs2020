@@ -65,8 +65,8 @@ two_columns_layout: true
 
 
 # Advanced Settings
-baseurl: "/abacbs2020" # the subpath of your site, e.g. /blog
-url: "https://koadman.github.io" # the base hostname & protocol for your site
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://conference2020.abacbs.org" # the base hostname & protocol for your site
 #google_analytics: "UA-XXXXXXXX-X"
 language: "en"
 categories_folder: category
